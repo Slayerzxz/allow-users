@@ -3,6 +3,5 @@ return {
     "StaffordMakayla783", -- bazuka
     "kzrrzs4r", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
-    "itz_kadu22", -- Bazuka հվ 26/08/26 29/08/26
     "hdjdhdhurhrjtl" -- TUBERS93 AP 26/08/26 29/08/26
 }
