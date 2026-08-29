@@ -8,7 +8,7 @@ return {
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 27/08/26 12/01/54
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- max 29/08/26 13/01/54
-    "MV_ttk1234567", -- Yuki 29/08/26 14/01/54
+    "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "joaoking667", -- joaoexe66 29/08/26 29/09/26
     "XmoroAx" -- idkwhat_putinmyname_pop 29/08/26 01/09/26
 }
