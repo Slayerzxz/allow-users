@@ -7,5 +7,6 @@ return {
     "INC0MUUUU90", -- suzuya 27/08/26 25/11/26
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 27/08/26 12/01/54
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
-    "itz_blackzinh01" -- max 29/08/26 13/01/54
+    "itz_blackzinh01", -- max 29/08/26 13/01/54
+    "MV_ttk1234567" -- Yuki 29/08/26 14/01/54
 }
