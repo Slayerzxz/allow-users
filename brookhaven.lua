@@ -14,5 +14,6 @@ return {
     "Hiimnew928289alt2", -- 👑👑 30/08/26 04/09/26
     "Maria91062993", -- Slayer Hub | Admin 30/08/26 09/09/26
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
-    "S2_Maviiis" -- Bazuka հվ 30/08/26 26/05/29
+    "S2_Maviiis", -- Bazuka հվ 30/08/26 26/05/29
+    "7f7rr76v" -- brayan060781 30/08/26 02/09/26
 }
