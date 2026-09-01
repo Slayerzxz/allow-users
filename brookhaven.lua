@@ -15,5 +15,6 @@ return {
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
     "S2_Maviiis", -- Bazuka հվ 30/08/26 26/05/29
     "Keel_m5", -- دونا 31/08/26 01/10/26
-    "Riftod37" -- Dazzy 31/08/26 17/09/26
+    "Riftod37", -- Dazzy 31/08/26 17/09/26
+    "luquitas92381" -- Marcos 01/09/26 04/09/26
 }
