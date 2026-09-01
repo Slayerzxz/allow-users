@@ -10,7 +10,6 @@ return {
     "itz_blackzinh01", -- max 29/08/26 13/01/54
     "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "joaoking667", -- joaoexe66 29/08/26 29/09/26
-    "XmoroAx", -- idkwhat_putinmyname_pop 29/08/26 01/09/26
     "Hiimnew928289alt2", -- 👑👑 30/08/26 04/09/26
     "Maria91062993", -- Slayer Hub | Admin 30/08/26 09/09/26
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
