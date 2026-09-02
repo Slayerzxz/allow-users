@@ -22,5 +22,6 @@ return {
     "Hey_zPUDIM", -- ℂ𝔸𝔽𝟛ℤ𝕀ℕ ヅ 02/09/26 09/09/26
     "kau5330", -- Lipe7 02/09/26 09/09/26
     "lary_joaoesofi", -- . 02/09/26 09/09/26
-    "nicolas007zicapro" -- Nicolas 02/09/26 09/09/26
+    "nicolas007zicapro", -- Nicolas 02/09/26 09/09/26
+    "eo_vtz2" -- victor 02/09/26 09/09/26
 }
