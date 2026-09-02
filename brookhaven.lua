@@ -18,5 +18,6 @@ return {
     "luquitas92381", -- Marcos 01/09/26 04/09/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
     "Raphael38107", -- XxXxXxX 02/09/26 09/09/26
-    "ghost_26690" -- Levi 02/09/26 09/09/26
+    "ghost_26690", -- Levi 02/09/26 09/09/26
+    "Hey_zPUDIM" -- ℂ𝔸𝔽𝟛ℤ𝕀ℕ ヅ 02/09/26 09/09/26
 }
