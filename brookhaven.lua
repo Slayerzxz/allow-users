@@ -24,6 +24,5 @@ return {
     "lary_joaoesofi", -- . 02/09/26 09/09/26
     "nicolas007zicapro", -- Nicolas 02/09/26 09/09/26
     "eo_vtz2", -- victor 02/09/26 09/09/26
-    "Ramon_6390", -- SOARES 02/09/26 09/09/26
-    "Realfe23" -- Pedro_021 02/09/26 25/05/27
+    "Ramon_6390" -- SOARES 02/09/26 09/09/26
 }
