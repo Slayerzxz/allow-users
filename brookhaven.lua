@@ -31,5 +31,6 @@ return {
     "m4_pedrin", -- Pdhxn 03/09/26 04/09/26
     "rip_isagi123795", -- neclica_63373 03/09/26 10/09/26
     "lucasdogral4567", -- obalaa_ 03/09/26 10/09/26
-    "Teste" -- afogamentos 03/09/26 06/09/26
+    "Teste", -- afogamentos 03/09/26 06/09/26
+    "lushmart" -- afogamentos 03/09/26 06/09/26
 }
