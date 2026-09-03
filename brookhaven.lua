@@ -59,5 +59,6 @@ return {
     "cirumiao", -- fanfiammah 03/09/26 06/09/26
     "pudim_blox376", -- gotem_37218 03/09/26 06/09/26
     "leoo_pesadao", -- leozinscript 03/09/26 06/09/26
-    "Vetzoy125" -- 7_vetz_39779 03/09/26 06/09/26
+    "Vetzoy125", -- 7_vetz_39779 03/09/26 06/09/26
+    "victoria1233hack" -- tzd9jy28wrn090960 03/09/26 06/09/26
 }
