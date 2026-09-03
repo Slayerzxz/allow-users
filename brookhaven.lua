@@ -77,5 +77,6 @@ return {
     "apolo26750zx", -- gugu01373 03/09/26 06/09/26
     "byilhanet", -- charles202467 03/09/26 06/09/26
     "Felipe_21758", -- luisfelipe_62727 03/09/26 06/09/26
-    "Rlk_Dvz11" -- vullgo_dvz_47834 03/09/26 06/09/26
+    "Rlk_Dvz11", -- vullgo_dvz_47834 03/09/26 06/09/26
+    "kaue_bonito7" -- kaue_1230868 03/09/26 06/09/26
 }
