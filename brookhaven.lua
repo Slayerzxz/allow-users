@@ -45,5 +45,6 @@ return {
     "malvadinnratoso", -- mvvdlk1 03/09/26 06/09/26
     "mercuriobrx67", -- santozz0705_34103 03/09/26 06/09/26
     "Flenzynx3_humbled", -- kingzx0217 03/09/26 06/09/26
-    "TPKkiLLL" -- makoshii0633 03/09/26 06/09/26
+    "TPKkiLLL", -- makoshii0633 03/09/26 06/09/26
+    "lindo128958" -- luiz032492 03/09/26 06/09/26
 }
