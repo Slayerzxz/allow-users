@@ -90,5 +90,5 @@ return {
     "matheus45534", -- ys_edx. 03/09/26 06/09/26
     "Sub_Fk7xisZ", -- fiuk7xz.solo_94663 03/09/26 06/09/26
     "Otavio3D10", -- mysterioso._71615 03/09/26 06/09/26
-    "Surf_2261" -- Wagneriz 03/09/26 12/12/26
+    "Surf_2261" -- Wagneriz 03/09/26 30/05/29
 }
