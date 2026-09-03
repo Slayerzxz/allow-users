@@ -53,5 +53,6 @@ return {
     "Omar324w", -- fireflame324 03/09/26 06/09/26
     "hahahah", -- noman04550 03/09/26 06/09/26
     "standinawenc", -- vito017233 03/09/26 06/09/26
-    "Horuxo12" -- ztrx0646 03/09/26 06/09/26
+    "Horuxo12", -- ztrx0646 03/09/26 06/09/26
+    "Hatimle82" -- hatim352. 03/09/26 06/09/26
 }
