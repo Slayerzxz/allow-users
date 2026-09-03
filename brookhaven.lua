@@ -38,5 +38,6 @@ return {
     "RIP_TATSS", -- eorichardzn 03/09/26 06/09/26
     "fellipe_criax", -- exucaveirao 03/09/26 06/09/26
     "Guilherme2014rips4", -- adonaixit 03/09/26 06/09/26
-    "murilo_fzx" -- unknowxiter_ 03/09/26 06/09/26
+    "murilo_fzx", -- unknowxiter_ 03/09/26 06/09/26
+    "eudgdgudheheh" -- marcosxd0527_46749 03/09/26 06/09/26
 }
