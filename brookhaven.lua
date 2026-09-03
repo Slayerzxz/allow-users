@@ -57,5 +57,6 @@ return {
     "Hatimle82", -- hatim352. 03/09/26 06/09/26
     "Baconhello990", -- 9_artem_9 03/09/26 06/09/26
     "cirumiao", -- fanfiammah 03/09/26 06/09/26
-    "pudim_blox376" -- gotem_37218 03/09/26 06/09/26
+    "pudim_blox376", -- gotem_37218 03/09/26 06/09/26
+    "leoo_pesadao" -- leozinscript 03/09/26 06/09/26
 }
