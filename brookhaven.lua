@@ -62,5 +62,6 @@ return {
     "Vetzoy125", -- 7_vetz_39779 03/09/26 06/09/26
     "victoria1233hack", -- tzd9jy28wrn090960 03/09/26 06/09/26
     "balanacarecav2", -- enzoo3261 03/09/26 06/09/26
-    "Davi_ksks011" -- 01adc 03/09/26 06/09/26
+    "Davi_ksks011", -- 01adc 03/09/26 06/09/26
+    "Nikita43Omg" -- n1k1010 03/09/26 06/09/26
 }
