@@ -48,5 +48,6 @@ return {
     "TPKkiLLL", -- makoshii0633 03/09/26 06/09/26
     "lindo128958", -- luiz032492 03/09/26 06/09/26
     "HorroresGame", -- drezzyzadas 03/09/26 06/09/26
-    "XmoroAx" -- idkwhat_putinmyname_pop 03/09/26 06/09/26
+    "XmoroAx", -- idkwhat_putinmyname_pop 03/09/26 06/09/26
+    "6hey_yeh90" -- alessandro_1234567890 03/09/26 06/09/26
 }
