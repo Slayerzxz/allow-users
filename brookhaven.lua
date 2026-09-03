@@ -68,5 +68,6 @@ return {
     "Ziad_25k", -- drip_rico 03/09/26 06/09/26
     "Reipatodonald", -- billy011737 03/09/26 06/09/26
     "jacintoMatador058", -- cabritozin_08486 03/09/26 06/09/26
-    "lengemdary4" -- braiz804 03/09/26 06/09/26
+    "lengemdary4", -- braiz804 03/09/26 06/09/26
+    "santi2223bbknvhc" -- santiago009284 03/09/26 06/09/26
 }
