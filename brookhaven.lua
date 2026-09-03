@@ -86,5 +86,6 @@ return {
     "dark155135", -- izumi._.4 03/09/26 06/09/26
     "dudusourei8", -- lucifer7666sj 03/09/26 06/09/26
     "lucianodum0", -- pintodavi 03/09/26 06/09/26
-    "leoXD12007" -- mati03492 03/09/26 06/09/26
+    "leoXD12007", -- mati03492 03/09/26 06/09/26
+    "matheus45534" -- ys_edx. 03/09/26 06/09/26
 }
