@@ -82,5 +82,6 @@ return {
     "ITACHI_UCHIHA24362", -- caioxp111 03/09/26 06/09/26
     "bazuka", -- tetakonobeco_75352 03/09/26 06/09/26
     "cobridjd", -- nathan244l_84046 03/09/26 06/09/26
-    "miguel_100733" -- vitor170549 03/09/26 06/09/26
+    "miguel_100733", -- vitor170549 03/09/26 06/09/26
+    "dark155135" -- izumi._.4 03/09/26 06/09/26
 }
