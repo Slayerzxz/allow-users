@@ -35,5 +35,6 @@ return {
     "lushmart", -- afogamentos 03/09/26 06/09/26
     "kicfnhbjf", -- veld_123 03/09/26 06/09/26
     "hdhdumshw", -- hhehd0684 03/09/26 06/09/26
-    "RIP_TATSS" -- eorichardzn 03/09/26 06/09/26
+    "RIP_TATSS", -- eorichardzn 03/09/26 06/09/26
+    "fellipe_criax" -- exucaveirao 03/09/26 06/09/26
 }
