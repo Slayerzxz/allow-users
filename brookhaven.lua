@@ -66,5 +66,6 @@ return {
     "Nikita43Omg", -- n1k1010 03/09/26 06/09/26
     "roblox_user_4176257708", -- david_gk12 03/09/26 06/09/26
     "Ziad_25k", -- drip_rico 03/09/26 06/09/26
-    "Reipatodonald" -- billy011737 03/09/26 06/09/26
+    "Reipatodonald", -- billy011737 03/09/26 06/09/26
+    "jacintoMatador058" -- cabritozin_08486 03/09/26 06/09/26
 }
