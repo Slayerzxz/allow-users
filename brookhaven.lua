@@ -42,5 +42,6 @@ return {
     "eudgdgudheheh", -- marcosxd0527_46749 03/09/26 06/09/26
     "otavio_premium", -- otavio9174295 03/09/26 06/09/26
     "PulseBuc", -- monarchyxz_ 03/09/26 06/09/26
-    "malvadinnratoso" -- mvvdlk1 03/09/26 06/09/26
+    "malvadinnratoso", -- mvvdlk1 03/09/26 06/09/26
+    "mercuriobrx67" -- santozz0705_34103 03/09/26 06/09/26
 }
