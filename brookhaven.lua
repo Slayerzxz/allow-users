@@ -51,5 +51,6 @@ return {
     "XmoroAx", -- idkwhat_putinmyname_pop 03/09/26 06/09/26
     "6hey_yeh90", -- alessandro_1234567890 03/09/26 06/09/26
     "Omar324w", -- fireflame324 03/09/26 06/09/26
-    "hahahah" -- noman04550 03/09/26 06/09/26
+    "hahahah", -- noman04550 03/09/26 06/09/26
+    "standinawenc" -- vito017233 03/09/26 06/09/26
 }
