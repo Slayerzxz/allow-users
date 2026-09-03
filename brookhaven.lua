@@ -80,5 +80,6 @@ return {
     "Rlk_Dvz11", -- vullgo_dvz_47834 03/09/26 06/09/26
     "kaue_bonito7", -- kaue_1230868 03/09/26 06/09/26
     "ITACHI_UCHIHA24362", -- caioxp111 03/09/26 06/09/26
-    "bazuka" -- tetakonobeco_75352 03/09/26 06/09/26
+    "bazuka", -- tetakonobeco_75352 03/09/26 06/09/26
+    "cobridjd" -- nathan244l_84046 03/09/26 06/09/26
 }
