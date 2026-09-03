@@ -70,5 +70,6 @@ return {
     "jacintoMatador058", -- cabritozin_08486 03/09/26 06/09/26
     "lengemdary4", -- braiz804 03/09/26 06/09/26
     "santi2223bbknvhc", -- santiago009284 03/09/26 06/09/26
-    "kallebplayof" -- skyleess0 03/09/26 06/09/26
+    "kallebplayof", -- skyleess0 03/09/26 06/09/26
+    "Johnrairo" -- dhx.00_17917 03/09/26 06/09/26
 }
