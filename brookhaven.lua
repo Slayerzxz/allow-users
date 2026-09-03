@@ -29,5 +29,6 @@ return {
     "Madaranoobb80", -- Beatriz 02/09/26 05/09/26
     "lorenzOo_1589" -- Gugugaga 02/09/26 02/10/26,
     "Luangabry5" -- goiano0622 03/09/26 10/09/26,
-    "ixi362" -- ixi362. 03/09/26 10/09/26
+    "ixi362" -- ixi362. 03/09/26 10/09/26,
+    "m4_pedrin" -- nossalobomal0111 03/09/26 10/09/26
 }
