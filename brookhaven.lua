@@ -74,5 +74,6 @@ return {
     "Johnrairo", -- dhx.00_17917 03/09/26 06/09/26
     "negozioaccount6", -- negozioaccount7 03/09/26 06/09/26
     "slk_karol556", -- fernands234 03/09/26 06/09/26
-    "capudo242424" -- slvvzkrai 03/09/26 06/09/26
+    "capudo242424", -- slvvzkrai 03/09/26 06/09/26
+    "apolo26750zx" -- gugu01373 03/09/26 06/09/26
 }
