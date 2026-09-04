@@ -93,5 +93,6 @@ return {
     "Surf_2261", -- Wagneriz 03/09/26 30/05/29
     "5nnel", -- Araz 03/09/26 06/09/26
     "666x6663o", -- Tnt_Stree_life 03/09/26 06/09/26
-    "jhonnysiuza9" -- jhonny244_. 03/09/26 06/09/26
+    "jhonnysiuza9", -- jhonny244_. 03/09/26 06/09/26
+    "kauaenay" -- kaue082039 03/09/26 06/09/26
 }
