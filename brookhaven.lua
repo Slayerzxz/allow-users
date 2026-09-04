@@ -101,5 +101,6 @@ return {
     "dan_luiz666", -- jefin_da_boca 03/09/26 06/09/26
     "tomzinhojj", -- draxmdx_51131 03/09/26 06/09/26
     "Amanda1264353", -- nicolaszinn0939 03/09/26 06/09/26
-    "GhostTinyBear" -- luiz084127 03/09/26 06/09/26
+    "GhostTinyBear", -- luiz084127 03/09/26 06/09/26
+    "apelao_302" -- thiaguinho7320 03/09/26 06/09/26
 }
