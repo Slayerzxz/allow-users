@@ -106,6 +106,5 @@ return {
     "PREFIRO_FREEFIRE047", -- comeveia0713_10673 03/09/26 06/09/26
     "kamily128374646", -- alice06004 04/09/26 07/09/26
     "davi_pa99h", -- daviflores0302 04/09/26 07/09/26
-    "baconlindissmo31", -- yu050171 04/09/26 07/09/26
-    "lucifer7666sj" -- Lúcifer 04/09/26 19/06/00
+    "baconlindissmo31" -- yu050171 04/09/26 07/09/26
 }
