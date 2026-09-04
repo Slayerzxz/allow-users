@@ -9,13 +9,11 @@ return {
     "itz_blackzinh01", -- max 29/08/26 13/01/54
     "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "joaoking667", -- joaoexe66 29/08/26 29/09/26
-    "Hiimnew928289alt2", -- 👑👑 30/08/26 04/09/26
     "Maria91062993", -- Slayer Hub | Admin 30/08/26 09/09/26
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
     "S2_Maviiis", -- Bazuka հվ 30/08/26 26/05/29
     "Keel_m5", -- دونا 31/08/26 01/10/26
     "Riftod37", -- Dazzy 03/09/26 28/09/26
-    "luquitas92381", -- Marcos 01/09/26 04/09/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
     "Raphael38107", -- XxXxXxX 03/09/26 04/10/26
     "ghost_26690", -- Levi 02/09/26 09/09/26
