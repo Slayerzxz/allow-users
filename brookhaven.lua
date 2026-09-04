@@ -102,5 +102,6 @@ return {
     "tomzinhojj", -- draxmdx_51131 03/09/26 06/09/26
     "Amanda1264353", -- nicolaszinn0939 03/09/26 06/09/26
     "GhostTinyBear", -- luiz084127 03/09/26 06/09/26
-    "apelao_302" -- thiaguinho7320 03/09/26 06/09/26
+    "apelao_302", -- thiaguinho7320 03/09/26 06/09/26
+    "shninja3344" -- daniel0130458 03/09/26 06/09/26
 }
