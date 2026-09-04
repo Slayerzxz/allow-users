@@ -104,5 +104,6 @@ return {
     "GhostTinyBear", -- luiz084127 03/09/26 06/09/26
     "apelao_302", -- thiaguinho7320 03/09/26 06/09/26
     "shninja3344", -- daniel0130458 03/09/26 06/09/26
-    "Rip_zonedes" -- carlosmebeixa 03/09/26 06/09/26
+    "Rip_zonedes", -- carlosmebeixa 03/09/26 06/09/26
+    "PREFIRO_FREEFIRE047" -- comeveia0713_10673 03/09/26 06/09/26
 }
