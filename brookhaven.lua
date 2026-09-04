@@ -97,5 +97,6 @@ return {
     "kauaenay", -- kaue082039 03/09/26 06/09/26
     "V4lkblen736", -- leonardo990544 03/09/26 06/09/26
     "yakov812307", -- yantitas36 03/09/26 06/09/26
-    "teajudonono99" -- daviziin0581 03/09/26 06/09/26
+    "teajudonono99", -- daviziin0581 03/09/26 06/09/26
+    "dan_luiz666" -- jefin_da_boca 03/09/26 06/09/26
 }
