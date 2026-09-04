@@ -106,5 +106,6 @@ return {
     "shninja3344", -- daniel0130458 03/09/26 06/09/26
     "Rip_zonedes", -- carlosmebeixa 03/09/26 06/09/26
     "PREFIRO_FREEFIRE047", -- comeveia0713_10673 03/09/26 06/09/26
-    "kamily128374646" -- alice06004 04/09/26 07/09/26
+    "kamily128374646", -- alice06004 04/09/26 07/09/26
+    "davi_pa99h" -- daviflores0302 04/09/26 07/09/26
 }
