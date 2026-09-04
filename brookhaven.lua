@@ -95,5 +95,6 @@ return {
     "666x6663o", -- Tnt_Stree_life 03/09/26 06/09/26
     "jhonnysiuza9", -- jhonny244_. 03/09/26 06/09/26
     "kauaenay", -- kaue082039 03/09/26 06/09/26
-    "V4lkblen736" -- leonardo990544 03/09/26 06/09/26
+    "V4lkblen736", -- leonardo990544 03/09/26 06/09/26
+    "yakov812307" -- yantitas36 03/09/26 06/09/26
 }
