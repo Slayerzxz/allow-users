@@ -123,5 +123,6 @@ return {
     "kawazaki2812", -- kaio025933 05/09/26 08/09/26
     "ooliverandreee", -- nando005301 05/09/26 08/09/26
     "Angel123hu8", -- angelito090256 05/09/26 08/09/26
-    "Chiquerrimo22" -- manodarkz 05/09/26 08/09/26
+    "Chiquerrimo22", -- manodarkz 05/09/26 08/09/26
+    "RUBENS244741" -- 021_rubens 05/09/26 08/09/26
 }
