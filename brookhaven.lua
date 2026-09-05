@@ -75,7 +75,6 @@ return {
     "Felipe_21758", -- luisfelipe_62727 03/09/26 06/09/26
     "Rlk_Dvz11", -- vullgo_dvz_47834 03/09/26 06/09/26
     "kaue_bonito7", -- kaue_1230868 03/09/26 06/09/26
-    "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 05/09/26 20/06/00
     "bazuka", -- tetakonobeco_75352 03/09/26 06/09/26
     "cobridjd", -- nathan244l_84046 03/09/26 06/09/26
     "miguel_100733", -- vitor170549 03/09/26 06/09/26
