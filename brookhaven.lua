@@ -112,5 +112,6 @@ return {
     "vitorlimalimalima", -- pj_.0573_11363 05/09/26 08/09/26
     "hdjdhdhurhrjtl", -- mmbielzinn_57275 05/09/26 08/09/26
     "biiel10816", -- menor_g0gaiw 05/09/26 08/09/26
-    "neymargoat_99" -- gt0104_77424 05/09/26 08/09/26
+    "neymargoat_99", -- gt0104_77424 05/09/26 08/09/26
+    "Kaio_220616" -- arthurzin098 05/09/26 08/09/26
 }
