@@ -109,5 +109,6 @@ return {
     "Rip_isagi123795", -- Bachira🐝 05/09/26 10/09/26
     "DJ_GIZIM12358", -- dervXbnz 05/09/26 10/09/26
     "madaranoobb80", -- Beatriz 05/09/26 10/09/26
-    "vitorlimalimalima" -- pj_.0573_11363 05/09/26 08/09/26
+    "vitorlimalimalima", -- pj_.0573_11363 05/09/26 08/09/26
+    "hdjdhdhurhrjtl" -- mmbielzinn_57275 05/09/26 08/09/26
 }
