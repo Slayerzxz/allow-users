@@ -130,5 +130,4 @@ return {
     "talysonsil", -- thomas_sbelby 05/09/26 08/09/26
     "ufolopo", -- lipe.blox 05/09/26 08/09/26
     "LZIN_SP", -- gh09704 05/09/26 08/09/26
-    "ITACHI_UCHIHA24362" -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 05/09/26 20/06/00
 }
