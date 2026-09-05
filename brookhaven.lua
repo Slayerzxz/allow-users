@@ -25,7 +25,6 @@ return {
     "Ramon_6390", -- Soares🇩🇪 03/09/26 10/09/26
     "Realfe23", -- Pedro_021 02/09/26 02/10/26
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
-    "m4_pedrin", -- Pdhxn 03/09/26 10/09/26
     "rip_isagi123795", -- neclica_63373 03/09/26 10/09/26
     "lucasdogral4567", -- obalaa_ 03/09/26 10/09/26
     "lushmart", -- afogamentos 03/09/26 06/09/26
