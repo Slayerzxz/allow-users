@@ -132,5 +132,6 @@ return {
     "LZIN_SP", -- gh09704 05/09/26 08/09/26
     "Hacks1Hav3", -- busy_cheetah_84495 05/09/26 08/09/26
     "gabrieujjjii", -- jusapex. 05/09/26 08/09/26
-    "jester9729" -- Jvzin 05/09/26 20/01/54
+    "jester9729", -- Jvzin 05/09/26 20/01/54
+    "9nn9_anniesister" -- sys928_ 05/09/26 08/09/26
 }
