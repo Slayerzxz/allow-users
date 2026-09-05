@@ -120,5 +120,6 @@ return {
     "Mandrakedjfif6", -- pobreplsfrutaveneno_14635 05/09/26 08/09/26
     "bayron", -- faster_glock 05/09/26 08/09/26
     "cadres_212", -- sm.xx_zl_42208 05/09/26 08/09/26
-    "kawazaki2812" -- kaio025933 05/09/26 08/09/26
+    "kawazaki2812", -- kaio025933 05/09/26 08/09/26
+    "ooliverandreee" -- nando005301 05/09/26 08/09/26
 }
