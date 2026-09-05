@@ -115,5 +115,6 @@ return {
     "neymargoat_99", -- gt0104_77424 05/09/26 08/09/26
     "Kaio_220616", -- arthurzin098 05/09/26 08/09/26
     "blackn444hey", -- Coringa 05/09/26 05/10/26
-    "roblox038pk" -- Little Haze 05/09/26 08/09/26
+    "roblox038pk", -- Little Haze 05/09/26 08/09/26
+    "Lizwxy9" -- lipezinho_chuh 05/09/26 08/09/26
 }
