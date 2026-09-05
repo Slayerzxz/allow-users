@@ -118,5 +118,6 @@ return {
     "roblox038pk", -- Little Haze 05/09/26 08/09/26
     "Lizwxy9", -- lipezinho_chuh 05/09/26 08/09/26
     "jahmeil12334", -- shz_calvo_71650 05/09/26 08/09/26
-    "Mandrakedjfif6" -- pobreplsfrutaveneno_14635 05/09/26 08/09/26
+    "Mandrakedjfif6", -- pobreplsfrutaveneno_14635 05/09/26 08/09/26
+    "bayron" -- faster_glock 05/09/26 08/09/26
 }
