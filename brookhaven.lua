@@ -128,5 +128,6 @@ return {
     "reyoscuro_350", -- santielinsano9944 05/09/26 08/09/26
     "Sadboy_LIEB", -- 2008victor_77258 05/09/26 08/09/26
     "talysonsil", -- thomas_sbelby 05/09/26 08/09/26
-    "ufolopo" -- lipe.blox 05/09/26 08/09/26
+    "ufolopo", -- lipe.blox 05/09/26 08/09/26
+    "LZIN_SP" -- gh09704 05/09/26 08/09/26
 }
