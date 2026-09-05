@@ -124,5 +124,6 @@ return {
     "Angel123hu8", -- angelito090256 05/09/26 08/09/26
     "Chiquerrimo22", -- manodarkz 05/09/26 08/09/26
     "RUBENS244741", -- 021_rubens 05/09/26 08/09/26
-    "MoranSpencera95" -- luffy00864 05/09/26 08/09/26
+    "MoranSpencera95", -- luffy00864 05/09/26 08/09/26
+    "reyoscuro_350" -- santielinsano9944 05/09/26 08/09/26
 }
