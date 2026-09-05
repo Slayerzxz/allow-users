@@ -106,5 +106,6 @@ return {
     "kamily128374646", -- alice06004 04/09/26 07/09/26
     "davi_pa99h", -- daviflores0302 04/09/26 07/09/26
     "baconlindissmo31", -- yu050171 04/09/26 07/09/26
-    "Rip_isagi123795" -- Bachira🐝 05/09/26 10/09/26
+    "Rip_isagi123795", -- Bachira🐝 05/09/26 10/09/26
+    "DJ_GIZIM12358" -- dervXbnz 05/09/26 10/09/26
 }
