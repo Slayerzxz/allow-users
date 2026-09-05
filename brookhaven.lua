@@ -117,5 +117,6 @@ return {
     "blackn444hey", -- Coringa 05/09/26 05/10/26
     "roblox038pk", -- Little Haze 05/09/26 08/09/26
     "Lizwxy9", -- lipezinho_chuh 05/09/26 08/09/26
-    "jahmeil12334" -- shz_calvo_71650 05/09/26 08/09/26
+    "jahmeil12334", -- shz_calvo_71650 05/09/26 08/09/26
+    "Mandrakedjfif6" -- pobreplsfrutaveneno_14635 05/09/26 08/09/26
 }
