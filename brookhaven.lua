@@ -139,5 +139,6 @@ return {
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "7f7rr76v", -- brayan060781 05/09/26 08/09/26
     "Adrian_gameryt0", -- adrianxzn_ 05/09/26 08/09/26
-    "umboyqualquer0011" -- rafael014508 05/09/26 08/09/26
+    "umboyqualquer0011", -- rafael014508 05/09/26 08/09/26
+    "felicidade955" -- carlos67noob_81784 05/09/26 08/09/26
 }
