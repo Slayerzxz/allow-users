@@ -69,7 +69,6 @@ return {
     "umboyqualquer0011", -- rafael014508 05/09/26 08/09/26
     "felicidade955", -- carlos67noob_81784 05/09/26 08/09/26
     "GUI_FDF123", -- guilherme096984 05/09/26 08/09/26
-    "kawasaki2812", -- Kaio 05/09/26 21/01/54
     "HuynhdinhBGLYS", -- Loritta 06/09/26 11/09/26
     "L7PEDRO_GELADO" -- XxXxXxX 06/09/26 07/09/26
 }
