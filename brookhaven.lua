@@ -74,5 +74,6 @@ return {
     "Auraz_182", -- 𝔄𝔘ℜ𝔄ℨ_ 06/09/26 07/09/26
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
     "sombr229", -- spinossaurs 06/09/26 09/09/26
-    "alusonve" -- alias087909 06/09/26 09/09/26
+    "alusonve", -- alias087909 06/09/26 09/09/26
+    "morry_rendell" -- alleyzinho138 06/09/26 09/09/26
 }
