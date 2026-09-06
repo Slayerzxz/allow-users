@@ -71,5 +71,6 @@ return {
     "GUI_FDF123", -- guilherme096984 05/09/26 08/09/26
     "HuynhdinhBGLYS", -- Loritta 06/09/26 11/09/26
     "L7PEDRO_GELADO", -- XxXxXxX 06/09/26 07/09/26
-    "kawazaki2812" -- Kaio 06/09/26 21/06/00
+    "kawazaki2812", -- Kaio 06/09/26 21/06/00
+    "Auraz_182" -- 𝔄𝔘ℜ𝔄ℨ_ 06/09/26 07/09/26
 }
