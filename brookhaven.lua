@@ -46,7 +46,6 @@ return {
     "Mandrakedjfif6", -- pobreplsfrutaveneno_14635 05/09/26 08/09/26
     "bayron", -- faster_glock 05/09/26 08/09/26
     "cadres_212", -- sm.xx_zl_42208 05/09/26 08/09/26
-    "kawazaki2812", -- Kaio 06/09/26 21/01/54
     "ooliverandreee", -- nando005301 05/09/26 08/09/26
     "Angel123hu8", -- angelito090256 05/09/26 08/09/26
     "Chiquerrimo22", -- manodarkz 05/09/26 08/09/26
