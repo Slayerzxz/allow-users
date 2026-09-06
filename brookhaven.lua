@@ -80,5 +80,6 @@ return {
     "botinha_W", -- biel06814 06/09/26 09/09/26
     "mk_malcriaduh021", -- mk018757._10861 06/09/26 09/09/26
     "botinho_M", -- coroa_dograu 06/09/26 09/09/26
-    "cantanguandi2" -- enjoavas 06/09/26 09/09/26
+    "cantanguandi2", -- enjoavas 06/09/26 09/09/26
+    "bluxxy1829" -- carlosalbert0653 06/09/26 09/09/26
 }
