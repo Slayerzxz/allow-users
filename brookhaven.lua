@@ -93,7 +93,6 @@ return {
     "V4lkblen736", -- leonardo990544 03/09/26 06/09/26
     "yakov812307", -- yantitas36 03/09/26 06/09/26
     "teajudonono99", -- daviziin0581 03/09/26 06/09/26
-    "dan_luiz666", -- Dennys 05/09/26 17/01/27
     "tomzinhojj", -- draxmdx_51131 03/09/26 06/09/26
     "Amanda1264353", -- nicolaszinn0939 03/09/26 06/09/26
     "GhostTinyBear", -- luiz084127 03/09/26 06/09/26
