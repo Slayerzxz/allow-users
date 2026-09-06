@@ -75,5 +75,6 @@ return {
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
     "sombr229", -- spinossaurs 06/09/26 09/09/26
     "alusonve", -- alias087909 06/09/26 09/09/26
-    "morry_rendell" -- alleyzinho138 06/09/26 09/09/26
+    "morry_rendell", -- alleyzinho138 06/09/26 09/09/26
+    "vitordovtz" -- rafaelfelipe1pp5_39294 06/09/26 09/09/26
 }
