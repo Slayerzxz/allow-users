@@ -76,5 +76,6 @@ return {
     "sombr229", -- spinossaurs 06/09/26 09/09/26
     "alusonve", -- alias087909 06/09/26 09/09/26
     "morry_rendell", -- alleyzinho138 06/09/26 09/09/26
-    "vitordovtz" -- rafaelfelipe1pp5_39294 06/09/26 09/09/26
+    "vitordovtz", -- rafaelfelipe1pp5_39294 06/09/26 09/09/26
+    "botinha_W" -- biel06814 06/09/26 09/09/26
 }
