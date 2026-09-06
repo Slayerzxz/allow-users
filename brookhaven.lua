@@ -84,5 +84,6 @@ return {
     "bluxxy1829", -- carlosalbert0653 06/09/26 09/09/26
     "Cobridjd", -- 7Dxxz 06/09/26 06/10/26
     "furkan_selim", -- furkan310647 06/09/26 09/09/26
-    "dudusourei8" -- Lúcifer 06/09/26 22/01/54
+    "dudusourei8", -- Lúcifer 06/09/26 22/01/54
+    "LunaRougee" -- Suzuya 06/09/26 22/02/29
 }
