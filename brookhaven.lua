@@ -78,5 +78,6 @@ return {
     "morry_rendell", -- alleyzinho138 06/09/26 09/09/26
     "vitordovtz", -- rafaelfelipe1pp5_39294 06/09/26 09/09/26
     "botinha_W", -- biel06814 06/09/26 09/09/26
-    "mk_malcriaduh021" -- mk018757._10861 06/09/26 09/09/26
+    "mk_malcriaduh021", -- mk018757._10861 06/09/26 09/09/26
+    "botinho_M" -- coroa_dograu 06/09/26 09/09/26
 }
