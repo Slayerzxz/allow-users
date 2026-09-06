@@ -135,5 +135,6 @@ return {
     "FFH4XV79J", -- joaogabriel083198 05/09/26 08/09/26
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 05/09/26 20/01/54
     "Kawasaki2812", -- Kaio 05/09/26 05/10/26
-    "cristiano67r68w9" -- neymar066193 05/09/26 08/09/26
+    "cristiano67r68w9", -- neymar066193 05/09/26 08/09/26
+    "dan_luiz666" -- Dennys 05/09/26 03/01/27
 }
