@@ -86,5 +86,6 @@ return {
     "furkan_selim", -- furkan310647 06/09/26 09/09/26
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "LunaRougee", -- Suzuya 06/09/26 22/02/29
-    "matheus_itz00" -- astrozad 06/09/26 09/09/26
+    "matheus_itz00", -- astrozad 06/09/26 09/09/26
+    "gustavi130214" -- ruin_do_ap 06/09/26 09/09/26
 }
