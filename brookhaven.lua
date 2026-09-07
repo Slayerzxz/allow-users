@@ -26,7 +26,6 @@ return {
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
     "rip_isagi123795", -- neclica_63373 03/09/26 10/09/26
     "lucasdogral4567", -- obalaa_ 03/09/26 10/09/26
-    "Surf_2261", -- Wagneriz 03/09/26 30/05/29
     "Rip_isagi123795", -- Bachira🐝 05/09/26 10/09/26
     "DJ_GIZIM12358", -- dervXbnz 05/09/26 10/09/26
     "madaranoobb80", -- Beatriz 05/09/26 10/09/26
