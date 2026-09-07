@@ -92,5 +92,6 @@ return {
     "jshdhahdg", -- pedrinxz070743 06/09/26 09/09/26
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
     "welix000074", -- fei04421 06/09/26 09/09/26
-    "RIP_INDRAMM9" -- luis000388 06/09/26 09/09/26
+    "RIP_INDRAMM9", -- luis000388 06/09/26 09/09/26
+    "luigutavo56" -- yuyuyuyu0617 07/09/26 10/09/26
 }
