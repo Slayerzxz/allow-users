@@ -92,5 +92,6 @@ return {
     "Samuel_fortao", -- Sma 07/09/26 14/09/26
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
     "M2FA4B5", -- marcostipaulo 07/09/26 10/09/26
-    "LucasGamer_TDR9" -- velky_testes 07/09/26 10/09/26
+    "LucasGamer_TDR9", -- velky_testes 07/09/26 10/09/26
+    "Trialuser1235" -- alemao_hittler 07/09/26 10/09/26
 }
