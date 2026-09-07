@@ -87,5 +87,6 @@ return {
     "welix000074", -- fei04421 06/09/26 09/09/26
     "RIP_INDRAMM9", -- luis000388 06/09/26 09/09/26
     "luigutavo56", -- yuyuyuyu0617 07/09/26 10/09/26
-    "my_soyfuego" -- emilly071042 07/09/26 10/09/26
+    "my_soyfuego", -- emilly071042 07/09/26 10/09/26
+    "D4rkzin_312" -- XxXxXxX 07/09/26 06/11/26
 }
