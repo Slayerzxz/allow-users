@@ -90,5 +90,6 @@ return {
     "my_soyfuego", -- emilly071042 07/09/26 10/09/26
     "D4rkzin_312", -- XxXxXxX 07/09/26 23/01/54
     "Xinglin037", -- Davi 07/09/26 14/09/26
-    "Samuel_fortao" -- Sma 07/09/26 14/09/26
+    "Samuel_fortao", -- Sma 07/09/26 14/09/26
+    "dino_game134" -- ᴴ⁷ᶻ 07/09/26 26/12/26
 }
