@@ -28,9 +28,6 @@ return {
     "rip_isagi123795", -- neclica_63373 03/09/26 10/09/26
     "lucasdogral4567", -- obalaa_ 03/09/26 10/09/26
     "Surf_2261", -- Wagneriz 03/09/26 30/05/29
-    "kamily128374646", -- alice06004 04/09/26 07/09/26
-    "davi_pa99h", -- daviflores0302 04/09/26 07/09/26
-    "baconlindissmo31", -- yu050171 04/09/26 07/09/26
     "Rip_isagi123795", -- Bachira🐝 05/09/26 10/09/26
     "DJ_GIZIM12358", -- dervXbnz 05/09/26 10/09/26
     "madaranoobb80", -- Beatriz 05/09/26 10/09/26
@@ -70,8 +67,6 @@ return {
     "felicidade955", -- carlos67noob_81784 05/09/26 08/09/26
     "GUI_FDF123", -- guilherme096984 05/09/26 08/09/26
     "HuynhdinhBGLYS", -- Loritta 06/09/26 11/09/26
-    "L7PEDRO_GELADO", -- XxXxXxX 06/09/26 07/09/26
-    "Auraz_182", -- 𝔄𝔘ℜ𝔄ℨ_ 06/09/26 07/09/26
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
     "sombr229", -- spinossaurs 06/09/26 09/09/26
     "alusonve", -- alias087909 06/09/26 09/09/26
