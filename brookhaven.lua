@@ -97,5 +97,6 @@ return {
     "ltz_diegosamtos", -- diego051972 07/09/26 10/09/26
     "rjl177", -- injustica_do_roblox 07/09/26 10/09/26
     "osakuzao011", -- lucass288888 07/09/26 10/09/26
-    "real_slime432" -- sebastianzeta_ 07/09/26 10/09/26
+    "real_slime432", -- sebastianzeta_ 07/09/26 10/09/26
+    "jeieheiur" -- joaopalo123 07/09/26 10/09/26
 }
