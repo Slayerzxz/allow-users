@@ -29,41 +29,11 @@ return {
     "Rip_isagi123795", -- Bachira🐝 05/09/26 10/09/26
     "DJ_GIZIM12358", -- dervXbnz 05/09/26 10/09/26
     "madaranoobb80", -- Beatriz 05/09/26 10/09/26
-    "vitorlimalimalima", -- pj_.0573_11363 05/09/26 08/09/26
-    "hdjdhdhurhrjtl", -- mmbielzinn_57275 05/09/26 08/09/26
-    "biiel10816", -- menor_g0gaiw 05/09/26 08/09/26
-    "neymargoat_99", -- gt0104_77424 05/09/26 08/09/26
-    "Kaio_220616", -- arthurzin098 05/09/26 08/09/26
     "blackn444hey", -- Coringa 05/09/26 05/10/26
-    "roblox038pk", -- Little Haze 05/09/26 08/09/26
-    "Lizwxy9", -- lipezinho_chuh 05/09/26 08/09/26
-    "jahmeil12334", -- shz_calvo_71650 05/09/26 08/09/26
-    "Mandrakedjfif6", -- pobreplsfrutaveneno_14635 05/09/26 08/09/26
-    "bayron", -- faster_glock 05/09/26 08/09/26
-    "cadres_212", -- sm.xx_zl_42208 05/09/26 08/09/26
-    "ooliverandreee", -- nando005301 05/09/26 08/09/26
-    "Angel123hu8", -- angelito090256 05/09/26 08/09/26
     "Chiquerrimo22", -- ManoDarkz 07/09/26 23/01/54
-    "RUBENS244741", -- 021_rubens 05/09/26 08/09/26
-    "MoranSpencera95", -- luffy00864 05/09/26 08/09/26
-    "reyoscuro_350", -- santielinsano9944 05/09/26 08/09/26
-    "Sadboy_LIEB", -- 2008victor_77258 05/09/26 08/09/26
-    "talysonsil", -- thomas_sbelby 05/09/26 08/09/26
-    "ufolopo", -- lipe.blox 05/09/26 08/09/26
-    "LZIN_SP", -- gh09704 05/09/26 08/09/26
-    "Hacks1Hav3", -- busy_cheetah_84495 05/09/26 08/09/26
-    "gabrieujjjii", -- jusapex. 05/09/26 08/09/26
-    "9nn9_anniesister", -- sys928_ 05/09/26 08/09/26
-    "FFH4XV79J", -- joaogabriel083198 05/09/26 08/09/26
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 05/09/26 20/01/54
     "Kawasaki2812", -- Kaio 05/09/26 05/10/26
-    "cristiano67r68w9", -- neymar066193 05/09/26 08/09/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
-    "7f7rr76v", -- brayan060781 05/09/26 08/09/26
-    "Adrian_gameryt0", -- adrianxzn_ 05/09/26 08/09/26
-    "umboyqualquer0011", -- rafael014508 05/09/26 08/09/26
-    "felicidade955", -- carlos67noob_81784 05/09/26 08/09/26
-    "GUI_FDF123", -- guilherme096984 05/09/26 08/09/26
     "HuynhdinhBGLYS", -- Loritta 06/09/26 11/09/26
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
     "sombr229", -- spinossaurs 06/09/26 09/09/26
