@@ -74,5 +74,6 @@ return {
     "God", -- mariopaz_19489 08/09/26 11/09/26
     "cria223696", -- alluring_possum_20486 08/09/26 11/09/26
     "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
-    "onlymothers3" -- John813 08/09/26 08/10/26
+    "onlymothers3", -- John813 08/09/26 08/10/26
+    "marcosw12395" -- marcos18182 08/09/26 11/09/26
 }
