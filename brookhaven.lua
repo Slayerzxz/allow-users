@@ -72,5 +72,6 @@ return {
     "teste_teste66", -- masterlegend234012164849880 07/09/26 10/09/26
     "alex123456ffhd", -- alx23567 07/09/26 10/09/26
     "God", -- mariopaz_19489 08/09/26 11/09/26
-    "cria223696" -- alluring_possum_20486 08/09/26 11/09/26
+    "cria223696", -- alluring_possum_20486 08/09/26 11/09/26
+    "xinglin037" -- Davi 08/09/26 15/09/26
 }
