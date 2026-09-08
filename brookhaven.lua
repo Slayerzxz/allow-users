@@ -99,5 +99,6 @@ return {
     "real_slime432", -- sebastianzeta_ 07/09/26 10/09/26
     "jeieheiur", -- joaopalo123 07/09/26 10/09/26
     "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
-    "teste_teste66" -- masterlegend234012164849880 07/09/26 10/09/26
+    "teste_teste66", -- masterlegend234012164849880 07/09/26 10/09/26
+    "alex123456ffhd" -- alx23567 07/09/26 10/09/26
 }
