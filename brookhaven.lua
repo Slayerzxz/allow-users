@@ -77,5 +77,6 @@ return {
     "onlymothers3", -- John813 08/09/26 08/10/26
     "marcosw12395", -- marcos18182 08/09/26 11/09/26
     "mercuriobrx67", -- santozz0705_34103 08/09/26 11/09/26
-    "bazulaque" -- vtzin07506 08/09/26 11/09/26
+    "bazulaque", -- vtzin07506 08/09/26 11/09/26
+    "roblox_user_4176257708" -- david_gk12 08/09/26 11/09/26
 }
