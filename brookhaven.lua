@@ -79,5 +79,6 @@ return {
     "mercuriobrx67", -- santozz0705_34103 08/09/26 11/09/26
     "bazulaque", -- vtzin07506 08/09/26 11/09/26
     "roblox_user_4176257708", -- david_gk12 08/09/26 11/09/26
-    "standinawenc" -- vito017233 08/09/26 11/09/26
+    "standinawenc", -- vito017233 08/09/26 11/09/26
+    "jvzin9729" -- Jvzin 08/09/26 23/06/00
 }
