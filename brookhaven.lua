@@ -76,5 +76,6 @@ return {
     "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
     "onlymothers3", -- John813 08/09/26 08/10/26
     "marcosw12395", -- marcos18182 08/09/26 11/09/26
-    "mercuriobrx67" -- santozz0705_34103 08/09/26 11/09/26
+    "mercuriobrx67", -- santozz0705_34103 08/09/26 11/09/26
+    "bazulaque" -- vtzin07506 08/09/26 11/09/26
 }
