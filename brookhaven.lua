@@ -35,7 +35,7 @@ return {
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
     "luigutavo56", -- yuyuyuyu0617 07/09/26 10/09/26
     "my_soyfuego", -- emilly071042 07/09/26 10/09/26
-    "D4rkzin_312", -- XxXxXxX 09/09/26 04/06/29
+    "D4rkzin_312", -- XxXxXxX 09/09/26 21/08/89
     "Xinglin037", -- Davi 07/09/26 14/09/26
     "Samuel_fortao", -- Sma 07/09/26 14/09/26
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
