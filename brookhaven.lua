@@ -1,7 +1,7 @@
 return {
     "Breno010L", -- Bazuka
     "StaffordMakayla783", -- bazuka
-    "kzrrzs4r", -- Beca
+    "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
     "Apenas_eu362", -- политика 03/09/26 19/01/54
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 27/08/26 12/01/54
@@ -31,7 +31,6 @@ return {
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
     "Cobridjd", -- 7Dxxz 06/09/26 06/10/26
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
-    "LunaRougee", -- Suzuya 09/09/26 23/05/50
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
     "luigutavo56", -- yuyuyuyu0617 07/09/26 10/09/26
     "my_soyfuego", -- emilly071042 07/09/26 10/09/26
