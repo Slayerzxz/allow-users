@@ -9,18 +9,11 @@ return {
     "itz_blackzinh01", -- max 29/08/26 13/01/54
     "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "joaoking667", -- joaoexe66 29/08/26 29/09/26
-    "Maria91062993", -- Slayer Hub | Admin 30/08/26 09/09/26
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
     "S2_Maviiis", -- Bazuka հվ 30/08/26 26/05/29
     "Keel_m5", -- دونا 31/08/26 01/10/26
     "Riftod37", -- Dazzy 03/09/26 28/09/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
-    "ghost_26690", -- Levi 02/09/26 09/09/26
-    "Hey_zPUDIM", -- ℂ𝔸𝔽𝟛ℤ𝕀ℕ ヅ 02/09/26 09/09/26
-    "kau5330", -- Lipe7 02/09/26 09/09/26
-    "lary_joaoesofi", -- . 02/09/26 09/09/26
-    "nicolas007zicapro", -- Nicolas 02/09/26 09/09/26
-    "eo_vtz2", -- victor 02/09/26 09/09/26
     "Ramon_6390", -- Soares🇩🇪 03/09/26 10/09/26
     "Realfe23", -- Pedro_021 02/09/26 02/10/26
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
@@ -36,24 +29,10 @@ return {
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "HuynhdinhBGLYS", -- Loritta 06/09/26 11/09/26
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
-    "sombr229", -- spinossaurs 06/09/26 09/09/26
-    "alusonve", -- alias087909 06/09/26 09/09/26
-    "morry_rendell", -- alleyzinho138 06/09/26 09/09/26
-    "botinha_W", -- biel06814 06/09/26 09/09/26
-    "mk_malcriaduh021", -- mk018757._10861 06/09/26 09/09/26
-    "botinho_M", -- coroa_dograu 06/09/26 09/09/26
-    "cantanguandi2", -- enjoavas 06/09/26 09/09/26
-    "bluxxy1829", -- carlosalbert0653 06/09/26 09/09/26
     "Cobridjd", -- 7Dxxz 06/09/26 06/10/26
-    "furkan_selim", -- furkan310647 06/09/26 09/09/26
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "LunaRougee", -- Suzuya 06/09/26 22/02/29
-    "matheus_itz00", -- astrozad 06/09/26 09/09/26
-    "gustavi130214", -- ruin_do_ap 06/09/26 09/09/26
-    "jshdhahdg", -- pedrinxz070743 06/09/26 09/09/26
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
-    "welix000074", -- fei04421 06/09/26 09/09/26
-    "RIP_INDRAMM9", -- luis000388 06/09/26 09/09/26
     "luigutavo56", -- yuyuyuyu0617 07/09/26 10/09/26
     "my_soyfuego", -- emilly071042 07/09/26 10/09/26
     "D4rkzin_312", -- XxXxXxX 08/09/26 23/01/54
@@ -79,6 +58,5 @@ return {
     "mercuriobrx67", -- santozz0705_34103 08/09/26 11/09/26
     "bazulaque", -- vtzin07506 08/09/26 11/09/26
     "roblox_user_4176257708", -- david_gk12 08/09/26 11/09/26
-    "standinawenc", -- vito017233 08/09/26 11/09/26
-    "jvzin9729" -- Jvzin 08/09/26 23/06/00
+    "standinawenc" -- vito017233 08/09/26 11/09/26
 }
