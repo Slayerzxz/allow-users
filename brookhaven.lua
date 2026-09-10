@@ -14,14 +14,8 @@ return {
     "Keel_m5", -- دونا 31/08/26 01/10/26
     "Riftod37", -- Dazzy 03/09/26 28/09/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
-    "Ramon_6390", -- Soares🇩🇪 03/09/26 10/09/26
     "Realfe23", -- Pedro_021 02/09/26 02/10/26
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
-    "rip_isagi123795", -- neclica_63373 03/09/26 10/09/26
-    "lucasdogral4567", -- obalaa_ 03/09/26 10/09/26
-    "Rip_isagi123795", -- Bachira🐝 05/09/26 10/09/26
-    "DJ_GIZIM12358", -- dervXbnz 05/09/26 10/09/26
-    "madaranoobb80", -- Beatriz 05/09/26 10/09/26
     "blackn444hey", -- Coringa 05/09/26 05/10/26
     "Chiquerrimo22", -- ManoDarkz 07/09/26 23/01/54
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 05/09/26 20/01/54
@@ -32,22 +26,10 @@ return {
     "Cobridjd", -- 7Dxxz 06/09/26 06/10/26
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
-    "luigutavo56", -- yuyuyuyu0617 07/09/26 10/09/26
-    "my_soyfuego", -- emilly071042 07/09/26 10/09/26
     "Xinglin037", -- Davi 07/09/26 14/09/26
     "Samuel_fortao", -- Sma 07/09/26 14/09/26
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
-    "M2FA4B5", -- marcostipaulo 07/09/26 10/09/26
-    "LucasGamer_TDR9", -- velky_testes 07/09/26 10/09/26
-    "Trialuser1235", -- alemao_hittler 07/09/26 10/09/26
-    "ltz_diegosamtos", -- diego051972 07/09/26 10/09/26
-    "rjl177", -- injustica_do_roblox 07/09/26 10/09/26
-    "osakuzao011", -- lucass288888 07/09/26 10/09/26
-    "real_slime432", -- sebastianzeta_ 07/09/26 10/09/26
-    "jeieheiur", -- joaopalo123 07/09/26 10/09/26
     "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
-    "teste_teste66", -- masterlegend234012164849880 07/09/26 10/09/26
-    "alex123456ffhd", -- alx23567 07/09/26 10/09/26
     "cria223696", -- alluring_possum_20486 08/09/26 11/09/26
     "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
     "onlymothers3", -- John813 08/09/26 08/10/26
@@ -56,9 +38,7 @@ return {
     "bazulaque", -- vtzin07506 08/09/26 11/09/26
     "roblox_user_4176257708", -- david_gk12 08/09/26 11/09/26
     "standinawenc", -- vito017233 08/09/26 11/09/26
-    "Bot2Dev2", -- Yuki 09/09/26 10/09/26
     "Bot1Dev1", -- Bazuka հվ 09/09/26 11/09/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
-    "D4rkzin_312", -- XxXxXxX 09/09/26 10/09/26
     "Jvzin9729" -- Jvzin 09/09/26 24/01/54
 }
