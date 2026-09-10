@@ -40,5 +40,6 @@ return {
     "standinawenc", -- vito017233 08/09/26 11/09/26
     "Bot1Dev1", -- Bazuka հվ 09/09/26 11/09/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
-    "Jvzin9729" -- Jvzin 09/09/26 24/01/54
+    "Jvzin9729", -- Jvzin 09/09/26 24/01/54
+    "D4rkzin_312" -- XxXxXxX 10/09/26 11/09/26
 }
