@@ -42,5 +42,6 @@ return {
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
     "Jvzin9729", -- Jvzin 09/09/26 24/01/54
     "D4rkzin_312", -- XxXxXxX 10/09/26 11/09/26
-    "Flenzynx3_humbled" -- Kingzx 10/09/26 13/09/26
+    "Flenzynx3_humbled", -- Kingzx 10/09/26 13/09/26
+    "m4_pedrin" -- Pdhxn 10/09/26 17/09/26
 }
