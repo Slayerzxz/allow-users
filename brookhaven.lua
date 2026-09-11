@@ -5,7 +5,7 @@ return {
     "Apenas_eu362", -- политика 11/09/26 27/01/54
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 27/08/26 12/01/54
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
-    "itz_blackzinh01", -- max 29/08/26 13/01/54
+    "itz_blackzinh01", -- Max 11/09/26 06/10/67
     "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "joaoking667", -- joaoexe66 29/08/26 29/09/26
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
