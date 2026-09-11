@@ -1,5 +1,5 @@
 return {
-    "Breno010L", -- Bazuka
+    "Breno010L", -- Bazuka հվ 11/09/26 20/12/26
     "StaffordMakayla783", -- bazuka
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
