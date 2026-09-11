@@ -17,7 +17,6 @@ return {
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
     "blackn444hey", -- Coringa 05/09/26 05/10/26
     "Chiquerrimo22", -- ManoDarkz 07/09/26 23/01/54
-    "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 11/09/26 27/06/00
     "Kawasaki2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
@@ -35,6 +34,5 @@ return {
     "Flenzynx3_humbled", -- Kingzx 10/09/26 13/09/26
     "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
-    "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
-    "matheus_itz00" -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 11/09/26 27/06/00
+    "Ramon_6390" -- SOARES_G 11/09/26 27/01/54
 }
