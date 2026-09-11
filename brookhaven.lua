@@ -20,7 +20,6 @@ return {
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 05/09/26 20/01/54
     "Kawasaki2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
-    "HuynhdinhBGLYS", -- Loritta 06/09/26 11/09/26
     "kawazaki2812", -- Kaio 06/09/26 22/01/54
     "Cobridjd", -- 7Dxxz 06/09/26 06/10/26
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
@@ -29,18 +28,10 @@ return {
     "Samuel_fortao", -- Sma 07/09/26 14/09/26
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
     "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
-    "cria223696", -- alluring_possum_20486 08/09/26 11/09/26
     "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
     "onlymothers3", -- John813 10/09/26 12/10/26
-    "marcosw12395", -- marcos18182 08/09/26 11/09/26
-    "mercuriobrx67", -- santozz0705_34103 08/09/26 11/09/26
-    "bazulaque", -- vtzin07506 08/09/26 11/09/26
-    "roblox_user_4176257708", -- david_gk12 08/09/26 11/09/26
-    "standinawenc", -- vito017233 08/09/26 11/09/26
-    "Bot1Dev1", -- Bazuka հվ 09/09/26 11/09/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
     "Jvzin9729", -- Jvzin 09/09/26 24/01/54
-    "D4rkzin_312", -- XxXxXxX 10/09/26 11/09/26
     "Flenzynx3_humbled", -- Kingzx 10/09/26 13/09/26
     "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182" -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 10/09/26 09/11/26
