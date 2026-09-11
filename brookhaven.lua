@@ -47,5 +47,6 @@ return {
     "Ligapra_90028922", -- Mkzinho0 11/09/26 12/10/26
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
     "oToddyZx", -- contaaltdotnzz 11/09/26 14/09/26
-    "wuwau7w8q8q" -- phzinho1230098 11/09/26 14/09/26
+    "wuwau7w8q8q", -- phzinho1230098 11/09/26 14/09/26
+    "tonygoncs5" -- kevinho_gk_tps 11/09/26 14/09/26
 }
