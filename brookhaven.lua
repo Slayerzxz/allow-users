@@ -34,5 +34,6 @@ return {
     "Flenzynx3_humbled", -- Kingzx 10/09/26 13/09/26
     "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
-    "Ramon_6390" -- SOARES_G 11/09/26 27/01/54
+    "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
+    "Breno010L" -- Bazuka հվ 11/09/26 27/01/54
 }
