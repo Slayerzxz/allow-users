@@ -19,7 +19,7 @@ return {
     "Chiquerrimo22", -- ManoDarkz 07/09/26 23/01/54
     "Kawasaki2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
-    "kawazaki2812", -- Kaio 06/09/26 22/01/54
+    "kawazaki2812", -- Kaio 11/09/26 03/05/51
     "Cobridjd", -- 7Dxxz 06/09/26 06/10/26
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
