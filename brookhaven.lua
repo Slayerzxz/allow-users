@@ -49,5 +49,6 @@ return {
     "oToddyZx", -- contaaltdotnzz 11/09/26 14/09/26
     "wuwau7w8q8q", -- phzinho1230098 11/09/26 14/09/26
     "tonygoncs5", -- kevinho_gk_tps 11/09/26 14/09/26
-    "jshdhahdg" -- pedrinxz070743 11/09/26 14/09/26
+    "jshdhahdg", -- pedrinxz070743 11/09/26 14/09/26
+    "nehdcjdjgd" -- joaolucas07441 11/09/26 14/09/26
 }
