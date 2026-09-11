@@ -43,5 +43,6 @@ return {
     "Ne0nFr0stbite7320", -- 𝓝𝓮𝔁𝔁𝓾𝓼 🩸 11/09/26 27/01/54
     "Blackn444hey", -- Coringa 11/09/26 11/10/26
     "LHQIAMAS", -- LH.QIA+ 11/09/26 21/09/26
-    "D4rkzin_312" -- XxXxXxX 11/09/26 27/01/54
+    "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
+    "Ligapra_90028922" -- Mkzinho0 11/09/26 12/10/26
 }
