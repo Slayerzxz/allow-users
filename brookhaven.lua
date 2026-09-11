@@ -37,7 +37,7 @@ return {
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
     "Breno010L", -- Bazuka հվ 11/09/26 27/01/54
     "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 11/09/26 07/06/29
-    "Sofia13nicolle", -- JAPONExx 11/09/26 27/01/54
+    "Sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 11/09/26 27/01/54
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 11/09/26 27/01/54
     "cpa548", -- Kj 11/09/26 27/01/54
     "RIP_KAUA836", -- kaua073195 11/09/26 14/09/26
