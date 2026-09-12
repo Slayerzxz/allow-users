@@ -19,7 +19,6 @@ return {
     "Kawasaki2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 11/09/26 27/01/54
-    "Cobridjd", -- 7Dxxz 06/09/26 06/10/26
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
     "Xinglin037", -- Davi 07/09/26 14/09/26
