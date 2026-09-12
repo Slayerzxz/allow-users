@@ -41,7 +41,6 @@ return {
     "cpa548", -- Kj 11/09/26 27/01/54
     "RIP_KAUA836", -- kaua073195 11/09/26 14/09/26
     "Ne0nFr0stbite7320", -- 𝓝𝓮𝔁𝔁𝓾𝓼 🩸 11/09/26 27/01/54
-    "Blackn444hey", -- Coringa 11/09/26 11/10/26
     "LHQIAMAS", -- LH.QIA+ 11/09/26 21/09/26
     "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
