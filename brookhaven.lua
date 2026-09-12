@@ -58,5 +58,6 @@ return {
     "luminina6", -- Antonio 12/09/26 13/09/26
     "tomzinhojj", -- Dexter0111 12/09/26 13/09/26
     "cobridjd", -- Zapones de sp 12/09/26 12/10/26
-    "Enzo_7m890" -- Gulosão_kkkk 12/09/26 10/01/65
+    "Enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
+    "ByteBandit_ofici" -- 𝔸𝕦𝕣𝕒𝕫𝕫𝕫 12/09/26 28/01/54
 }
