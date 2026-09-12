@@ -52,5 +52,5 @@ return {
     "nehdcjdjgd", -- joaolucas07441 11/09/26 14/09/26
     "SOU_532", -- griloobs 11/09/26 14/09/26
     "icarofff379r", -- aloneunk 11/09/26 14/09/26
-    "ligapra_90028922" -- Mkzinho0 11/09/26 14/09/26
+    "ligapra_90028922" -- Mkzinho0 11/09/26 11/10/26
 }
