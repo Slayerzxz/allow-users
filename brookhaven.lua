@@ -44,7 +44,7 @@ return {
     "Blackn444hey", -- Coringa 11/09/26 11/10/26
     "LHQIAMAS", -- LH.QIA+ 11/09/26 21/09/26
     "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
-    "Ligapra_90028922", -- Mkzinho0 11/09/26 12/10/26
+    "Ligapra_90028922", -- Mkzinho0 11/09/26 11/10/26
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
     "oToddyZx", -- contaaltdotnzz 11/09/26 14/09/26
     "wuwau7w8q8q", -- phzinho1230098 11/09/26 14/09/26
