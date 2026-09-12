@@ -51,5 +51,6 @@ return {
     "tonygoncs5", -- kevinho_gk_tps 11/09/26 14/09/26
     "jshdhahdg", -- pedrinxz070743 11/09/26 14/09/26
     "nehdcjdjgd", -- joaolucas07441 11/09/26 14/09/26
-    "SOU_532" -- griloobs 11/09/26 14/09/26
+    "SOU_532", -- griloobs 11/09/26 14/09/26
+    "icarofff379r" -- aloneunk 11/09/26 14/09/26
 }
