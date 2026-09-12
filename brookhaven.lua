@@ -53,5 +53,6 @@ return {
     "icarofff379r", -- aloneunk 11/09/26 14/09/26
     "Kryzen7804", -- Carlinzk7 11/09/26 16/09/26
     "ligapra_90028922", -- Mkzinho0 11/09/26 10/11/26
-    "BlackN444hey" -- Coringa 12/09/26 11/11/26
+    "BlackN444hey", -- Coringa 12/09/26 11/11/26
+    "eufarmoaura009" -- joaozin04449 12/09/26 15/09/26
 }
