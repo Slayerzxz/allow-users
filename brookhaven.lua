@@ -56,5 +56,6 @@ return {
     "BlackN444hey", -- Coringa 12/09/26 11/11/26
     "eufarmoaura009", -- joaozin04449 12/09/26 15/09/26
     "DJ_GIZIM12358", -- dervXbnz 12/09/26 28/01/54
-    "luminina6" -- Antonio 12/09/26 13/09/26
+    "luminina6", -- Antonio 12/09/26 13/09/26
+    "tomzinhojj" -- Dexter0111 12/09/26 13/09/26
 }
