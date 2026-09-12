@@ -57,5 +57,6 @@ return {
     "DJ_GIZIM12358", -- dervXbnz 12/09/26 28/01/54
     "luminina6", -- Antonio 12/09/26 13/09/26
     "tomzinhojj", -- Dexter0111 12/09/26 13/09/26
-    "cobridjd" -- Zapones de sp 12/09/26 12/10/26
+    "cobridjd", -- Zapones de sp 12/09/26 12/10/26
+    "YURIZIN_tx7" -- Gulosão_kkkk 12/09/26 10/01/65
 }
