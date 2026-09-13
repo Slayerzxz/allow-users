@@ -20,7 +20,6 @@ return {
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 11/09/26 27/01/54
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
-    "GabsszinZX", -- kizuno 06/09/26 13/09/26
     "xinglin037", -- Davi 07/09/26 14/09/26
     "Samuel_fortao", -- Sma 07/09/26 14/09/26
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
@@ -29,7 +28,6 @@ return {
     "onlymothers3", -- John813 10/09/26 12/10/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
     "jvzin9729", -- Jvzin 09/09/26 24/01/54
-    "Flenzynx3_humbled", -- Kingzx 10/09/26 13/09/26
     "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
@@ -55,8 +53,6 @@ return {
     "BlackN444hey", -- Coringa 12/09/26 11/11/26
     "eufarmoaura009", -- joaozin04449 12/09/26 15/09/26
     "DJ_GIZIM12358", -- dervXbnz 12/09/26 28/01/54
-    "luminina6", -- Antonio 12/09/26 13/09/26
-    "tomzinhojj", -- Dexter0111 12/09/26 13/09/26
     "cobridjd", -- Zapones de sp 12/09/26 12/10/26
     "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
