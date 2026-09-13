@@ -9,6 +9,7 @@ return {
     "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "joaoking667", -- joaoexe66 29/08/26 29/09/26
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
+    "S2_Maviiis", -- Bazuka հվ 30/08/26 26/05/29
     "Keel_m5", -- دونا 31/08/26 01/10/26
     "Riftod37", -- Dazzy 03/09/26 28/09/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
@@ -32,6 +33,7 @@ return {
     "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
+    "Breno010L", -- Bazuka հվ 11/09/26 27/01/54
     "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 11/09/26 07/06/29
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 11/09/26 27/01/54
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 11/09/26 27/01/54
