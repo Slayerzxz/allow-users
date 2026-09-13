@@ -55,5 +55,6 @@ return {
     "cobridjd", -- Zapones de sp 12/09/26 12/10/26
     "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
-    "madaranoobb80" -- スバル 12/09/26 12/10/26
+    "madaranoobb80", -- スバル 12/09/26 12/10/26
+    "Breno010L" -- 7812 13/09/26 14/09/26
 }
