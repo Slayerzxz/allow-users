@@ -54,5 +54,6 @@ return {
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
     "madaranoobb80", -- スバル 12/09/26 12/10/26
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 13/09/26 29/01/54
-    "Thomas_rico3" -- Credo um mobile 🥷⌨️🖱 13/09/26 16/09/26
+    "Thomas_rico3", -- Credo um mobile 🥷⌨️🖱 13/09/26 16/09/26
+    "sofia_fofa72725" -- 《Herdeiro》Maxzin 13/09/26 16/09/26
 }
