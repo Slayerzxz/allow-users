@@ -9,33 +9,32 @@ return {
     "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "joaoking667", -- joaoexe66 29/08/26 29/09/26
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
-    "S2_Maviiis", -- Bazuka հվ 30/08/26 26/05/29
     "Keel_m5", -- دونا 31/08/26 01/10/26
     "Riftod37", -- Dazzy 03/09/26 28/09/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
-    "Realfe23", -- Pedro_021 02/09/26 02/10/26
+    "realfe23", -- Pedro_021 02/09/26 02/10/26
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
     "Chiquerrimo22", -- ManoDarkz 07/09/26 23/01/54
-    "Kawasaki2812", -- Kaio 05/09/26 05/10/26
+    "KAWASAKI2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 11/09/26 27/01/54
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "GabsszinZX", -- kizuno 06/09/26 13/09/26
-    "Xinglin037", -- Davi 07/09/26 14/09/26
+    "xinglin037", -- Davi 07/09/26 14/09/26
     "Samuel_fortao", -- Sma 07/09/26 14/09/26
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
     "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
     "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
     "onlymothers3", -- John813 10/09/26 12/10/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
-    "Jvzin9729", -- Jvzin 09/09/26 24/01/54
+    "jvzin9729", -- Jvzin 09/09/26 24/01/54
     "Flenzynx3_humbled", -- Kingzx 10/09/26 13/09/26
     "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
     "Breno010L", -- Bazuka հվ 11/09/26 27/01/54
     "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 11/09/26 07/06/29
-    "Sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 11/09/26 27/01/54
+    "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 11/09/26 27/01/54
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 11/09/26 27/01/54
     "cpa548", -- Kj 11/09/26 27/01/54
     "RIP_KAUA836", -- kaua073195 11/09/26 14/09/26
@@ -58,7 +57,7 @@ return {
     "luminina6", -- Antonio 12/09/26 13/09/26
     "tomzinhojj", -- Dexter0111 12/09/26 13/09/26
     "cobridjd", -- Zapones de sp 12/09/26 12/10/26
+    "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
-    "madaranoobb80", -- スバル 12/09/26 12/10/26
-    "enzo_7m890" -- Gulosão_kkkk 12/09/26 28/01/54
+    "madaranoobb80" -- スバル 12/09/26 12/10/26
 }
