@@ -53,5 +53,6 @@ return {
     "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
     "madaranoobb80", -- スバル 12/09/26 12/10/26
-    "sofia13nicolle" -- ♛ִֶ🇧🇷་༘JAPONExx 13/09/26 29/01/54
+    "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 13/09/26 29/01/54
+    "Thomas_rico3" -- Credo um mobile 🥷⌨️🖱 13/09/26 16/09/26
 }
