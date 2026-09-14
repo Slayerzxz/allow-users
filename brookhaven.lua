@@ -60,5 +60,6 @@ return {
     "my_soyfuego", -- emilly071042 14/09/26 17/09/26
     "R7_dnxz", -- R7 14/09/26 10/08/64
     "ooliverandreee", -- ooliver_3e 14/09/26 17/09/26
-    "jvzin9729" -- Jvzin 14/09/26 29/01/54
+    "jvzin9729", -- Jvzin 14/09/26 29/01/54
+    "profiadolz1" -- dadas__444 14/09/26 17/09/26
 }
