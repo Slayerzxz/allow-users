@@ -76,5 +76,6 @@ return {
     "Peppaporca67", -- ixi362. 14/09/26 17/09/26
     "kauaenay", -- kaue082039 14/09/26 17/09/26
     "Vetzoy125", -- 7_vetz_39779 14/09/26 17/09/26
-    "mercuriobrx67" -- santozz0705_34103 14/09/26 17/09/26
+    "mercuriobrx67", -- santozz0705_34103 14/09/26 17/09/26
+    "hsjsvd678" -- conrado059809 14/09/26 17/09/26
 }
