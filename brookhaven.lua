@@ -24,7 +24,6 @@ return {
     "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
     "onlymothers3", -- John813 10/09/26 12/10/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
-    "jvzin9729", -- Jvzin 09/09/26 24/01/54
     "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
