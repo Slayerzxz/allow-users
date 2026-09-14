@@ -59,5 +59,6 @@ return {
     "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
     "lorenzomo199", -- lorenzo009781 13/09/26 16/09/26
-    "lenda2x8" -- micaiasttr 13/09/26 16/09/26
+    "lenda2x8", -- micaiasttr 13/09/26 16/09/26
+    "Isaxlw" -- gabrirl0829_18608 13/09/26 16/09/26
 }
