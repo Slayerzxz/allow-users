@@ -2,7 +2,7 @@ return {
     "StaffordMakayla783", -- bazuka
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
-    "Apenas_eu362", -- политика 14/09/26 29/06/00
+    "Apenas_eu362", -- политика 14/09/26 30/06/00
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 27/08/26 12/01/54
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
