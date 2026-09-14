@@ -73,5 +73,6 @@ return {
     "manimoradi05", -- mani066306 14/09/26 17/09/26
     "aurazzz_01", -- aurazzz_01 14/09/26 17/09/26
     "Grazielyoiii", -- eolk0448 14/09/26 17/09/26
-    "Peppaporca67" -- ixi362. 14/09/26 17/09/26
+    "Peppaporca67", -- ixi362. 14/09/26 17/09/26
+    "kauaenay" -- kaue082039 14/09/26 17/09/26
 }
