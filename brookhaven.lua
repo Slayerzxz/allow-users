@@ -59,6 +59,5 @@ return {
     "GhostTinyBear", -- slk_compenw 14/09/26 17/09/26
     "ina215900", -- japaetopdms 14/09/26 17/09/26
     "my_soyfuego", -- emilly071042 14/09/26 17/09/26
-    "R7_dnxz", -- willianrpg_26484 14/09/26 17/09/26
-    "7f7rr76v" -- brayan060781 14/09/26 15/09/26
+    "R7_dnxz" -- willianrpg_26484 14/09/26 17/09/26
 }
