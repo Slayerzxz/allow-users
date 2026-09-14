@@ -68,5 +68,6 @@ return {
     "Brundcx_k", -- indiozn_domal_08883 14/09/26 17/09/26
     "Japinha946788", -- belly_56 14/09/26 17/09/26
     "lua989594", -- bela0422_26774 14/09/26 17/09/26
-    "K666pkildd" -- mysterioso._71615 14/09/26 17/09/26
+    "K666pkildd", -- mysterioso._71615 14/09/26 17/09/26
+    "dapenha220" -- filho_rebelde22 14/09/26 17/09/26
 }
