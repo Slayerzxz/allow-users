@@ -63,5 +63,6 @@ return {
     "Isaxlw", -- gabrirl0829_18608 13/09/26 16/09/26
     "123_Enzogh", -- reddanovaera 13/09/26 16/09/26
     "TrueblueSeth5", -- thebestimpactace_40654 13/09/26 16/09/26
-    "jhonnysiuza9" -- jhonny244_. 13/09/26 16/09/26
+    "jhonnysiuza9", -- jhonny244_. 13/09/26 16/09/26
+    "WEVERTON68935" -- 1350360256 13/09/26 16/09/26
 }
