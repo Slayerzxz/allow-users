@@ -62,5 +62,6 @@ return {
     "ooliverandreee", -- ooliver_3e 14/09/26 17/09/26
     "jvzin9729", -- Jvzin 14/09/26 29/01/54
     "profiadolz1", -- dadas__444 14/09/26 17/09/26
-    "vitor_hugo01234" -- vitim_027_ 14/09/26 17/09/26
+    "vitor_hugo01234", -- vitim_027_ 14/09/26 17/09/26
+    "Rip_icone1" -- kaleby0341 14/09/26 17/09/26
 }
