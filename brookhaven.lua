@@ -65,5 +65,6 @@ return {
     "vitor_hugo01234", -- vitim_027_ 14/09/26 17/09/26
     "Rip_icone1", -- kaleby0341 14/09/26 17/09/26
     "Eo_OfoX", -- maria_criarj 14/09/26 17/09/26
-    "Brundcx_k" -- indiozn_domal_08883 14/09/26 17/09/26
+    "Brundcx_k", -- indiozn_domal_08883 14/09/26 17/09/26
+    "Japinha946788" -- belly_56 14/09/26 17/09/26
 }
