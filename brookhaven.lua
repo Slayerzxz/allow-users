@@ -55,5 +55,6 @@ return {
     "TrueblueSeth5", -- thebestimpactace_40654 13/09/26 16/09/26
     "jhonnysiuza9", -- jhonny244_. 13/09/26 16/09/26
     "WEVERTON68935", -- 1350360256 13/09/26 16/09/26
-    "RIP_indra98519" -- datk2244 14/09/26 17/09/26
+    "RIP_indra98519", -- datk2244 14/09/26 17/09/26
+    "GhostTinyBear" -- slk_compenw 14/09/26 17/09/26
 }
