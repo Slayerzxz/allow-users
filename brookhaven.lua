@@ -13,7 +13,6 @@ return {
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
     "realfe23", -- Pedro_021 02/09/26 02/10/26
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
-    "Chiquerrimo22", -- ManoDarkz 07/09/26 23/01/54
     "KAWASAKI2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 11/09/26 27/01/54
