@@ -79,5 +79,6 @@ return {
     "hsjsvd678", -- conrado059809 14/09/26 17/09/26
     "Miguelito208h", -- miguel77w7._45324 14/09/26 17/09/26
     "meunomer3aleesse", -- megak1ll. 14/09/26 17/09/26
-    "NORMALOTEMPO" -- nina1230900 14/09/26 17/09/26
+    "NORMALOTEMPO", -- nina1230900 14/09/26 17/09/26
+    "ketchup2228" -- Slayer Hub | Admin 15/09/26 18/09/26
 }
