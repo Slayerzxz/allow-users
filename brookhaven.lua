@@ -78,5 +78,6 @@ return {
     "Vetzoy125", -- 7_vetz_39779 14/09/26 17/09/26
     "mercuriobrx67", -- santozz0705_34103 14/09/26 17/09/26
     "hsjsvd678", -- conrado059809 14/09/26 17/09/26
-    "Miguelito208h" -- miguel77w7._45324 14/09/26 17/09/26
+    "Miguelito208h", -- miguel77w7._45324 14/09/26 17/09/26
+    "meunomer3aleesse" -- megak1ll. 14/09/26 17/09/26
 }
