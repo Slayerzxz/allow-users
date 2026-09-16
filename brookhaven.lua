@@ -32,7 +32,6 @@ return {
     "LHQIAMAS", -- LH.QIA+ 11/09/26 21/09/26
     "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
-    "Kryzen7804", -- Carlinzk7 11/09/26 16/09/26
     "ligapra_90028922", -- Mkzinho0 11/09/26 10/11/26
     "BlackN444hey", -- Coringa 12/09/26 11/11/26
     "DJ_GIZIM12358", -- dervXbnz 12/09/26 28/01/54
@@ -40,17 +39,8 @@ return {
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
     "madaranoobb80", -- スバル 12/09/26 12/10/26
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 13/09/26 29/01/54
-    "Thomas_rico3", -- Credo um mobile 🥷⌨️🖱 13/09/26 16/09/26
-    "sofia_fofa72725", -- 《Herdeiro》Maxzin 13/09/26 16/09/26
     "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
-    "lorenzomo199", -- lorenzo009781 13/09/26 16/09/26
-    "lenda2x8", -- micaiasttr 13/09/26 16/09/26
-    "Isaxlw", -- gabrirl0829_18608 13/09/26 16/09/26
-    "123_Enzogh", -- reddanovaera 13/09/26 16/09/26
-    "TrueblueSeth5", -- thebestimpactace_40654 13/09/26 16/09/26
-    "jhonnysiuza9", -- jhonny244_. 13/09/26 16/09/26
-    "WEVERTON68935", -- 1350360256 13/09/26 16/09/26
     "RIP_indra98519", -- datk2244 14/09/26 17/09/26
     "GhostTinyBear", -- slk_compenw 14/09/26 17/09/26
     "ina215900", -- ꧁Dvzxx꧂ 15/09/26 22/09/26
