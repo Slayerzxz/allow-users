@@ -70,6 +70,5 @@ return {
     "NORMALOTEMPO", -- nina1230900 14/09/26 17/09/26
     "ketchup2228", -- Slayer Hub | Admin 15/09/26 18/09/26
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
-    "enzome156", -- iludido_2.0 15/09/26 18/09/26
-    "judelcy7" -- SolteirinhoBALA 16/09/26 19/09/26
+    "enzome156" -- iludido_2.0 15/09/26 18/09/26
 }
