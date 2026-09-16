@@ -71,5 +71,6 @@ return {
     "ketchup2228", -- Slayer Hub | Admin 15/09/26 18/09/26
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
     "enzome156", -- iludido_2.0 15/09/26 18/09/26
-    "judelcy7" -- SolteirinhoBALA 16/09/26 19/09/26
+    "judelcy7", -- SolteirinhoBALA 16/09/26 19/09/26
+    "Joan45858" -- Liviablox 16/09/26 31/01/54
 }
