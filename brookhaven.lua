@@ -126,5 +126,6 @@ return {
     "ZORO_HND1", -- alexamiri444 17/09/26 20/09/26
     "therealneverfall", -- therealneverliess 17/09/26 20/09/26
     "funkeiro_brr", -- enzogabriel07836 17/09/26 20/09/26
-    "lusombril" -- x7_lui_17507 17/09/26 20/09/26
+    "lusombril", -- x7_lui_17507 17/09/26 20/09/26
+    "QRAMURILLOGFM" -- murillogfm. 17/09/26 20/09/26
 }
