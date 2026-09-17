@@ -128,5 +128,6 @@ return {
     "funkeiro_brr", -- enzogabriel07836 17/09/26 20/09/26
     "lusombril", -- x7_lui_17507 17/09/26 20/09/26
     "QRAMURILLOGFM", -- murillogfm. 17/09/26 20/09/26
-    "blaze" -- nicolau0738 17/09/26 20/09/26
+    "blaze", -- nicolau0738 17/09/26 20/09/26
+    "pedropis1231" -- pedroso04757 17/09/26 20/09/26
 }
