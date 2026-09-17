@@ -77,5 +77,6 @@ return {
     "sadzin131", -- pietro 16/09/26 26/01/27
     "pedroleo50", -- eodryxxz_89777 16/09/26 19/09/26
     "xandy_057", -- xandy17_90418 16/09/26 19/09/26
-    "REIDAVIGAMERLIN" -- davigamerlin3.9 16/09/26 19/09/26
+    "REIDAVIGAMERLIN", -- davigamerlin3.9 16/09/26 19/09/26
+    "nascimento22" -- _nascimento22 16/09/26 19/09/26
 }
