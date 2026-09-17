@@ -119,5 +119,6 @@ return {
     "Wb_Vampknit", -- wb_vampknit 16/09/26 19/09/26
     "Rinaldo255", -- vivalavida.00 16/09/26 19/09/26
     "Breno010L", -- dlscord.00 16/09/26 19/09/26
-    "L2_tui" -- irush01 17/09/26 20/09/26
+    "L2_tui", -- irush01 17/09/26 20/09/26
+    "Diulyan2030141D" -- draxmdx_51131 17/09/26 20/09/26
 }
