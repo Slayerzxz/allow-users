@@ -80,5 +80,6 @@ return {
     "REIDAVIGAMERLIN", -- davigamerlin3.9 16/09/26 19/09/26
     "nascimento22", -- _nascimento22 16/09/26 19/09/26
     "sharkzin2686", -- joaolucas0182_16889 16/09/26 19/09/26
-    "Piloto0_07" -- w3l1n6 16/09/26 19/09/26
+    "Piloto0_07", -- w3l1n6 16/09/26 19/09/26
+    "Dioggb3" -- rickzinrlx_20798 16/09/26 19/09/26
 }
