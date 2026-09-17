@@ -132,5 +132,6 @@ return {
     "pedropis1231", -- pedroso04757 17/09/26 20/09/26
     "llovesthy", -- shydegalba_22969 17/09/26 20/09/26
     "Dudu157_TDR", -- dudu086746 17/09/26 20/09/26
-    "pdjffhgegrgrgb" -- mg_70411 17/09/26 20/09/26
+    "pdjffhgegrgrgb", -- mg_70411 17/09/26 20/09/26
+    "CassidyRoss42939" -- luan025164 17/09/26 20/09/26
 }
