@@ -114,5 +114,6 @@ return {
     "WENDEKY7", -- gtarpbrasil 16/09/26 19/09/26
     "davi_pa99h", -- daviflores0302 16/09/26 19/09/26
     "kaio_9178", -- iarleipicanco 16/09/26 19/09/26
-    "0sadx_00" -- sadxff0632_93515 16/09/26 19/09/26
+    "0sadx_00", -- sadxff0632_93515 16/09/26 19/09/26
+    "vhmdjgb_j" -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
 }
