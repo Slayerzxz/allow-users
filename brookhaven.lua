@@ -90,5 +90,6 @@ return {
     "apelapato_490", -- bleckzin0907_31162 16/09/26 19/09/26
     "PHdaisa0", -- CABO MSC NASCIMENTO 🎸🎹🪊 16/09/26 26/09/26
     "ArrowLion32", -- eric_disllei 16/09/26 19/09/26
-    "sensorsemerro" -- juliocesar065670 16/09/26 19/09/26
+    "sensorsemerro", -- juliocesar065670 16/09/26 19/09/26
+    "cadres_212" -- sm.xx_zl_42208 16/09/26 19/09/26
 }
