@@ -116,5 +116,6 @@ return {
     "kaio_9178", -- iarleipicanco 16/09/26 19/09/26
     "0sadx_00", -- sadxff0632_93515 16/09/26 19/09/26
     "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
-    "Wb_Vampknit" -- wb_vampknit 16/09/26 19/09/26
+    "Wb_Vampknit", -- wb_vampknit 16/09/26 19/09/26
+    "Rinaldo255" -- vivalavida.00 16/09/26 19/09/26
 }
