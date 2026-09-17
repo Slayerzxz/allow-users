@@ -135,5 +135,6 @@ return {
     "pdjffhgegrgrgb", -- mg_70411 17/09/26 20/09/26
     "CassidyRoss42939", -- luan025164 17/09/26 20/09/26
     "LZZ116", -- polinxs7h 17/09/26 20/09/26
-    "eslly1892k8" -- elly.wv7 17/09/26 20/09/26
+    "eslly1892k8", -- elly.wv7 17/09/26 20/09/26
+    "julhobareto" -- techup0581 17/09/26 20/09/26
 }
