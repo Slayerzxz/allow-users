@@ -115,5 +115,6 @@ return {
     "davi_pa99h", -- daviflores0302 16/09/26 19/09/26
     "kaio_9178", -- iarleipicanco 16/09/26 19/09/26
     "0sadx_00", -- sadxff0632_93515 16/09/26 19/09/26
-    "vhmdjgb_j" -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
+    "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
+    "Wb_Vampknit" -- wb_vampknit 16/09/26 19/09/26
 }
