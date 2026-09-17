@@ -21,7 +21,6 @@ return {
     "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
     "onlymothers3", -- John813 10/09/26 12/10/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
-    "m4_pedrin", -- Pdhxn 10/09/26 17/09/26
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 11/09/26 27/01/54
@@ -39,33 +38,9 @@ return {
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 13/09/26 29/01/54
     "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
-    "RIP_indra98519", -- datk2244 14/09/26 17/09/26
-    "GhostTinyBear", -- slk_compenw 14/09/26 17/09/26
     "ina215900", -- ꧁Dvzxx꧂ 15/09/26 22/09/26
-    "my_soyfuego", -- emilly071042 14/09/26 17/09/26
     "R7_dnxz", -- R7 14/09/26 10/08/64
-    "ooliverandreee", -- ooliver_3e 14/09/26 17/09/26
     "jvzin9729", -- Jvzin 14/09/26 29/01/54
-    "profiadolz1", -- dadas__444 14/09/26 17/09/26
-    "vitor_hugo01234", -- vitim_027_ 14/09/26 17/09/26
-    "Rip_icone1", -- kaleby0341 14/09/26 17/09/26
-    "Eo_OfoX", -- maria_criarj 14/09/26 17/09/26
-    "Brundcx_k", -- indiozn_domal_08883 14/09/26 17/09/26
-    "Japinha946788", -- belly_56 14/09/26 17/09/26
-    "lua989594", -- bela0422_26774 14/09/26 17/09/26
-    "K666pkildd", -- mysterioso._71615 14/09/26 17/09/26
-    "dapenha220", -- filho_rebelde22 14/09/26 17/09/26
-    "manimoradi05", -- mani066306 14/09/26 17/09/26
-    "aurazzz_01", -- aurazzz_01 14/09/26 17/09/26
-    "Grazielyoiii", -- eolk0448 14/09/26 17/09/26
-    "Peppaporca67", -- ixi362. 14/09/26 17/09/26
-    "kauaenay", -- kaue082039 14/09/26 17/09/26
-    "Vetzoy125", -- 7_vetz_39779 14/09/26 17/09/26
-    "mercuriobrx67", -- santozz0705_34103 14/09/26 17/09/26
-    "hsjsvd678", -- conrado059809 14/09/26 17/09/26
-    "Miguelito208h", -- miguel77w7._45324 14/09/26 17/09/26
-    "meunomer3aleesse", -- megak1ll. 14/09/26 17/09/26
-    "NORMALOTEMPO", -- nina1230900 14/09/26 17/09/26
     "ketchup2228", -- Slayer Hub | Admin 15/09/26 18/09/26
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
     "enzome156", -- iludido_2.0 15/09/26 18/09/26
