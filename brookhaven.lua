@@ -84,5 +84,6 @@ return {
     "Dioggb3", -- rickzinrlx_20798 16/09/26 19/09/26
     "maxnovo_009", -- menor_tralha777. 16/09/26 19/09/26
     "black_01428", -- blessed004521 16/09/26 19/09/26
-    "ddelakc" -- ryan056541 16/09/26 19/09/26
+    "ddelakc", -- ryan056541 16/09/26 19/09/26
+    "jubileu7810900" -- menortop_001_07072 16/09/26 19/09/26
 }
