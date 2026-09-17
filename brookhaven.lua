@@ -114,5 +114,6 @@ return {
     "Manuella44m95", -- manudivakj 16/09/26 19/09/26
     "WENDEKY7", -- gtarpbrasil 16/09/26 19/09/26
     "davi_pa99h", -- daviflores0302 16/09/26 19/09/26
-    "kaio_9178" -- iarleipicanco 16/09/26 19/09/26
+    "kaio_9178", -- iarleipicanco 16/09/26 19/09/26
+    "0sadx_00" -- sadxff0632_93515 16/09/26 19/09/26
 }
