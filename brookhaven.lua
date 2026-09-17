@@ -111,5 +111,6 @@ return {
     "ManuelaRS82", -- alefe0263 16/09/26 19/09/26
     "bielwqc", -- bieldamidiakkj 16/09/26 19/09/26
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
-    "Manuella44m95" -- manudivakj 16/09/26 19/09/26
+    "Manuella44m95", -- manudivakj 16/09/26 19/09/26
+    "WENDEKY7" -- gtarpbrasil 16/09/26 19/09/26
 }
