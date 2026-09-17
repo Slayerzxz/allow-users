@@ -89,5 +89,6 @@ return {
     "RIP_KAUA836", -- kaua073195 16/09/26 19/09/26
     "apelapato_490", -- bleckzin0907_31162 16/09/26 19/09/26
     "PHdaisa0", -- CABO MSC NASCIMENTO 🎸🎹🪊 16/09/26 26/09/26
-    "ArrowLion32" -- eric_disllei 16/09/26 19/09/26
+    "ArrowLion32", -- eric_disllei 16/09/26 19/09/26
+    "sensorsemerro" -- juliocesar065670 16/09/26 19/09/26
 }
