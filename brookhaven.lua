@@ -97,5 +97,6 @@ return {
     "teajudonono99", -- daviziin0581 16/09/26 19/09/26
     "masteroogway2384", -- imjusthere0192 16/09/26 19/09/26
     "mari123", -- claramirandarepolho 16/09/26 19/09/26
-    "girldayana000" -- richrd0241_70577 16/09/26 19/09/26
+    "girldayana000", -- richrd0241_70577 16/09/26 19/09/26
+    "bbzin7765" -- q01o3u 16/09/26 19/09/26
 }
