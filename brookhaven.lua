@@ -74,5 +74,6 @@ return {
     "Joan45858", -- Liviablox 16/09/26 31/01/54
     "Ravis_contasegund", -- joaoexe66 16/09/26 21/09/26
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 16/09/26 31/01/54
-    "sadzin131" -- pietro 16/09/26 26/01/27
+    "sadzin131", -- pietro 16/09/26 26/01/27
+    "pedroleo50" -- eodryxxz_89777 16/09/26 19/09/26
 }
