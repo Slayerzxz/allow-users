@@ -123,5 +123,6 @@ return {
     "Diulyan2030141D", -- draxmdx_51131 17/09/26 20/09/26
     "0vamp_zx0", -- dz7_157 17/09/26 20/09/26
     "jhonnysiuza9", -- jhonny244_. 17/09/26 20/09/26
-    "ZORO_HND1" -- alexamiri444 17/09/26 20/09/26
+    "ZORO_HND1", -- alexamiri444 17/09/26 20/09/26
+    "therealneverfall" -- therealneverliess 17/09/26 20/09/26
 }
