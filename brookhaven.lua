@@ -94,5 +94,6 @@ return {
     "cadres_212", -- sm.xx_zl_42208 16/09/26 19/09/26
     "opa", -- adryanzin06374 16/09/26 19/09/26
     "luigutavo56", -- yuyuyuyu0617 16/09/26 19/09/26
-    "teajudonono99" -- daviziin0581 16/09/26 19/09/26
+    "teajudonono99", -- daviziin0581 16/09/26 19/09/26
+    "masteroogway2384" -- imjusthere0192 16/09/26 19/09/26
 }
