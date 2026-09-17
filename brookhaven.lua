@@ -95,5 +95,6 @@ return {
     "opa", -- adryanzin06374 16/09/26 19/09/26
     "luigutavo56", -- yuyuyuyu0617 16/09/26 19/09/26
     "teajudonono99", -- daviziin0581 16/09/26 19/09/26
-    "masteroogway2384" -- imjusthere0192 16/09/26 19/09/26
+    "masteroogway2384", -- imjusthere0192 16/09/26 19/09/26
+    "mari123" -- claramirandarepolho 16/09/26 19/09/26
 }
