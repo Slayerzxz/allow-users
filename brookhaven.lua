@@ -92,5 +92,6 @@ return {
     "ArrowLion32", -- eric_disllei 16/09/26 19/09/26
     "sensorsemerro", -- juliocesar065670 16/09/26 19/09/26
     "cadres_212", -- sm.xx_zl_42208 16/09/26 19/09/26
-    "opa" -- adryanzin06374 16/09/26 19/09/26
+    "opa", -- adryanzin06374 16/09/26 19/09/26
+    "luigutavo56" -- yuyuyuyu0617 16/09/26 19/09/26
 }
