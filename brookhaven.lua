@@ -103,5 +103,6 @@ return {
     "floxbox2021", -- tubers9307439 16/09/26 19/09/26
     "flesh2661", -- artur066874 16/09/26 19/09/26
     "Reidospiratas201311", -- kendrick0010886 16/09/26 19/09/26
-    "Nex_titans" -- gb_black17 16/09/26 19/09/26
+    "Nex_titans", -- gb_black17 16/09/26 19/09/26
+    "Carlinho1142" -- carlos031494 16/09/26 19/09/26
 }
