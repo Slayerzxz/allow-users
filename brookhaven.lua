@@ -14,7 +14,7 @@ return {
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
     "KAWASAKI2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
-    "kawazaki2812", -- Kaio 11/09/26 27/01/54
+    "kawazaki2812", -- Kaio 17/09/26 02/02/54
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
     "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
