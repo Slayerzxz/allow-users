@@ -41,7 +41,7 @@ return {
     "R7_dnxz", -- R7 14/09/26 10/08/64
     "jvzin9729", -- Jvzin 14/09/26 29/01/54
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
-    "judelcy7", -- SolteirinhoBALA 16/09/26 19/09/26
+    "judelcy7", -- SolteirinhoBALA 18/09/26 14/06/29
     "Joan45858", -- Liviablox 16/09/26 31/01/54
     "Ravis_contasegund", -- joaoexe66 16/09/26 21/09/26
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 16/09/26 31/01/54
