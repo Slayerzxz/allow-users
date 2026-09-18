@@ -40,9 +40,7 @@ return {
     "ina215900", -- ꧁Dvzxx꧂ 15/09/26 22/09/26
     "R7_dnxz", -- R7 14/09/26 10/08/64
     "jvzin9729", -- Jvzin 14/09/26 29/01/54
-    "ketchup2228", -- Slayer Hub | Admin 15/09/26 18/09/26
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
-    "enzome156", -- iludido_2.0 15/09/26 18/09/26
     "judelcy7", -- SolteirinhoBALA 16/09/26 19/09/26
     "Joan45858", -- Liviablox 16/09/26 31/01/54
     "Ravis_contasegund", -- joaoexe66 16/09/26 21/09/26
