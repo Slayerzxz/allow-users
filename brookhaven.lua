@@ -109,7 +109,7 @@ return {
     "eslly1892k8", -- elly.wv7 17/09/26 20/09/26
     "julhobareto", -- techup0581 17/09/26 20/09/26
     "Wb_Vampknit", -- 愛 17/09/26 20/09/26
-    "coco234melon8", -- alexis080407 17/09/26 20/09/26
+    "coco234melon8", -- ALEXIS 18/09/26 19/09/26
     "kfc230_50", -- ⚔️𝕽𝖊𝖈𝖗𝖚𝖙𝖆08⚔️ 17/09/26 13/06/29
     "fra1010o3837r7pwpq", -- francesco005833 17/09/26 20/09/26
     "raposozin3", -- raposo_adm_11572 17/09/26 20/09/26
