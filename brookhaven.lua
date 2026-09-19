@@ -46,49 +46,9 @@ return {
     "Ravis_contasegund", -- joaoexe66 16/09/26 21/09/26
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 16/09/26 31/01/54
     "sadzin131", -- pietro 16/09/26 26/01/27
-    "pedroleo50", -- eodryxxz_89777 16/09/26 19/09/26
-    "xandy_057", -- xandy17_90418 16/09/26 19/09/26
-    "REIDAVIGAMERLIN", -- davigamerlin3.9 16/09/26 19/09/26
-    "sharkzin2686", -- joaolucas0182_16889 16/09/26 19/09/26
-    "Piloto0_07", -- w3l1n6 16/09/26 19/09/26
-    "Dioggb3", -- rickzinrlx_20798 16/09/26 19/09/26
-    "maxnovo_009", -- menor_tralha777. 16/09/26 19/09/26
-    "black_01428", -- blessed004521 16/09/26 19/09/26
-    "ddelakc", -- ryan056541 16/09/26 19/09/26
-    "jubileu7810900", -- menortop_001_07072 16/09/26 19/09/26
-    "silv4zinx4", -- selfieshrare7 16/09/26 19/09/26
-    "RIP_KAUA836", -- kaua073195 16/09/26 19/09/26
-    "apelapato_490", -- bleckzin0907_31162 16/09/26 19/09/26
     "PHdaisa0", -- CABO MSC NASCIMENTO 🎸🎹🪊 16/09/26 26/09/26
-    "ArrowLion32", -- eric_disllei 16/09/26 19/09/26
-    "sensorsemerro", -- juliocesar065670 16/09/26 19/09/26
-    "cadres_212", -- sm.xx_zl_42208 16/09/26 19/09/26
-    "luigutavo56", -- yuyuyuyu0617 16/09/26 19/09/26
-    "teajudonono99", -- daviziin0581 16/09/26 19/09/26
-    "masteroogway2384", -- imjusthere0192 16/09/26 19/09/26
-    "mari123", -- claramirandarepolho 16/09/26 19/09/26
-    "girldayana000", -- richrd0241_70577 16/09/26 19/09/26
-    "bbzin7765", -- q01o3u 16/09/26 19/09/26
-    "lucasmacfrire", -- chamageladin 16/09/26 19/09/26
-    "dirty01_kkj", -- bryan7x0203_93968 16/09/26 19/09/26
-    "floxbox2021", -- tubers9307439 16/09/26 19/09/26
-    "flesh2661", -- artur066874 16/09/26 19/09/26
-    "Reidospiratas201311", -- kendrick0010886 16/09/26 19/09/26
-    "Nex_titans", -- gb_black17 16/09/26 19/09/26
-    "Carlinho1142", -- carlos031494 16/09/26 19/09/26
-    "wzssnts", -- mariyzzk7 16/09/26 19/09/26
-    "Biu181985", -- thailan0457 16/09/26 19/09/26
-    "kakashisl07", -- drao0355 16/09/26 19/09/26
-    "ManuelaRS82", -- alefe0263 16/09/26 19/09/26
-    "bielwqc", -- bieldamidiakkj 16/09/26 19/09/26
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
-    "Manuella44m95", -- manudivakj 16/09/26 19/09/26
-    "WENDEKY7", -- gtarpbrasil 16/09/26 19/09/26
-    "davi_pa99h", -- daviflores0302 16/09/26 19/09/26
-    "kaio_9178", -- iarleipicanco 16/09/26 19/09/26
-    "0sadx_00", -- sadxff0632_93515 16/09/26 19/09/26
     "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
-    "Rinaldo255", -- vivalavida.00 16/09/26 19/09/26
     "Breno010L", -- Quinn Harris 17/09/26 20/09/26
     "L2_tui", -- irush01 17/09/26 20/09/26
     "Diulyan2030141D", -- draxmdx_51131 17/09/26 20/09/26
