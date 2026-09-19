@@ -117,5 +117,6 @@ return {
     "wallace_ghostly", -- R 18/09/26 21/09/26
     "h1ck93", -- политика 18/09/26 14/06/29
     "pedrinz_PH1", -- Davi🩵 18/09/26 21/09/26
-    "joaoking667" -- joaoexe66 18/09/26 03/02/54
+    "joaoking667", -- joaoexe66 18/09/26 03/02/54
+    "arthurgbgm" -- Gbrlz6 19/09/26 22/09/26
 }
