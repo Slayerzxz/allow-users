@@ -49,31 +49,8 @@ return {
     "PHdaisa0", -- CABO MSC NASCIMENTO 🎸🎹🪊 16/09/26 26/09/26
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
     "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
-    "Breno010L", -- Quinn Harris 17/09/26 20/09/26
-    "L2_tui", -- irush01 17/09/26 20/09/26
-    "Diulyan2030141D", -- draxmdx_51131 17/09/26 20/09/26
-    "0vamp_zx0", -- dz7_157 17/09/26 20/09/26
-    "jhonnysiuza9", -- jhonny244_. 17/09/26 20/09/26
-    "ZORO_HND1", -- alexamiri444 17/09/26 20/09/26
-    "therealneverfall", -- therealneverliess 17/09/26 20/09/26
-    "funkeiro_brr", -- enzogabriel07836 17/09/26 20/09/26
-    "lusombril", -- x7_lui_17507 17/09/26 20/09/26
-    "QRAMURILLOGFM", -- murillogfm. 17/09/26 20/09/26
-    "blaze", -- nicolau0738 17/09/26 20/09/26
-    "pedropis1231", -- pedroso04757 17/09/26 20/09/26
-    "llovesthy", -- shydegalba_22969 17/09/26 20/09/26
-    "Dudu157_TDR", -- dudu086746 17/09/26 20/09/26
-    "pdjffhgegrgrgb", -- mg_70411 17/09/26 20/09/26
-    "CassidyRoss42939", -- luan025164 17/09/26 20/09/26
-    "LZZ116", -- polinxs7h 17/09/26 20/09/26
-    "eslly1892k8", -- elly.wv7 17/09/26 20/09/26
-    "julhobareto", -- techup0581 17/09/26 20/09/26
-    "Wb_Vampknit", -- 愛 17/09/26 20/09/26
     "coco234melon8", -- ALEXIS 19/09/26 29/09/26
     "kfc230_50", -- ⚔️𝕽𝖊𝖈𝖗𝖚𝖙𝖆08⚔️ 17/09/26 13/06/29
-    "fra1010o3837r7pwpq", -- francesco005833 17/09/26 20/09/26
-    "raposozin3", -- raposo_adm_11572 17/09/26 20/09/26
-    "Silv4x_67", -- 𝔸𝕦𝕣𝕒𝕫𝕫𝕫 17/09/26 20/09/26
     "wallace_ghostly", -- R 18/09/26 21/09/26
     "h1ck93", -- политика 18/09/26 14/06/29
     "pedrinz_PH1", -- Davi🩵 18/09/26 21/09/26
