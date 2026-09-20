@@ -7,7 +7,6 @@ return {
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
     "MV_ttk1234567", -- Yuki 29/08/26 25/05/29
     "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
-    "Keel_m5", -- دونا 31/08/26 01/10/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
     "realfe23", -- Pedro_021 02/09/26 02/10/26
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
