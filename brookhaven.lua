@@ -80,5 +80,6 @@ return {
     "joaoking667", -- joaoexe66 18/09/26 03/02/54
     "Gabrielr_zx", -- Gbrlz6 19/09/26 22/09/26
     "m4_pedrin", -- Pdhxn 19/09/26 26/09/26
-    "silv4zinx4" -- Davi 19/09/26 04/02/54
+    "silv4zinx4", -- Davi 19/09/26 04/02/54
+    "vJPPbJDzqvK" -- ダヴィジーニョ 19/09/26 29/09/26
 }
