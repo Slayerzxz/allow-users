@@ -29,7 +29,6 @@ return {
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
     "ligapra_90028922", -- Mkzinho0 11/09/26 10/11/26
     "BlackN444hey", -- Coringa 12/09/26 11/11/26
-    "DJ_GIZIM12358", -- dervXbnz 12/09/26 28/01/54
     "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
     "madaranoobb80", -- スバル 12/09/26 12/10/26
