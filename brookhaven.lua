@@ -33,7 +33,6 @@ return {
     "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
     "madaranoobb80", -- スバル 12/09/26 12/10/26
-    "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 13/09/26 29/01/54
     "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
     "ina215900", -- ꧁Dvzxx꧂ 15/09/26 22/09/26
