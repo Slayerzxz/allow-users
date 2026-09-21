@@ -23,7 +23,6 @@ return {
     "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 11/09/26 27/01/54
     "cpa548", -- Kj 11/09/26 27/01/54
     "Ne0nFr0stbite7320", -- 𝓝𝓮𝔁𝔁𝓾𝓼 🩸 11/09/26 27/01/54
-    "LHQIAMAS", -- LH.QIA+ 11/09/26 21/09/26
     "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
     "ligapra_90028922", -- Mkzinho0 11/09/26 10/11/26
@@ -39,16 +38,13 @@ return {
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
     "judelcy7", -- SolteirinhoBALA 18/09/26 14/06/29
     "Joan45858", -- Liviablox 16/09/26 31/01/54
-    "Ravis_contasegund", -- joaoexe66 16/09/26 21/09/26
     "sadzin131", -- pietro 16/09/26 26/01/27
     "PHdaisa0", -- CABO MSC NASCIMENTO 🎸🎹🪊 16/09/26 26/09/26
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
     "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
     "coco234melon8", -- ALEXIS 19/09/26 29/09/26
     "kfc230_50", -- ⚔️𝕽𝖊𝖈𝖗𝖚𝖙𝖆08⚔️ 17/09/26 13/06/29
-    "wallace_ghostly", -- R 18/09/26 21/09/26
     "h1ck93", -- политика 18/09/26 14/06/29
-    "pedrinz_PH1", -- Davi🩵 18/09/26 21/09/26
     "joaoking667", -- joaoexe66 18/09/26 03/02/54
     "Gabrielr_zx", -- Gbrlz6 19/09/26 22/09/26
     "m4_pedrin", -- Pdhxn 19/09/26 26/09/26
