@@ -53,5 +53,6 @@ return {
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
     "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 20/09/26 16/06/29
-    "ketchup2228" -- Loritta 20/09/26 30/09/26
+    "ketchup2228", -- Loritta 20/09/26 30/09/26
+    "therealneverfall" -- haru 22/09/26 22/10/26
 }
