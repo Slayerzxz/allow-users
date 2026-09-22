@@ -32,7 +32,6 @@ return {
     "madaranoobb80", -- スバル 12/09/26 12/10/26
     "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
-    "ina215900", -- ꧁Dvzxx꧂ 15/09/26 22/09/26
     "R7_dnxz", -- R7 14/09/26 10/08/64
     "jvzin9729", -- Jvzin 14/09/26 29/01/54
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
@@ -46,7 +45,6 @@ return {
     "kfc230_50", -- ⚔️𝕽𝖊𝖈𝖗𝖚𝖙𝖆08⚔️ 17/09/26 13/06/29
     "h1ck93", -- политика 18/09/26 14/06/29
     "joaoking667", -- joaoexe66 18/09/26 03/02/54
-    "Gabrielr_zx", -- Gbrlz6 19/09/26 22/09/26
     "m4_pedrin", -- Pdhxn 19/09/26 26/09/26
     "silv4zinx4", -- Davi 19/09/26 04/02/54
     "vJPPbJDzqvK", -- ダヴィジーニョ 19/09/26 29/09/26
