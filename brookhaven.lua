@@ -56,5 +56,5 @@ return {
     "bielwqc", -- Bieldamidiakkj 22/09/26 24/09/26
     "mig108020", -- 72 22/09/26 01/11/26
     "misterioso3333333338", -- Slayer Hub | Admin 22/09/26 25/09/26
-    "itz_kadu22" -- Bazuka հվ 23/09/26 24/09/26
+    "itz_kadu22" -- Bazuka հվ 23/09/26 24/09/26 testando admin
 }
