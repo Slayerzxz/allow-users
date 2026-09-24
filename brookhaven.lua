@@ -57,5 +57,6 @@ return {
     "misterioso3333333338", -- Slayer Hub | Admin 22/09/26 25/09/26
     "itz_kadu22", -- Bazuka հվ 23/09/26 24/09/26 testando admin
     "eslly1892k8", -- Luiz 23/09/26 26/09/26
-    "alnmk_7" -- Samuelmorie 23/09/26 26/09/26
+    "alnmk_7", -- Samuelmorie 23/09/26 26/09/26
+    "BVMello" -- AKI 24/09/26 01/10/26
 }
