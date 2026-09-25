@@ -59,5 +59,6 @@ return {
     "alnmk_7", -- Samuelmorie 23/09/26 26/09/26
     "BVMello", -- AKI 24/09/26 01/10/26
     "jwejeje00", -- Slkaiss 25/09/26 26/09/26
-    "mercuriobrx67" -- Santozz 25/09/26 21/06/29
+    "mercuriobrx67", -- Santozz 25/09/26 21/06/29
+    "Evanex94" -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
 }
