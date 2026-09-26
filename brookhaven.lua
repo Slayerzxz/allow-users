@@ -56,5 +56,6 @@ return {
     "BVMello", -- AKI 24/09/26 01/10/26
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
-    "Mathe26ci" -- Matheus 15 26/09/26 06/10/26
+    "Mathe26ci", -- Matheus 15 26/09/26 06/10/26
+    "naoseipkqw" -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
 }
