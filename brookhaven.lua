@@ -38,14 +38,12 @@ return {
     "judelcy7", -- SolteirinhoBALA 18/09/26 14/06/29
     "Joan45858", -- Liviablox 16/09/26 31/01/54
     "sadzin131", -- pietro 16/09/26 26/01/27
-    "PHdaisa0", -- CABO MSC NASCIMENTO 🎸🎹🪊 16/09/26 26/09/26
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
     "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
     "coco234melon8", -- ALEXIS 19/09/26 29/09/26
     "kfc230_50", -- ⚔️𝕽𝖊𝖈𝖗𝖚𝖙𝖆08⚔️ 17/09/26 13/06/29
     "h1ck93", -- политика 18/09/26 14/06/29
     "joaoking667", -- joaoexe66 18/09/26 03/02/54
-    "m4_pedrin", -- Pdhxn 19/09/26 26/09/26
     "silv4zinx4", -- Davi 19/09/26 04/02/54
     "vJPPbJDzqvK", -- ダヴィジーニョ 19/09/26 29/09/26
     "Keel_m5", -- ? 20/09/26 16/06/29
@@ -55,10 +53,7 @@ return {
     "therealneverfall", -- haru 22/09/26 22/10/26
     "mig108020", -- 72 22/09/26 01/11/26
     "itz_kadu22", -- Bazuka հվ 23/09/26 24/09/26 testando admin
-    "eslly1892k8", -- Luiz 23/09/26 26/09/26
-    "alnmk_7", -- Samuelmorie 23/09/26 26/09/26
     "BVMello", -- AKI 24/09/26 01/10/26
-    "jwejeje00", -- Slkaiss 25/09/26 26/09/26
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94" -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
 }
