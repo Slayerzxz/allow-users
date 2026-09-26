@@ -55,5 +55,6 @@ return {
     "itz_kadu22", -- Bazuka հվ 23/09/26 24/09/26 testando admin
     "BVMello", -- AKI 24/09/26 01/10/26
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
-    "Evanex94" -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
+    "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
+    "Mathe26ci" -- Matheus 15 26/09/26 06/10/26
 }
