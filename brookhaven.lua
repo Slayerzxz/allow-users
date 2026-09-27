@@ -63,5 +63,6 @@ return {
     "cleitin43998", -- Miguelito 26/09/26 29/09/26
     "soskowskosnxos", -- Slayer Hub | Admin 27/09/26 01/10/26
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
-    "tenenteluan3434" -- Ytalo 27/09/26 25/01/27
+    "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
+    "0000987622wsws" -- ꧁♡ 𝑪𝒉𝒆𝒓𝒓𝒚 ♡꧂ 27/09/26 30/09/26
 }
