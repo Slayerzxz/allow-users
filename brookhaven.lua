@@ -60,5 +60,6 @@ return {
     "naoseipkqw", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
     "m4_pedrin", -- Pdhxn 26/09/26 03/10/26
     "xamueumc", -- -2,50 26/09/26 11/02/54
-    "cleitin43998" -- Miguelito 26/09/26 29/09/26
+    "cleitin43998", -- Miguelito 26/09/26 29/09/26
+    "soskowskosnxos" -- Slayer Hub | Admin 27/09/26 01/10/26
 }
