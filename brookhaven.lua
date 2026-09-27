@@ -61,5 +61,6 @@ return {
     "m4_pedrin", -- Pdhxn 26/09/26 03/10/26
     "xamueumc", -- -2,50 26/09/26 11/02/54
     "cleitin43998", -- Miguelito 26/09/26 29/09/26
-    "soskowskosnxos" -- Slayer Hub | Admin 27/09/26 01/10/26
+    "soskowskosnxos", -- Slayer Hub | Admin 27/09/26 01/10/26
+    "CarlGill737" -- Leonardo 27/09/26 23/06/29
 }
