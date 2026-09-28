@@ -66,5 +66,6 @@ return {
     "0000987622wsws", -- ꧁♡ 𝑪𝒉𝒆𝒓𝒓𝒚 ♡꧂ 27/09/26 30/09/26
     "agatha_rebeka", -- WS SEM MÍDIA😇 27/09/26 02/10/26
     "DariusCarri3Dani3l", -- Ⓥ ™🍀AnGeL.🎭 28/09/26 02/10/26
-    "Daviigame88" -- zen_cheetah_14153 28/09/26 01/10/26
+    "Daviigame88", -- zen_cheetah_14153 28/09/26 01/10/26
+    "itz_banguelo" -- Myka 28/09/26 01/10/26
 }
