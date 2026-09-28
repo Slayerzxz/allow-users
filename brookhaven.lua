@@ -36,7 +36,7 @@ return {
     "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29
     "judelcy7", -- SolteirinhoBALA 18/09/26 14/06/29
     "Joan45858", -- Liviablox 16/09/26 31/01/54
-    "sadzin131", -- pietro 16/09/26 26/01/27
+    "sadzin131", -- pietro 16/09/26 26/01/27 influenciador
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
     "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
     "coco234melon8", -- ALEXIS 28/09/26 05/10/26
