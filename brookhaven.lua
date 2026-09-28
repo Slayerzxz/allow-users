@@ -15,7 +15,6 @@ return {
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
     "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
-    "TrollLinux", -- Yuki (Owner) 08/09/26 28/09/26
     "onlymothers3", -- John813 10/09/26 12/10/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
@@ -65,7 +64,6 @@ return {
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
     "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
     "0000987622wsws", -- ꧁♡ 𝑪𝒉𝒆𝒓𝒓𝒚 ♡꧂ 27/09/26 30/09/26
-    "Marcwl12355", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 27/09/26 28/09/26
     "agatha_rebeka", -- WS SEM MÍDIA😇 27/09/26 02/10/26
     "DariusCarri3Dani3l" -- Ⓥ ™🍀AnGeL.🎭 28/09/26 02/10/26
 }
