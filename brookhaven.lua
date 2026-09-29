@@ -5,7 +5,6 @@ return {
     "Apenas_eu362", -- политика 14/09/26 30/01/54
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
-    "darkizinha_6767", -- Slayer Hub | Moderation 30/08/26 29/09/26
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
     "realfe23", -- Pedro_021 02/09/26 02/10/26
     "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
@@ -44,7 +43,6 @@ return {
     "h1ck93", -- политика 18/09/26 14/06/29
     "joaoking667", -- joaoexe66 18/09/26 03/02/54
     "silv4zinx4", -- Davi 19/09/26 04/02/54
-    "vJPPbJDzqvK", -- ダヴィジーニョ 19/09/26 29/09/26
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
     "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 20/09/26 16/06/29
@@ -59,7 +57,6 @@ return {
     "naoseipkqw", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
     "m4_pedrin", -- Pdhxn 26/09/26 03/10/26
     "xamueumc", -- -2,50 26/09/26 11/02/54
-    "cleitin43998", -- Miguelito 26/09/26 29/09/26
     "soskowskosnxos", -- Slayer Hub | Admin 27/09/26 01/10/26
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
     "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
