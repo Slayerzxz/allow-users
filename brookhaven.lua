@@ -66,5 +66,6 @@ return {
     "Daviigame88", -- zen_cheetah_14153 28/09/26 01/10/26
     "itz_banguelo", -- Myka 28/09/26 01/10/26
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
-    "Davijeffersonjj" -- Daves 29/09/26 02/10/26
+    "Davijeffersonjj", -- Daves 29/09/26 02/10/26
+    "nobrebrete" -- Erro 404 29/09/26 02/10/26
 }
