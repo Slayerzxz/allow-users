@@ -1,5 +1,6 @@
 return {
     "StaffordMakayla783", -- bazuka
+    "Breno010L", -- Bazuka 26/08/26 22/05/99 Dono Do Slayer
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
     "Apenas_eu362", -- политика 14/09/26 30/01/54
