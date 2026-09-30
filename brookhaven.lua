@@ -46,7 +46,6 @@ return {
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
     "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 20/09/26 16/06/29
-    "ketchup2228", -- Loritta 20/09/26 30/09/26
     "therealneverfall", -- haru 22/09/26 22/10/26
     "mig108020", -- 72 22/09/26 01/11/26
     "itz_kadu22", -- Bazuka հվ 23/09/26 24/09/26 testando admin
@@ -60,7 +59,6 @@ return {
     "soskowskosnxos", -- Slayer Hub | Admin 27/09/26 01/10/26
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
     "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
-    "0000987622wsws", -- ꧁♡ 𝑪𝒉𝒆𝒓𝒓𝒚 ♡꧂ 27/09/26 30/09/26
     "agatha_rebeka", -- WS SEM MÍDIA😇 27/09/26 02/10/26
     "DariusCarri3Dani3l", -- Ⓥ ™🍀AnGeL.🎭 28/09/26 02/10/26
     "Daviigame88", -- zen_cheetah_14153 28/09/26 01/10/26
