@@ -67,5 +67,6 @@ return {
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
     "Davijeffersonjj", -- Daves 29/09/26 02/10/26
     "nobrebrete", -- Erro 404 29/09/26 02/10/26
-    "XxCircuitCha0sxX96" -- Allan6767 29/09/26 14/02/54
+    "XxCircuitCha0sxX96", -- Allan6767 29/09/26 14/02/54
+    "cubel_artigo244" -- Dz7 30/09/26 10/10/26
 }
