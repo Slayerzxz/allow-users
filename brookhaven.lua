@@ -49,20 +49,16 @@ return {
     "therealneverfall", -- haru 22/09/26 22/10/26
     "mig108020", -- 72 22/09/26 01/11/26
     "itz_kadu22", -- Bazuka հվ 23/09/26 24/09/26 testando admin
-    "BVMello", -- AKI 24/09/26 01/10/26
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
     "Mathe26ci", -- Matheus 15 26/09/26 06/10/26
     "naoseipkqw", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
     "m4_pedrin", -- Pdhxn 26/09/26 03/10/26
     "xamueumc", -- -2,50 26/09/26 11/02/54
-    "soskowskosnxos", -- Slayer Hub | Admin 27/09/26 01/10/26
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
     "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
     "agatha_rebeka", -- WS SEM MÍDIA😇 27/09/26 02/10/26
     "DariusCarri3Dani3l", -- Ⓥ ™🍀AnGeL.🎭 28/09/26 02/10/26
-    "Daviigame88", -- zen_cheetah_14153 28/09/26 01/10/26
-    "itz_banguelo", -- Myka 28/09/26 01/10/26
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
     "Davijeffersonjj", -- Daves 29/09/26 02/10/26
     "nobrebrete", -- Erro 404 29/09/26 02/10/26
