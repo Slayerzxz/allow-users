@@ -69,5 +69,6 @@ return {
     "XxCircuitCha0sxX96", -- Allan6767 29/09/26 14/02/54
     "cubel_artigo244", -- Dz7 30/09/26 10/10/26
     "xinglin037", -- Davi 30/09/26 30/10/26
-    "coco234melon8" -- ALEXIS 30/09/26 12/10/26
+    "coco234melon8", -- ALEXIS 30/09/26 12/10/26
+    "lkzinpopote" -- LK🙊🙈✨ 30/09/26 03/10/26
 }
