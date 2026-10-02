@@ -67,5 +67,6 @@ return {
     "bleck_0218", -- omk ANÔNIMO 02/10/26 16/11/26
     "LOVIZINHO177", -- Danyllo67 02/10/26 05/10/26
     "soy_Brayan120", -- SURFISTA ✌🏻 02/10/26 17/02/54
-    "Mafioso_GP4" -- Souzaxx 02/10/26 17/02/54
+    "Mafioso_GP4", -- Souzaxx 02/10/26 17/02/54
+    "errorkkakakakakakak" -- Myka 02/10/26 04/10/26
 }
