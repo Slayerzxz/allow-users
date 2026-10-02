@@ -67,5 +67,6 @@ return {
     "xinglin037", -- Davi 30/09/26 30/10/26
     "coco234melon8", -- ALEXIS 30/09/26 12/10/26
     "lkzinpopote", -- LK🙊🙈✨ 30/09/26 03/10/26
-    "capotin41" -- Pdhxn 01/10/26 02/10/26
+    "capotin41", -- Pdhxn 01/10/26 02/10/26
+    "usbhsnbsosb" -- Gagadev_666 01/10/26 27/06/29
 }
