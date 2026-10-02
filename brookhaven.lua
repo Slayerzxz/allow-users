@@ -63,5 +63,6 @@ return {
     "lkzinpopote", -- LK🙊🙈✨ 30/09/26 03/10/26
     "usbhsnbsosb", -- Gagadev_666 01/10/26 27/06/29
     "desconhecido01834", -- Jp 02/10/26 20/03/29
-    "Rafinha4bloco" -- Rafael😁 02/10/26 17/02/54
+    "Rafinha4bloco", -- Rafael😁 02/10/26 17/02/54
+    "bleck_0218" -- omk ANÔNIMO 02/10/26 16/11/26
 }
