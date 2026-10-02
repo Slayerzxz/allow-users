@@ -7,8 +7,6 @@ return {
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
-    "realfe23", -- Pedro_021 02/09/26 02/10/26
-    "lorenzOo_1589", -- Gugugaga 02/09/26 02/10/26
     "KAWASAKI2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 17/09/26 02/02/54
@@ -57,16 +55,11 @@ return {
     "xamueumc", -- -2,50 26/09/26 11/02/54
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
     "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
-    "agatha_rebeka", -- WS SEM MÍDIA😇 27/09/26 02/10/26
-    "DariusCarri3Dani3l", -- Ⓥ ™🍀AnGeL.🎭 28/09/26 02/10/26
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
-    "Davijeffersonjj", -- Daves 29/09/26 02/10/26
-    "nobrebrete", -- Erro 404 29/09/26 02/10/26
     "XxCircuitCha0sxX96", -- Allan6767 29/09/26 14/02/54
     "cubel_artigo244", -- Dz7 30/09/26 10/10/26
     "xinglin037", -- Davi 30/09/26 30/10/26
     "coco234melon8", -- ALEXIS 30/09/26 12/10/26
     "lkzinpopote", -- LK🙊🙈✨ 30/09/26 03/10/26
-    "capotin41", -- Pdhxn 01/10/26 02/10/26
     "usbhsnbsosb" -- Gagadev_666 01/10/26 27/06/29
 }
