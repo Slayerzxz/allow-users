@@ -72,5 +72,6 @@ return {
     "leo6777546", -- 666_BILLS 03/10/26 04/10/26
     "rorginho_00", -- 7dasorte 03/10/26 08/10/26
     "samuel_mi244", -- 🥷🇧🇷 𝑺𝑴 𝑿 ✓🥷🇧🇷 03/10/26 29/06/29
-    "Sammyleveibanimento" -- Sammy 03/10/26 18/02/54
+    "Sammyleveibanimento", -- Sammy 03/10/26 18/02/54
+    "AJLES2017" -- ^ 𝐍𝐄𝐗𝐔𝐒 🖤 03/10/26 10/10/26
 }
