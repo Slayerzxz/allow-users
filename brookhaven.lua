@@ -51,7 +51,6 @@ return {
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
     "Mathe26ci", -- Matheus 15 26/09/26 06/10/26
     "naoseipkqw", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
-    "m4_pedrin", -- Pdhxn 26/09/26 03/10/26
     "xamueumc", -- -2,50 26/09/26 11/02/54
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
     "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
@@ -60,7 +59,6 @@ return {
     "cubel_artigo244", -- Dz7 30/09/26 10/10/26
     "xinglin037", -- Davi 30/09/26 30/10/26
     "coco234melon8", -- ALEXIS 30/09/26 12/10/26
-    "lkzinpopote", -- LK🙊🙈✨ 30/09/26 03/10/26
     "usbhsnbsosb", -- Gagadev_666 01/10/26 27/06/29
     "desconhecido01834", -- Jp 02/10/26 20/03/29
     "Rafinha4bloco", -- Rafael😁 02/10/26 17/02/54
