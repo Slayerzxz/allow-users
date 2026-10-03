@@ -67,5 +67,6 @@ return {
     "soy_Brayan120", -- SURFISTA ✌🏻 02/10/26 17/02/54
     "Mafioso_GP4", -- Souzaxx 02/10/26 17/02/54
     "errorkkakakakakakak", -- Myka 02/10/26 04/10/26
-    "vitorlimalimalima" -- J_J 02/10/26 09/10/26
+    "vitorlimalimalima", -- J_J 02/10/26 09/10/26
+    "fernandomt5" -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 03/10/26 18/02/54
 }
