@@ -69,5 +69,6 @@ return {
     "errorkkakakakakakak", -- Myka 02/10/26 04/10/26
     "vitorlimalimalima", -- J_J 02/10/26 09/10/26
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 03/10/26 18/02/54
-    "leo6777546" -- 666_BILLS 03/10/26 04/10/26
+    "leo6777546", -- 666_BILLS 03/10/26 04/10/26
+    "rorginho_00" -- 7dasorte 03/10/26 08/10/26
 }
