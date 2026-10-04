@@ -66,10 +66,8 @@ return {
     "LOVIZINHO177", -- Danyllo67 02/10/26 05/10/26
     "soy_Brayan120", -- SURFISTA ✌🏻 02/10/26 17/02/54
     "Mafioso_GP4", -- Souzaxx 02/10/26 17/02/54
-    "errorkkakakakakakak", -- Myka 02/10/26 04/10/26
     "vitorlimalimalima", -- J_J 02/10/26 09/10/26
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 03/10/26 18/02/54
-    "leo6777546", -- 666_BILLS 03/10/26 04/10/26
     "rorginho_00", -- 7dasorte 03/10/26 08/10/26
     "samuel_mi244", -- 🥷🇧🇷 𝑺𝑴 𝑿 ✓🥷🇧🇷 03/10/26 29/06/29
     "Sammyleveibanimento", -- Sammy 03/10/26 18/02/54
