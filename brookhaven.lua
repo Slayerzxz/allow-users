@@ -80,5 +80,6 @@ return {
     "phlone4", -- Ph_di 05/10/26 04/12/26
     "ReiLeaoGato", -- prime_swan_64085 05/10/26 07/10/26
     "Meliodas35ty8", -- Marcos 05/10/26 02/02/27
-    "eojackrp" -- William 05/10/26 20/02/54
+    "eojackrp", -- William 05/10/26 20/02/54
+    "MasonCode6400" -- D4RK 05/10/26 20/02/54
 }
