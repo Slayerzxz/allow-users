@@ -78,5 +78,6 @@ return {
     "luquitas92381", -- Marcos 04/10/26 03/11/26
     "THXXGABRIELFF7", -- 💤 05/10/26 20/02/54
     "phlone4", -- Ph_di 05/10/26 04/12/26
-    "ReiLeaoGato" -- prime_swan_64085 05/10/26 07/10/26
+    "ReiLeaoGato", -- prime_swan_64085 05/10/26 07/10/26
+    "Meliodas35ty8" -- Marcos 05/10/26 02/02/27
 }
