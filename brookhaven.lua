@@ -78,5 +78,6 @@ return {
     "xandozim", -- bala7_vtwsx 04/10/26 07/10/26
     "spillaiok6", -- 3100669 04/10/26 04/12/26
     "WELLER_6893", -- WELLER 04/10/26 05/10/26
-    "luquitas92381" -- Marcos 04/10/26 03/11/26
+    "luquitas92381", -- Marcos 04/10/26 03/11/26
+    "phlone4" -- Ph_di 04/10/26 08/10/26
 }
