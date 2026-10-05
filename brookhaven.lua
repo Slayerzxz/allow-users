@@ -79,5 +79,6 @@ return {
     "spillaiok6", -- 3100669 04/10/26 04/12/26
     "WELLER_6893", -- WELLER 04/10/26 05/10/26
     "luquitas92381", -- Marcos 04/10/26 03/11/26
-    "THXXGABRIELFF7" -- 💤 05/10/26 20/02/54
+    "THXXGABRIELFF7", -- 💤 05/10/26 20/02/54
+    "phlone4" -- Ph_di 05/10/26 12/10/26
 }
