@@ -7,7 +7,6 @@ return {
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
-    "KAWASAKI2812", -- Kaio 05/09/26 05/10/26
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 17/09/26 02/02/54
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
@@ -63,7 +62,6 @@ return {
     "desconhecido01834", -- Jp 02/10/26 20/03/29
     "Rafinha4bloco", -- Rafael😁 02/10/26 17/02/54
     "bleck_0218", -- omk ANÔNIMO 02/10/26 16/11/26
-    "LOVIZINHO177", -- Danyllo67 02/10/26 05/10/26
     "soy_Brayan120", -- SURFISTA ✌🏻 02/10/26 17/02/54
     "Mafioso_GP4", -- Souzaxx 02/10/26 17/02/54
     "vitorlimalimalima", -- J_J 02/10/26 09/10/26
@@ -77,7 +75,6 @@ return {
     "0000987622wsws", -- ꧁♡ 𝑪𝒉𝒆𝒓𝒓𝒚 ♡꧂ 04/10/26 03/03/27
     "xandozim", -- bala7_vtwsx 04/10/26 07/10/26
     "spillaiok6", -- 3100669 04/10/26 04/12/26
-    "WELLER_6893", -- WELLER 04/10/26 05/10/26
     "luquitas92381", -- Marcos 04/10/26 03/11/26
     "THXXGABRIELFF7", -- 💤 05/10/26 20/02/54
     "phlone4" -- Ph_di 05/10/26 04/12/26
