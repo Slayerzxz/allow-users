@@ -48,7 +48,6 @@ return {
     "itz_kadu22", -- Bazuka հվ 23/09/26 24/09/26 testando admin
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
-    "Mathe26ci", -- Matheus 15 26/09/26 06/10/26
     "naoseipkqw", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
     "xamueumc", -- -2,50 26/09/26 11/02/54
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
