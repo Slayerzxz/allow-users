@@ -83,5 +83,6 @@ return {
     "phlone4", -- Ph_di 05/10/26 20/02/54
     "fernx0607", -- Davi 05/10/26 04/11/26
     "Flx22_2", -- Flx 05/10/26 20/02/54
-    "morangoaoleitejr" -- Jvzin 06/10/26 20/02/54
+    "morangoaoleitejr", -- Jvzin 06/10/26 20/02/54
+    "DOMINGOS4440" -- Njr_claudinhxz 06/10/26 21/02/54
 }
