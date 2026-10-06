@@ -81,5 +81,6 @@ return {
     "Meliodas35ty8", -- Marcos 05/10/26 02/02/27
     "eojackrp", -- William 05/10/26 20/02/54
     "MasonCode6400", -- D4RK 05/10/26 20/02/54
-    "phlone4" -- Ph_di 05/10/26 20/02/54
+    "phlone4", -- Ph_di 05/10/26 20/02/54
+    "fernx0607" -- Davi 05/10/26 04/11/26
 }
