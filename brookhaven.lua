@@ -10,8 +10,6 @@ return {
     "dan_luiz666", -- Dennys 05/09/26 03/01/27
     "kawazaki2812", -- Kaio 17/09/26 02/02/54
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
-    "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
-    "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
@@ -66,11 +64,9 @@ return {
     "AJLES2017", -- ^ 𝐍𝐄𝐗𝐔𝐒 🖤 03/10/26 10/10/26
     "sou_ruime", -- Shotzyy'fps 03/10/26 18/02/54
     "alexrprps2026", -- アレックス 04/10/26 04/11/26
-    "xandozim", -- bala7_vtwsx 04/10/26 07/10/26
     "spillaiok6", -- 3100669 04/10/26 04/12/26
     "luquitas92381", -- Marcos 04/10/26 03/11/26
     "THXXGABRIELFF7", -- 💤 05/10/26 20/02/54
-    "ReiLeaoGato", -- prime_swan_64085 05/10/26 07/10/26
     "Meliodas35ty8", -- Marcos 05/10/26 02/02/27
     "eojackrp", -- William 05/10/26 20/02/54
     "MasonCode6400", -- D4RK 05/10/26 20/02/54
