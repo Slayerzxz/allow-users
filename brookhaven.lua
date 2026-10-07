@@ -45,7 +45,6 @@ return {
     "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 20/09/26 16/06/29
     "therealneverfall", -- dk7 04/10/26 29/10/26
     "mig108020", -- 72 22/09/26 01/11/26
-    "itz_kadu22", -- Bazuka հվ 23/09/26 24/09/26 testando admin
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
     "naoseipkqw", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
