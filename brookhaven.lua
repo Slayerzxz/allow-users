@@ -12,16 +12,13 @@ return {
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "dino_game134", -- ᴴ⁷ᶻ 07/09/26 07/10/26
     "roblox_user_8505113953", -- Miguel Mod 07/09/26 07/10/26
-    "onlymothers3", -- John813 10/09/26 12/10/26
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
     "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
-    "ITACHI_UCHIHA24362", -- ! 𝐉𝐮𝐚𝐧.ｋｋｋ 11/09/26 27/01/54
     "cpa548", -- Kj 11/09/26 27/01/54
     "Ne0nFr0stbite7320", -- 𝓝𝓮𝔁𝔁𝓾𝓼 🩸 11/09/26 27/01/54
     "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
-    "ligapra_90028922", -- Mkzinho0 11/09/26 10/11/26
     "BlackN444hey", -- Coringa 12/09/26 11/11/26
     "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
@@ -50,7 +47,6 @@ return {
     "naoseipkqw", -- 𝕯𝕬𝕸𝕺𝕹 𝕭𝕷𝕬𝕮𝕶 26/09/26 22/06/29
     "xamueumc", -- -2,50 26/09/26 11/02/54
     "CarlGill737", -- Leonardo 27/09/26 23/06/29
-    "tenenteluan3434", -- Ytalo 27/09/26 25/01/27
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
     "XxCircuitCha0sxX96", -- Allan6767 29/09/26 14/02/54
     "cubel_artigo244", -- Dz7 30/09/26 10/10/26
@@ -70,7 +66,6 @@ return {
     "AJLES2017", -- ^ 𝐍𝐄𝐗𝐔𝐒 🖤 03/10/26 10/10/26
     "sou_ruime", -- Shotzyy'fps 03/10/26 18/02/54
     "alexrprps2026", -- アレックス 04/10/26 04/11/26
-    "0000987622wsws", -- ꧁♡ 𝑪𝒉𝒆𝒓𝒓𝒚 ♡꧂ 04/10/26 03/03/27
     "xandozim", -- bala7_vtwsx 04/10/26 07/10/26
     "spillaiok6", -- 3100669 04/10/26 04/12/26
     "luquitas92381", -- Marcos 04/10/26 03/11/26
