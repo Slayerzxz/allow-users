@@ -80,5 +80,6 @@ return {
     "morangoaoleitejr", -- Jvzin 06/10/26 20/02/54
     "DOMINGOS4440", -- Njr_claudinhxz 06/10/26 21/02/54
     "kaikeZIM71", -- Kaike333 06/10/26 21/02/54
-    "Arthurenz5" -- sunriseray 06/10/26 06/12/26
+    "Arthurenz5", -- sunriseray 06/10/26 06/12/26
+    "m4_pedrin" -- Pdhxn 07/10/26 21/02/54
 }
