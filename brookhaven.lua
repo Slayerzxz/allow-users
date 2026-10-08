@@ -11,7 +11,7 @@ return {
     "kawazaki2812", -- Kaio 17/09/26 02/02/54
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
-    "Auraz_182", -- 𝕬𝖚𝖗𝖆𝖟𝖟𝖟 11/09/26 07/06/29
+    "Auraz_182", -- AURAZZ💤 08/10/26 30/12/99 staff
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
     "cpa548", -- Kj 11/09/26 27/01/54
     "Ne0nFr0stbite7320", -- 𝓝𝓮𝔁𝔁𝓾𝓼 🩸 11/09/26 27/01/54
