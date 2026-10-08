@@ -76,5 +76,6 @@ return {
     "DOMINGOS4440", -- Njr_claudinhxz 06/10/26 21/02/54
     "kaikeZIM71", -- Kaike333 06/10/26 21/02/54
     "Arthurenz5", -- sunriseray 06/10/26 06/12/26
-    "m4_pedrin" -- Pdhxn 07/10/26 21/02/54
+    "m4_pedrin", -- Pdhxn 07/10/26 21/02/54
+    "Teste" -- Sabotage հվ 08/10/26 30/12/2099 Staff
 }
