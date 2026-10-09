@@ -84,6 +84,6 @@ return {
     "sixsevenr6767", -- Kawê 09/10/26 24/02/54 Moderador
     "Davijeffersonjj", -- Daves 09/10/26 16/10/26
     "MINHAOUTR", -- comedorDEveia777 09/10/26 16/10/26
-    "ReiLeaoGato", -- prime_swan_64085 09/10/26 10/10/26
+    "ReiLeaoGato", -- prime_swan_64085 09/10/26 24/02/54
     "sehae2073567" -- Vxry 09/10/26 05/07/29
 }
