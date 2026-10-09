@@ -77,5 +77,6 @@ return {
     "m4_pedrin", -- Pdhxn 07/10/26 21/02/54
     "Teste", -- Sabotage հվ 08/10/26 30/12/2099 Staff
     "IsukuMidor1ya", -- ⭒𝐍𝐄𝐗𝐔𝐒 08/10/26 04/07/29
-    "Pedrux_mmv" -- Zyrok🥀 09/10/26 24/02/54
+    "Pedrux_mmv", -- Zyrok🥀 09/10/26 24/02/54
+    "swatrvtrj9" -- GBKZIN7 09/10/26 16/10/26
 }
