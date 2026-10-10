@@ -87,5 +87,6 @@ return {
     "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
     "SANTOSZY", -- ianrlqk_88674 10/10/26 13/10/26
     "MBK38122", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 10/10/26 25/10/26 mod
-    "Anthonyxvny" -- mnrrlq 10/10/26 13/10/26
+    "Anthonyxvny", -- mnrrlq 10/10/26 13/10/26
+    "Sadx_00797" -- Slayer Hub | Admin 10/10/26 15/10/26 influenciador
 }
