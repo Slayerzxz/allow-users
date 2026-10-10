@@ -1,5 +1,6 @@
 return {
     "StaffordMakayla783", -- bazuka
+    "TrollLinux", -- Rick 26/08/26 22/05/99 Dono Do Slayer
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
     "Apenas_eu362", -- 666тнєυχ 10/10/26 25/02/54 𝐒𝐧𝐳𝐲𝐱
