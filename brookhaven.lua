@@ -89,6 +89,5 @@ return {
     "MBK38122", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 10/10/26 25/10/26 mod
     "Anthonyxvny", -- mnrrlq 10/10/26 13/10/26
     "Sadx_00797", -- Slayer Hub | Admin 10/10/26 15/10/29 influenciador
-    "aliason30", -- Slayer Hub | Admin 10/10/26 13/10/26
-    "ruy_0068" -- lavish 10/10/26 12/10/26 influenciador
+    "aliason30" -- Slayer Hub | Admin 10/10/26 13/10/26
 }
