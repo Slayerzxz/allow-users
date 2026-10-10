@@ -3,7 +3,7 @@ return {
     "Breno010L", -- Bazuka 26/08/26 22/05/99 Dono Do Slayer
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
-    "Apenas_eu362", -- 666тнєυχ 08/10/26 04/07/29 Хантер
+    "Apenas_eu362", -- 666тнєυχ 10/10/26 25/02/54 𝐒𝐧𝐳𝐲𝐱 を
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
