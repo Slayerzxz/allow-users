@@ -1,5 +1,6 @@
 return {
     "StaffordMakayla783", -- bazuka
+    "Breno010L", -- Bazuka 26/08/26 22/05/99 Dono Do Slayer
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
     "Apenas_eu362", -- 666тнєυχ 10/10/26 25/02/54 𝐒𝐧𝐳𝐲𝐱
@@ -10,6 +11,7 @@ return {
     "kawazaki2812", -- Kaio 17/09/26 02/02/54
     "dudusourei8", -- Lúcifer 06/09/26 22/01/54
     "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
+    "Auraz_182", -- AURAZZ💤 08/10/26 30/12/99 staff
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
     "cpa548", -- Kj 11/09/26 27/01/54
     "Ne0nFr0stbite7320", -- 𝓝𝓮𝔁𝔁𝓾𝓼 🩸 11/09/26 27/01/54
@@ -29,6 +31,7 @@ return {
     "sadzin131", -- pietro 16/09/26 26/01/27 influenciador
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
     "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
+    "kfc230_50", -- ⚔️𝕽𝖊𝖈𝖗𝖚𝖙𝖆08⚔️ 09/10/26 30/12/99 staff
     "h1ck93", -- политика 18/09/26 14/06/29
     "joaoking667", -- joaoexe66 29/09/26 25/06/29
     "silv4zinx4", -- Davi 19/09/26 04/02/54
@@ -71,6 +74,7 @@ return {
     "kaikeZIM71", -- Kaike333 06/10/26 21/02/54
     "Arthurenz5", -- sunriseray 06/10/26 06/12/26
     "m4_pedrin", -- Pdhxn 07/10/26 21/02/54
+    "Teste", -- Sabotage հվ 08/10/26 30/12/2099 Staff
     "IsukuMidor1ya", -- ⭒𝐍𝐄𝐗𝐔𝐒 08/10/26 04/07/29
     "Pedrux_mmv", -- Zyrok🥀 09/10/26 24/02/54
     "swatrvtrj9", -- GBKZIN7 09/10/26 16/10/26
