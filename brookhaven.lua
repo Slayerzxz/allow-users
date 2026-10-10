@@ -86,5 +86,6 @@ return {
     "ReiLeaoGato", -- prime_swan_64085 09/10/26 24/02/54
     "sehae2073567", -- Vxry 09/10/26 05/07/29
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 09/10/26 24/02/54 frieren
-    "sou_ruimdetiro" -- matobitch 10/10/26 25/02/54
+    "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
+    "bbzin7765" -- ساعاتين 10/10/26 08/02/27
 }
