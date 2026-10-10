@@ -86,5 +86,6 @@ return {
     "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
     "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
     "SANTOSZY", -- ianrlqk_88674 10/10/26 13/10/26
-    "MBK38122" -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 10/10/26 25/10/26 mod
+    "MBK38122", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 10/10/26 25/10/26 mod
+    "Anthonyxvny" -- mnrrlq 10/10/26 13/10/26
 }
