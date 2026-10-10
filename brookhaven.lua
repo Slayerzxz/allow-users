@@ -83,5 +83,6 @@ return {
     "sehae2073567", -- Vxry 09/10/26 05/07/29
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 09/10/26 24/02/54 frieren
     "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
-    "bbzin7765" -- q01o3u 10/10/26 08/02/27 Farmador de aura master
+    "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
+    "ruy_0068" -- Slayer Hub | Admin 10/10/26 13/10/26 influenciador
 }
