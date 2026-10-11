@@ -95,5 +95,6 @@ return {
     "santoszy092", -- santoszy_ 10/10/26 13/10/26
     "bernardoalvisdossant", -- apenasumhacker 10/10/26 13/10/26
     "r0k1kid", -- jubilant_peacock_08110 10/10/26 13/10/26
-    "Rizal_modz" -- phenomenal_kitten_70318 10/10/26 13/10/26
+    "Rizal_modz", -- phenomenal_kitten_70318 10/10/26 13/10/26
+    "jame_buda" -- Loritta 11/10/26 14/10/26 influenciador
 }
