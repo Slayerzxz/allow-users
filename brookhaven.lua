@@ -92,5 +92,6 @@ return {
     "aliason30", -- Slayer Hub | Admin 10/10/26 13/10/26
     "darkADM_ofc", -- shadowxvoidxhatred_70083 10/10/26 13/10/26
     "Srsamuukaaa", -- 1lxckk 10/10/26 13/10/26
-    "santoszy092" -- santoszy_ 10/10/26 13/10/26
+    "santoszy092", -- santoszy_ 10/10/26 13/10/26
+    "bernardoalvisdossant" -- apenasumhacker 10/10/26 13/10/26
 }
