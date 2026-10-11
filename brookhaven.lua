@@ -76,7 +76,7 @@ return {
     "Pedrux_mmv", -- Zyrok🥀 09/10/26 24/02/54
     "swatrvtrj9", -- GBKZIN7 09/10/26 16/10/26
     "aqeoguest777", -- Kaka 09/10/26 24/02/54 Divulgador
-    "paulo344352", -- Desconhecido_00 09/10/26 13/10/26
+    "paulo344352", -- Desconhecido_00 10/10/26 13/10/26
     "sixsevenr6767", -- Kawê 09/10/26 24/02/54 Moderador
     "Davijeffersonjj", -- Daves 09/10/26 16/10/26
     "MINHAOUTR", -- comedorDEveia777 09/10/26 16/10/26
