@@ -96,5 +96,6 @@ return {
     "bernardoalvisdossant", -- apenasumhacker 10/10/26 13/10/26
     "r0k1kid", -- jubilant_peacock_08110 10/10/26 13/10/26
     "Rizal_modz", -- phenomenal_kitten_70318 10/10/26 13/10/26
-    "Sleyd184" -- Kfsmm_ 11/10/26 18/10/26
+    "Sleyd184", -- Kfsmm_ 11/10/26 18/10/26
+    "guilhermepavosky" -- GUI STFF MAN ✞ 11/10/26 26/02/54
 }
