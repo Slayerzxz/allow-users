@@ -19,7 +19,6 @@ return {
     "BlackN444hey", -- Coringa 12/09/26 11/11/26
     "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
-    "madaranoobb80", -- スバル 12/09/26 12/10/26
     "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
     "R7_dnxz", -- R7 14/09/26 10/08/64
@@ -46,7 +45,6 @@ return {
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
     "XxCircuitCha0sxX96", -- Allan6767 29/09/26 14/02/54
     "xinglin037", -- Davi 30/09/26 30/10/26
-    "coco234melon8", -- ALEXIS 30/09/26 12/10/26
     "usbhsnbsosb", -- Gagadev_666 01/10/26 27/06/29
     "desconhecido01834", -- Jp 02/10/26 20/03/29
     "Rafinha4bloco", -- Rafael😁 02/10/26 17/02/54
