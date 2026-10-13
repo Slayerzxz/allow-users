@@ -87,5 +87,6 @@ return {
     "Sleyd184", -- Kfsmm_ 11/10/26 18/10/26
     "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
     "hydwfr5", -- Davi_xeno87 12/10/26 19/10/26
-    "karling157" -- Karlingffz 13/10/26 14/10/26 Sou Femboy
+    "karling157", -- Karlingffz 13/10/26 14/10/26 Sou Femboy
+    "KingPanter777" -- mrgo4t 13/10/26 14/10/26
 }
