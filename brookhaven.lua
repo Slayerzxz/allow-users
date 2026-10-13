@@ -99,5 +99,6 @@ return {
     "rtyaid10", -- $hone 13/10/26 14/10/26
     "Joaozin51y", -- juo0565_26983 13/10/26 14/10/26
     "Lucas1234567898452", -- lucasaventuragame 13/10/26 14/10/26
-    "paitaaonn0" -- biel046811 13/10/26 14/10/26
+    "paitaaonn0", -- biel046811 13/10/26 14/10/26
+    "Marcwl12355" -- thomas1234555 13/10/26 14/10/26
 }
