@@ -97,6 +97,5 @@ return {
     "darkADM_ofc", -- Nickdev 13/10/26 14/10/26
     "heitorss405", -- heeur 13/10/26 14/10/26
     "rtyaid10", -- $hone 13/10/26 14/10/26
-    "Lucas1234567898452", -- Drake ⚒️ 13/10/26 14/10/26
     "Joaozin51y" -- juo0565_26983 13/10/26 14/10/26
 }
