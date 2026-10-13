@@ -89,7 +89,7 @@ return {
     "hydwfr5", -- Davi_xeno87 12/10/26 19/10/26
     "karling157", -- Karlingffz 13/10/26 14/10/26 Sou Femboy
     "KingPanter777", -- mrgo4t 13/10/26 14/10/26
-    "AmberCalderon8870", -- minato123kk 13/10/26 14/10/26
+    "AmberCalderon8870", -- Minato 13/10/26 14/10/26
     "NikolasDaniell50", -- nicolas05694 13/10/26 14/10/26
     "Vinny_eu6", -- vinnylookscute 13/10/26 14/10/26
     "bruno", -- rtyaid20_14885 13/10/26 14/10/26
