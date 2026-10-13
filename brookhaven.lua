@@ -92,5 +92,6 @@ return {
     "AmberCalderon8870", -- minato123kk 13/10/26 14/10/26
     "NikolasDaniell50", -- nicolas05694 13/10/26 14/10/26
     "Vinny_eu6", -- vinnylookscute 13/10/26 14/10/26
-    "bruno" -- rtyaid20_14885 13/10/26 14/10/26
+    "bruno", -- rtyaid20_14885 13/10/26 14/10/26
+    "luiskkj999" -- not.riva.dev 13/10/26 14/10/26
 }
