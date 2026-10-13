@@ -74,7 +74,6 @@ return {
     "Pedrux_mmv", -- Zyrok🥀 09/10/26 24/02/54
     "swatrvtrj9", -- GBKZIN7 09/10/26 16/10/26
     "aqeoguest777", -- Kaka 09/10/26 24/02/54 Divulgador
-    "paulo344352", -- Desconhecido_00 10/10/26 13/10/26
     "sixsevenr6767", -- Kawê 09/10/26 24/02/54 Moderador
     "Davijeffersonjj", -- Daves 09/10/26 16/10/26
     "MINHAOUTR", -- comedorDEveia777 09/10/26 16/10/26
@@ -83,17 +82,8 @@ return {
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 09/10/26 24/02/54 frieren
     "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
     "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
-    "SANTOSZY", -- ianrlqk_88674 10/10/26 13/10/26
     "MBK38122", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 10/10/26 25/10/26 mod
-    "Anthonyxvny", -- mnrrlq 10/10/26 13/10/26
     "Sadx_00797", -- Slayer Hub | Admin 10/10/26 15/10/29 influenciador
-    "aliason30", -- Slayer Hub | Admin 10/10/26 13/10/26
-    "darkADM_ofc", -- shadowxvoidxhatred_70083 10/10/26 13/10/26
-    "Srsamuukaaa", -- 1lxckk 10/10/26 13/10/26
-    "santoszy092", -- santoszy_ 10/10/26 13/10/26
-    "bernardoalvisdossant", -- apenasumhacker 10/10/26 13/10/26
-    "r0k1kid", -- jubilant_peacock_08110 10/10/26 13/10/26
-    "Rizal_modz", -- phenomenal_kitten_70318 10/10/26 13/10/26
     "Sleyd184", -- Kfsmm_ 11/10/26 18/10/26
     "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
     "hydwfr5" -- Davi_xeno87 12/10/26 19/10/26
