@@ -108,5 +108,6 @@ return {
     "AGENT_G182", -- ikrgest 13/10/26 14/10/26
     "jame_buda", -- Rambox do quebra 13/10/26 28/02/54 influenciador
     "coco234melon8", -- alexis080407 13/10/26 14/10/26
-    "Deva_BURNING" -- deva01589 14/10/26 15/10/26
+    "Deva_BURNING", -- deva01589 14/10/26 15/10/26
+    "Polnareff" -- davi872836 14/10/26 15/10/26
 }
