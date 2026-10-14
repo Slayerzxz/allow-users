@@ -92,5 +92,6 @@ return {
     "Polnareff", -- davi872836 14/10/26 15/10/26
     "Gabriells796", -- mrscript0940 14/10/26 15/10/26
     "Samuelmorie", -- Samuelmorie 14/10/26 17/10/26
-    "goiabinha" -- sukuna060190 14/10/26 15/10/26
+    "goiabinha", -- sukuna060190 14/10/26 15/10/26
+    "black" -- aksskfue 14/10/26 15/10/26
 }
