@@ -87,27 +87,7 @@ return {
     "Sleyd184", -- Kfsmm_ 11/10/26 18/10/26
     "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
     "hydwfr5", -- Davi_xeno87 12/10/26 19/10/26
-    "KingPanter777", -- mrgo4t 13/10/26 14/10/26
-    "AmberCalderon8870", -- Minato 13/10/26 14/10/26
-    "NikolasDaniell50", -- nicolas05694 13/10/26 14/10/26
-    "Vinny_eu6", -- vinnylookscute 13/10/26 14/10/26
-    "bruno", -- rtyaid20_14885 13/10/26 14/10/26
-    "luiskkj999", -- not.riva.dev 13/10/26 14/10/26
-    "gabrielpSanttos", -- renatogarcia6499 13/10/26 14/10/26
-    "darkADM_ofc", -- Nickdev 13/10/26 14/10/26
-    "heitorss405", -- heeur 13/10/26 14/10/26
-    "rtyaid10", -- $hone 13/10/26 14/10/26
-    "Joaozin51y", -- juo0565_26983 13/10/26 14/10/26
-    "Lucas1234567898452", -- lucasaventuragame 13/10/26 14/10/26
-    "paitaaonn0", -- biel046811 13/10/26 14/10/26
-    "Marcwl12355", -- thomas1234555 13/10/26 14/10/26
-    "LF_MAFIOS8", -- ryan5f7_34547 13/10/26 14/10/26
-    "urhrjhdrrrtdy", -- tchetche2026 13/10/26 14/10/26
-    "Srsamuukaaa", -- 1lxckk 13/10/26 14/10/26
-    "rip_espada597", -- lukaxy67_17144 13/10/26 14/10/26
-    "AGENT_G182", -- ikrgest 13/10/26 14/10/26
     "jame_buda", -- Rambox do quebra 13/10/26 28/02/54 influenciador
-    "coco234melon8", -- alexis080407 13/10/26 14/10/26
     "Deva_BURNING", -- deva01589 14/10/26 15/10/26
     "Polnareff", -- davi872836 14/10/26 15/10/26
     "Gabriells796", -- mrscript0940 14/10/26 15/10/26
