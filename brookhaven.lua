@@ -93,5 +93,6 @@ return {
     "Gabriells796", -- mrscript0940 14/10/26 15/10/26
     "Samuelmorie", -- Samuelmorie 14/10/26 17/10/26
     "goiabinha", -- sukuna060190 14/10/26 15/10/26
-    "TranhuyB7t3c" -- aksskfue 14/10/26 15/10/26
+    "TranhuyB7t3c", -- aksskfue 14/10/26 15/10/26
+    "guest_ikro" -- idkmynameingame 14/10/26 15/10/26
 }
