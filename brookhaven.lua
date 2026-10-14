@@ -105,5 +105,6 @@ return {
     "urhrjhdrrrtdy", -- tchetche2026 13/10/26 14/10/26
     "Srsamuukaaa", -- 1lxckk 13/10/26 14/10/26
     "rip_espada597", -- lukaxy67_17144 13/10/26 14/10/26
-    "AGENT_G182" -- ikrgest 13/10/26 14/10/26
+    "AGENT_G182", -- ikrgest 13/10/26 14/10/26
+    "jame_buda" -- Rambox do quebra 13/10/26 28/02/54 influenciador
 }
