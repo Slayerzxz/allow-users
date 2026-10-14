@@ -103,6 +103,5 @@ return {
     "Marcwl12355", -- thomas1234555 13/10/26 14/10/26
     "LF_MAFIOS8", -- ryan5f7_34547 13/10/26 14/10/26
     "urhrjhdrrrtdy", -- tchetche2026 13/10/26 14/10/26
-    "Srsamuukaaa", -- 1lxckk 13/10/26 14/10/26
-    "Black792760" -- Blackn_444 13/10/26 14/10/26
+    "Srsamuukaaa" -- 1lxckk 13/10/26 14/10/26
 }
