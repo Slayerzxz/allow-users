@@ -77,5 +77,5 @@ return {
     "jame_buda", -- Rambox do quebra 13/10/26 28/02/54 influenciador
     "Samuelmorie", -- Samuelmorie 14/10/26 17/10/26
     "Miqueiaspp12", -- !M De Miqueias! 14/10/26 15/10/26
-    "TrollLinux" -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 14/10/26 01/03/54
+    "TrollLinux" -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 14/10/26 30/12/99 Staff
 }
