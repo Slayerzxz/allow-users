@@ -31,7 +31,7 @@ return {
     "silv4zinx4", -- Davi 19/09/26 04/02/54
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
-    "matheus_itz00", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 20/09/26 16/06/29
+    "matheus_itz00", -- DUDINHA¹⁷ 14/10/26 01/03/54 Mod
     "therealneverfall", -- dk7 04/10/26 29/10/26
     "mig108020", -- 72 22/09/26 01/11/26
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
