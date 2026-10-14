@@ -78,5 +78,6 @@ return {
     "jame_buda", -- Rambox do quebra 13/10/26 28/02/54 influenciador
     "Samuelmorie", -- Samuelmorie 14/10/26 17/10/26
     "Miqueiaspp12", -- !M De Miqueias! 14/10/26 15/10/26
-    "cocacola_gabriel" -- NOBRU 14/10/26 15/10/26
+    "cocacola_gabriel", -- NOBRU 14/10/26 15/10/26
+    "seieie9w" -- luh luh 14/10/26 01/03/54 moderador
 }
