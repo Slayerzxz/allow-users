@@ -110,5 +110,6 @@ return {
     "coco234melon8", -- alexis080407 13/10/26 14/10/26
     "Deva_BURNING", -- deva01589 14/10/26 15/10/26
     "Polnareff", -- davi872836 14/10/26 15/10/26
-    "Gabriells796" -- mrscript0940 14/10/26 15/10/26
+    "Gabriells796", -- mrscript0940 14/10/26 15/10/26
+    "Samuelmorie" -- samuelvip999_02575 14/10/26 15/10/26
 }
