@@ -80,5 +80,6 @@ return {
     "luiskkj999", -- Notrival 14/10/26 13/11/26 ADM
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
     "jame_buda", -- Slayer Hub | Moderation 14/10/26 01/03/54 influenciador
-    "Henrique1342g" -- DUDINHA¹⁷ 15/10/26 18/10/26
+    "Henrique1342g", -- DUDINHA¹⁷ 15/10/26 18/10/26
+    "Nao_souNICK" -- Nickdev 15/10/26 02/03/54
 }
