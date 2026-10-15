@@ -75,7 +75,7 @@ return {
     "Sleyd184", -- Kfsmm_ 11/10/26 18/10/26
     "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
     "hydwfr5", -- Davi_xeno87 12/10/26 19/10/26
-    "jame_buda", -- Rambox do quebra 13/10/26 28/02/54 influenciador
+    "jame_buda", -- Slayer Hub | Musics 14/10/26 01/03/54 jame bum bum
     "Samuelmorie", -- Samuelmorie 14/10/26 17/10/26
     "Miqueiaspp12", -- !M De Miqueias! 14/10/26 15/10/26
     "cocacola_gabriel", -- NOBRU 14/10/26 15/10/26
