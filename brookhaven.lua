@@ -78,5 +78,6 @@ return {
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
     "jame_buda", -- Slayer Hub | Moderation 14/10/26 01/03/54 influenciador
     "Henrique1342g", -- DUDINHA¹⁷ 15/10/26 18/10/26
-    "Nao_souNICK" -- Nickdev 15/10/26 02/03/54
+    "Nao_souNICK", -- Nickdev 15/10/26 02/03/54
+    "dark_033987" -- Davi 16/10/26 03/03/54 Divulgador
 }
