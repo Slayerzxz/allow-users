@@ -80,6 +80,5 @@ return {
     "Henrique1342g", -- DUDINHA¹⁷ 15/10/26 18/10/26
     "Nao_souNICK", -- Nickdev 15/10/26 02/03/54
     "dark_033987", -- Davi 16/10/26 03/03/54 influenciador
-    "FACADAS_Hg", -- Facadas_hg 16/10/26 23/10/26
-    "Anadebora1136" -- Slayer Hub | Admin 16/10/26 17/10/26
+    "FACADAS_Hg" -- Facadas_hg 16/10/26 23/10/26
 }
