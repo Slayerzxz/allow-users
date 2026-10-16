@@ -51,7 +51,7 @@ return {
     "alexrprps2026", -- アレックス 04/10/26 04/11/26
     "spillaiok6", -- 3100669 04/10/26 04/12/26
     "luquitas92381", -- Marcos 04/10/26 03/11/26
-    "THXXGABRIELFF7", -- 💤 05/10/26 20/02/54
+    "THXXGABRIELFF7", -- 777 16/10/26 03/03/54 Dono Do Slayer
     "Meliodas35ty8", -- Marcos 05/10/26 02/02/27
     "eojackrp", -- William 05/10/26 20/02/54
     "MasonCode6400", -- D4RK 05/10/26 20/02/54
