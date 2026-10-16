@@ -3,7 +3,7 @@ return {
     "TrollLinux", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 14/10/26 30/12/99 Dono Slayer
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
-    "Apenas_eu362", -- 666тнєυχ 14/10/26 01/03/54 snzys
+    "Apenas_eu362", -- 666тнєυχ 15/10/26 02/03/54 snyxz
     "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
     "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
