@@ -60,7 +60,7 @@ return {
     "DOMINGOS4440", -- Njr_claudinhxz 06/10/26 21/02/54
     "kaikeZIM71", -- Kaike333 06/10/26 21/02/54
     "Arthurenz5", -- sunriseray 06/10/26 06/12/26
-    "m4_pedrin", -- Pdhxn 07/10/26 21/02/54
+    "m4_pedrin", -- Pdhxn 15/10/26 01/03/54 Farmador de aura pro max
     "IsukuMidor1ya", -- ⭒𝐍𝐄𝐗𝐔𝐒 08/10/26 04/07/29
     "swatrvtrj9", -- GBKZIN7 09/10/26 16/10/26
     "sixsevenr6767", -- Kawê 09/10/26 24/02/54 Moderador
