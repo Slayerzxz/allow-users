@@ -62,10 +62,7 @@ return {
     "Arthurenz5", -- sunriseray 06/10/26 06/12/26
     "m4_pedrin", -- Pdhxn 15/10/26 01/03/54 Farmador de aura pro max
     "IsukuMidor1ya", -- ⭒𝐍𝐄𝐗𝐔𝐒 08/10/26 04/07/29
-    "swatrvtrj9", -- GBKZIN7 09/10/26 16/10/26
     "sixsevenr6767", -- Kawê 09/10/26 24/02/54 Moderador
-    "Davijeffersonjj", -- Daves 09/10/26 16/10/26
-    "MINHAOUTR", -- comedorDEveia777 09/10/26 16/10/26
     "ReiLeaoGato", -- prime_swan_64085 09/10/26 24/02/54
     "sehae2073567", -- Vxry 09/10/26 05/07/29
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 09/10/26 24/02/54 frieren
