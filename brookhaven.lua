@@ -82,6 +82,6 @@ return {
     "dark_033987", -- Davi 16/10/26 03/03/54 influenciador
     "FACADAS_Hg", -- Facadas_hg 16/10/26 23/10/26
     "Depression_00000", -- GTR R35 16/10/26 03/03/54
-    "Pedrux_mmv", -- Zyrok🥀 16/10/26 12/07/29 influenciador
+    "Pedrux_mmv", -- Zyrok🥀 16/10/26 03/03/54 ENFLUENDIADOR
     "Theorlk800" -- Carlinzk7 16/10/26 03/03/54 Influenciador
 }
