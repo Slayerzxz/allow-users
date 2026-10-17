@@ -57,7 +57,7 @@ return {
     "MasonCode6400", -- D4RK 05/10/26 20/02/54
     "phlone4", -- Ph_di 05/10/26 20/02/54
     "morangoaoleitejr", -- Jvzin 06/10/26 20/02/54
-    "DOMINGOS4440", -- Njr_claudinhxz 06/10/26 21/02/54
+    "DOMINGOS4440", -- Njr_claudinhxz 16/10/26 03/03/54 claudinhxz clt
     "kaikeZIM71", -- Kaike333 06/10/26 21/02/54
     "Arthurenz5", -- sunriseray 06/10/26 06/12/26
     "m4_pedrin", -- Pdhxn 15/10/26 01/03/54 Farmador de aura pro max
