@@ -72,7 +72,6 @@ return {
     "Sleyd184", -- Kfsmm_ 11/10/26 18/10/26
     "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
     "hydwfr5", -- Davi_xeno87 12/10/26 19/10/26
-    "Samuelmorie", -- Samuelmorie 14/10/26 17/10/26
     "seieie9w", -- luh luh 14/10/26 01/03/54 moderador
     "luiskkj999", -- Notrival 14/10/26 13/11/26 ADM
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
