@@ -88,5 +88,6 @@ return {
     "AmberCalderon8870", -- Minato 18/10/26 05/03/54 influencer
     "SHARP_BOO", -- Ultimatex 18/10/26 05/03/54
     "Davi2v282", -- Linn | lucas 18/10/26 22/10/26
-    "gatinhasapec1" -- Lanny_spk 18/10/26 05/03/54 Moderator
+    "gatinhasapec1", -- Lanny_spk 18/10/26 05/03/54 Moderator
+    "desativado_153" -- Desativado_444466 18/10/26 21/10/26
 }
