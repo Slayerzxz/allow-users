@@ -84,5 +84,6 @@ return {
     "Theorlk800", -- Carlinzk7 16/10/26 03/03/54 Influenciador
     "Thevini7z", -- Zyrok🥀 16/10/26 03/03/54 influencer
     "uCzVpUkMsFF", -- 736830 17/10/26 20/10/26
-    "art124195" -- Arthur 17/10/26 03/03/54
+    "art124195", -- Arthur 17/10/26 03/03/54
+    "ster234567freefire" -- Slayer Hub | Admin 17/10/26 13/07/29 love of 666Theux
 }
