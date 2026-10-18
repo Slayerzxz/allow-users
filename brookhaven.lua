@@ -69,14 +69,12 @@ return {
     "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
     "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
     "MBK38122", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 10/10/26 25/10/26 mod
-    "Sleyd184", -- Kfsmm_ 11/10/26 18/10/26
     "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
     "hydwfr5", -- Davi_xeno87 12/10/26 19/10/26
     "seieie9w", -- luh luh 14/10/26 01/03/54 moderador
     "luiskkj999", -- Notrival 14/10/26 13/11/26 ADM
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
     "jame_buda", -- Slayer Hub | Moderation 14/10/26 01/03/54 influenciador
-    "Henrique1342g", -- DUDINHA¹⁷ 15/10/26 18/10/26
     "Nao_souNICK", -- Nickdev 15/10/26 02/03/54
     "dark_033987", -- Davi 16/10/26 03/03/54 influenciador
     "FACADAS_Hg", -- Facadas_hg 16/10/26 23/10/26
