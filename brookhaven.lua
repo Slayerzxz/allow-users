@@ -74,7 +74,7 @@ return {
     "seieie9w", -- luh luh 14/10/26 01/03/54 moderador
     "luiskkj999", -- Notrival 14/10/26 13/11/26 ADM
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
-    "jame_buda", -- Rambox do quebra 18/10/26 05/03/54
+    "jame_buda", -- Rambox do quebra 18/10/26 05/03/54 influenciador
     "Nao_souNICK", -- Nickdev 15/10/26 02/03/54
     "dark_033987", -- Davi 16/10/26 03/03/54 influenciador
     "FACADAS_Hg", -- Facadas_hg 16/10/26 23/10/26
