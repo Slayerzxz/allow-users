@@ -88,5 +88,6 @@ return {
     "SHARP_BOO", -- Ultimatex 18/10/26 05/03/54
     "Davi2v282", -- Linn | lucas 18/10/26 22/10/26
     "gatinhasapec1", -- Lanny_spk 18/10/26 05/03/54 Moderator
-    "desativado_153" -- Desativado_444466 18/10/26 21/10/26
+    "desativado_153", -- Desativado_444466 18/10/26 21/10/26
+    "kawazaki2812" -- KAIOR MENINO DE PROGRAMA 19/10/26 06/03/54
 }
