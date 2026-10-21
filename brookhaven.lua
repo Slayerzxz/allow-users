@@ -88,5 +88,6 @@ return {
     "gatinhasapec1", -- Lanny_spk 18/10/26 05/03/54 Moderator
     "kawazaki2812", -- KAIOR MENINO DE PROGRAMA 19/10/26 06/03/54
     "Ax7_phdesp", -- 부에노폭스 19/10/26 18/11/26
-    "lululul_807" -- Daviihh 20/10/26 19/11/26
+    "lululul_807", -- Daviihh 20/10/26 19/11/26
+    "ps579p" -- Miguel 21/10/26 08/03/54 Divulgador
 }
