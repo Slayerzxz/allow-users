@@ -78,7 +78,6 @@ return {
     "FACADAS_Hg", -- Facadas_hg 16/10/26 23/10/26
     "Depression_00000", -- GTR R35 16/10/26 03/03/54
     "Theorlk800", -- Carlinzk7 16/10/26 03/03/54 Influenciador
-    "Thevini7z", -- Zyrok🥀 16/10/26 03/03/54 influencer
     "art124195", -- Arthur 17/10/26 03/03/54
     "ster234567freefire", -- Slayer Hub | Admin 17/10/26 13/07/29 love of 666Theux
     "vJPPbJDzqvK", -- Dvz.777 18/10/26 25/10/26 o moderador Slayer Hub
