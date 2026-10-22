@@ -89,5 +89,5 @@ return {
     "lululul_807", -- Daviihh 20/10/26 19/11/26
     "ps579p", -- Miguel 21/10/26 08/03/54 Divulgador
     "uCzVpUkMsFF", -- 736830 21/10/26 18/02/27
-    "AMINNA343" -- DUDINHA¹⁷ 22/10/26 09/03/54
+    "AMINNA343" -- Inapropriado 22/10/26 09/03/54
 }
