@@ -75,7 +75,6 @@ return {
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
     "Nao_souNICK", -- Nickdev 15/10/26 02/03/54
     "dark_033987", -- Davi 16/10/26 03/03/54 influenciador
-    "FACADAS_Hg", -- Facadas_hg 16/10/26 23/10/26
     "Depression_00000", -- GTR R35 16/10/26 03/03/54
     "Theorlk800", -- Carlinzk7 16/10/26 03/03/54 Influenciador
     "art124195", -- Arthur 17/10/26 03/03/54
