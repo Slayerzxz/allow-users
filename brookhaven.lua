@@ -89,5 +89,6 @@ return {
     "AMINNA343", -- Inapropriad2 23/10/26 10/03/54 o impróprio
     "Auraz_182", -- DANONE💤 23/10/26 10/03/54 Mod Danone
     "hiago62675", -- Sheik 24/10/26 30/10/26
-    "kauanfernadesbrow" -- Frost 24/10/26 11/03/54
+    "kauanfernadesbrow", -- Frost 24/10/26 11/03/54
+    "reulparerylemr9" -- Fz 25/10/26 12/03/54
 }
