@@ -68,7 +68,6 @@ return {
     "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 09/10/26 24/02/54 frieren
     "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
     "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
-    "MBK38122", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 10/10/26 25/10/26 mod
     "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
     "seieie9w", -- luh luh 14/10/26 01/03/54 moderador
     "luiskkj999", -- Notrival 14/10/26 13/11/26 ADM
@@ -79,7 +78,6 @@ return {
     "Theorlk800", -- Carlinzk7 16/10/26 03/03/54 Influenciador
     "art124195", -- Arthur 17/10/26 03/03/54
     "ster234567freefire", -- Slayer Hub | Admin 17/10/26 13/07/29 love of 666Theux
-    "vJPPbJDzqvK", -- Dvz.777 18/10/26 25/10/26 o moderador Slayer Hub
     "AmberCalderon8870", -- Minato 18/10/26 05/03/54 influencer
     "SHARP_BOO", -- Ultimatex 18/10/26 05/03/54
     "gatinhasapec1", -- Lanny_spk 18/10/26 05/03/54 Moderator
