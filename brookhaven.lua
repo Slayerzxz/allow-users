@@ -93,5 +93,6 @@ return {
     "reulparerylemr9", -- Fz 25/10/26 12/03/54
     "not_zoro100", -- ܓܓܛܓ 25/10/26 26/10/26
     "vJPPbJDzqvK", -- 愛⳻ ︩⳺ 25/10/26 24/11/26
-    "Emillysa_2" -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
+    "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
+    "Misa_fane7" -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
 }
