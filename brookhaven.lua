@@ -89,5 +89,6 @@ return {
     "ps579p", -- Miguel 21/10/26 08/03/54 Divulgador
     "uCzVpUkMsFF", -- 736830 21/10/26 18/02/27
     "AMINNA343", -- Inapropriad2 23/10/26 10/03/54 o impróprio
-    "Auraz_182" -- DANONE💤 23/10/26 10/03/54 Mod Danone
+    "Auraz_182", -- DANONE💤 23/10/26 10/03/54 Mod Danone
+    "hiago62675" -- Sheik 24/10/26 30/10/26
 }
