@@ -90,5 +90,6 @@ return {
     "Auraz_182", -- DANONE💤 23/10/26 10/03/54 Mod Danone
     "hiago62675", -- Sheik 24/10/26 30/10/26
     "kauanfernadesbrow", -- Frost 24/10/26 11/03/54
-    "reulparerylemr9" -- Fz 25/10/26 12/03/54
+    "reulparerylemr9", -- Fz 25/10/26 12/03/54
+    "not_zoro100" -- ܓܓܛܓ 25/10/26 26/10/26
 }
