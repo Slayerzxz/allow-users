@@ -95,5 +95,6 @@ return {
     "vJPPbJDzqvK", -- 愛⳻ ︩⳺ 25/10/26 24/11/26
     "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
-    "vip215866" -- タ 25/10/26 28/10/26
+    "vip215866", -- タ 25/10/26 28/10/26
+    "Ariel128738" -- ✨ 🅰🆁🅸🅴🅻 ✨ 25/10/26 28/10/26
 }
