@@ -104,5 +104,6 @@ return {
     "samueje382", -- hashira_caos 25/10/26 28/10/26
     "eilishpmx1", -- lwxithymya1 26/10/26 29/10/26
     "FARMO_AURA67070", -- dh_0z0 26/10/26 29/10/26
-    "Itz_Gabizinhaw360" -- ea_roberta 26/10/26 29/10/26
+    "Itz_Gabizinhaw360", -- ea_roberta 26/10/26 29/10/26
+    "hzrocinha_78" -- yuribragadasilva. 26/10/26 29/10/26
 }
