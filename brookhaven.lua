@@ -136,5 +136,6 @@ return {
     "Pabloxz1533", -- encontreiapaz. 26/10/26 29/10/26
     "pedrinz_PH1", -- davi001371 26/10/26 29/10/26
     "MigaGamer1000", -- miguelgamer1000 26/10/26 29/10/26
-    "desativado_153" -- desativado_444466 26/10/26 29/10/26
+    "desativado_153", -- desativado_444466 26/10/26 29/10/26
+    "K666pkildd" -- mysterioso._71615 26/10/26 29/10/26
 }
