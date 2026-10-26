@@ -122,5 +122,6 @@ return {
     "N0T_Z0RO100", -- lol.nashedi 26/10/26 29/10/26
     "batatacmpepsie", -- calvinhadorobroxx 26/10/26 29/10/26
     "ghvijjjjjjjj", -- dahizin._16896 26/10/26 29/10/26
-    "Itz_drraggon" -- felpssdg 26/10/26 29/10/26
+    "Itz_drraggon", -- felpssdg 26/10/26 29/10/26
+    "yoyo_50455" -- ta058234 26/10/26 29/10/26
 }
