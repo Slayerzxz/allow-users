@@ -107,5 +107,6 @@ return {
     "Itz_Gabizinhaw360", -- ea_roberta 26/10/26 29/10/26
     "hzrocinha_78", -- yuribragadasilva. 26/10/26 29/10/26
     "capudo242424", -- slvvzkrai 26/10/26 29/10/26
-    "Cheirode_pandemia" -- bugadin_doidokkkkk 26/10/26 29/10/26
+    "Cheirode_pandemia", -- bugadin_doidokkkkk 26/10/26 29/10/26
+    "yonike23" -- yonaiker7899 26/10/26 29/10/26
 }
