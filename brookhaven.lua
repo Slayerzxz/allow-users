@@ -140,5 +140,6 @@ return {
     "K666pkildd", -- mysterioso._71615 26/10/26 29/10/26
     "3nzogabs", -- usuario_desconhecido157. 26/10/26 29/10/26
     "kelven_036", -- tarstherium 26/10/26 29/10/26
-    "andriel100000" -- cloudicons 26/10/26 29/10/26
+    "andriel100000", -- cloudicons 26/10/26 29/10/26
+    "rakib0595" -- abed_miyazi 26/10/26 29/10/26
 }
