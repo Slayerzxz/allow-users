@@ -131,5 +131,6 @@ return {
     "Baconall91", -- fachryayi_96149 26/10/26 29/10/26
     "Lucas1234567898452", -- lucasaventuragame 26/10/26 29/10/26
     "Miguelito208h", -- miguel77w7._45324 26/10/26 29/10/26
-    "REIDAVIGAMERLIN" -- davigamerlin3.9 26/10/26 29/10/26
+    "REIDAVIGAMERLIN", -- davigamerlin3.9 26/10/26 29/10/26
+    "miauzinhooooooo6" -- user4059._30235 26/10/26 29/10/26
 }
