@@ -138,5 +138,6 @@ return {
     "MigaGamer1000", -- miguelgamer1000 26/10/26 29/10/26
     "desativado_153", -- desativado_444466 26/10/26 29/10/26
     "K666pkildd", -- mysterioso._71615 26/10/26 29/10/26
-    "3nzogabs" -- usuario_desconhecido157. 26/10/26 29/10/26
+    "3nzogabs", -- usuario_desconhecido157. 26/10/26 29/10/26
+    "kelven_036" -- tarstherium 26/10/26 29/10/26
 }
