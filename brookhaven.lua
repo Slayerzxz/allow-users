@@ -158,5 +158,6 @@ return {
     "12345678910", -- ian._ui6797_83209 26/10/26 29/10/26
     "nzinb1", -- jn02173 26/10/26 29/10/26
     "talysonsil", -- thomas_sbelby 26/10/26 29/10/26
-    "grennred9" -- _onixvt 26/10/26 29/10/26
+    "grennred9", -- _onixvt 26/10/26 29/10/26
+    "odkimatil0" -- frost077983 26/10/26 29/10/26
 }
