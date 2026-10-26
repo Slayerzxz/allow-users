@@ -101,5 +101,6 @@ return {
     "BachYenocfs01685", -- Mt 25/10/26 28/10/26
     "aaa", -- lazerzxz 25/10/26 28/10/26
     "mimic0543", -- noah015239 25/10/26 28/10/26
-    "samueje382" -- hashira_caos 25/10/26 28/10/26
+    "samueje382", -- hashira_caos 25/10/26 28/10/26
+    "eilishpmx1" -- lwxithymya1 26/10/26 29/10/26
 }
