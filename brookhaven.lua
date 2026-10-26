@@ -145,5 +145,6 @@ return {
     "paxmkr", -- rafzinho001_95308 26/10/26 29/10/26
     "vitor_064829", -- vxz.243 26/10/26 29/10/26
     "flameng8655", -- wesley020203 26/10/26 29/10/26
-    "hdjdhdhurhrjtl" -- mmbielzinn_57275 26/10/26 29/10/26
+    "hdjdhdhurhrjtl", -- mmbielzinn_57275 26/10/26 29/10/26
+    "random6678907" -- joaco677 26/10/26 29/10/26
 }
