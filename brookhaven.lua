@@ -115,5 +115,6 @@ return {
     "speedfly444", -- nl444 26/10/26 29/10/26
     "zeus_65159", -- zeus990294 26/10/26 29/10/26
     "TOMGXKLG", -- ay_anami.rei 26/10/26 29/10/26
-    "BRUXOZIN36" -- matheus_ff 26/10/26 29/10/26
+    "BRUXOZIN36", -- matheus_ff 26/10/26 29/10/26
+    "ZEZAO280" -- mlz_venceu_77986 26/10/26 29/10/26
 }
