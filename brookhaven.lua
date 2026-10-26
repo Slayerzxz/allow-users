@@ -150,5 +150,6 @@ return {
     "felicidade955", -- carlos67noob_81784 26/10/26 29/10/26
     "emand368sa", -- ussruniaosovieticaball 26/10/26 29/10/26
     "Mikael08022", -- mikael086744 26/10/26 29/10/26
-    "xandozim" -- filhotededeus 26/10/26 29/10/26
+    "xandozim", -- filhotededeus 26/10/26 29/10/26
+    "MateusMiniWolrd" -- ak74cafeino 26/10/26 29/10/26
 }
