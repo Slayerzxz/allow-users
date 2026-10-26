@@ -111,5 +111,6 @@ return {
     "0vamp_zx0", -- sadxff0632_93515 26/10/26 29/10/26
     "uvamanga05", -- daviomelhor1 26/10/26 29/10/26
     "Gabrielzini49", -- gabriel.64868 26/10/26 29/10/26
-    "coco234melon8" -- alexis080407 26/10/26 29/10/26
+    "coco234melon8", -- alexis080407 26/10/26 29/10/26
+    "speedfly444" -- nl444 26/10/26 29/10/26
 }
