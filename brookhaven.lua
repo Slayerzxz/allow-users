@@ -128,5 +128,6 @@ return {
     "alnmk_7", -- samuelvip999_02575 26/10/26 29/10/26
     "Tuemeufilho", -- rinitoshi0210_37365 26/10/26 29/10/26
     "proui54e", -- tu_poeta 26/10/26 29/10/26
-    "Baconall91" -- fachryayi_96149 26/10/26 29/10/26
+    "Baconall91", -- fachryayi_96149 26/10/26 29/10/26
+    "Lucas1234567898452" -- lucasaventuragame 26/10/26 29/10/26
 }
