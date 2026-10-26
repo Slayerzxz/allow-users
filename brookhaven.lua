@@ -153,5 +153,6 @@ return {
     "xandozim", -- filhotededeus 26/10/26 29/10/26
     "MateusMiniWolrd", -- ak74cafeino 26/10/26 29/10/26
     "7812_z", -- 7812_z 26/10/26 29/10/26
-    "kauaenay" -- kaue082039 26/10/26 29/10/26
+    "kauaenay", -- kaue082039 26/10/26 29/10/26
+    "rn_rlk0071" -- rnzinrlq.7_43479 26/10/26 29/10/26
 }
