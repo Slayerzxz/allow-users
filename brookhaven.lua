@@ -119,5 +119,6 @@ return {
     "ZEZAO280", -- mlz_venceu_77986 26/10/26 29/10/26
     "susana289q92", -- pipikiwi0855 26/10/26 29/10/26
     "Nathan_22498", -- nathan_22498 26/10/26 29/10/26
-    "N0T_Z0RO100" -- lol.nashedi 26/10/26 29/10/26
+    "N0T_Z0RO100", -- lol.nashedi 26/10/26 29/10/26
+    "batatacmpepsie" -- calvinhadorobroxx 26/10/26 29/10/26
 }
