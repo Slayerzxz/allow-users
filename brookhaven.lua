@@ -123,5 +123,6 @@ return {
     "batatacmpepsie", -- calvinhadorobroxx 26/10/26 29/10/26
     "ghvijjjjjjjj", -- dahizin._16896 26/10/26 29/10/26
     "Itz_drraggon", -- felpssdg 26/10/26 29/10/26
-    "yoyo_50455" -- ta058234 26/10/26 29/10/26
+    "yoyo_50455", -- ta058234 26/10/26 29/10/26
+    "0_Zy8" -- bot020476 26/10/26 29/10/26
 }
