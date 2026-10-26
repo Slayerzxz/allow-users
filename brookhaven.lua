@@ -108,5 +108,6 @@ return {
     "hzrocinha_78", -- yuribragadasilva. 26/10/26 29/10/26
     "capudo242424", -- slvvzkrai 26/10/26 29/10/26
     "Cheirode_pandemia", -- bugadin_doidokkkkk 26/10/26 29/10/26
-    "yonike23" -- yonaiker7899 26/10/26 29/10/26
+    "yonike23", -- yonaiker7899 26/10/26 29/10/26
+    "0vamp_zx0" -- sadxff0632_93515 26/10/26 29/10/26
 }
