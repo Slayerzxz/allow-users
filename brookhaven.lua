@@ -133,5 +133,6 @@ return {
     "Miguelito208h", -- miguel77w7._45324 26/10/26 29/10/26
     "REIDAVIGAMERLIN", -- davigamerlin3.9 26/10/26 29/10/26
     "miauzinhooooooo6", -- user4059._30235 26/10/26 29/10/26
-    "Pabloxz1533" -- encontreiapaz. 26/10/26 29/10/26
+    "Pabloxz1533", -- encontreiapaz. 26/10/26 29/10/26
+    "pedrinz_PH1" -- davi001371 26/10/26 29/10/26
 }
