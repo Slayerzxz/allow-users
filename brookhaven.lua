@@ -170,5 +170,6 @@ return {
     "DRAK9014", -- moreno_delay_07930 27/10/26 30/10/26
     "cantanguandi2", -- enjoavas 27/10/26 30/10/26
     "mano_maxse", -- ney05829 27/10/26 30/10/26
-    "Ryanfjxhcgy" -- amola_jecare 27/10/26 30/10/26
+    "Ryanfjxhcgy", -- amola_jecare 27/10/26 30/10/26
+    "girldayana000" -- richrd0241_70577 27/10/26 30/10/26
 }
