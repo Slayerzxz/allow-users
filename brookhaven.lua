@@ -160,5 +160,6 @@ return {
     "talysonsil", -- thomas_sbelby 26/10/26 29/10/26
     "grennred9", -- _onixvt 26/10/26 29/10/26
     "odkimatil0", -- frost077983 26/10/26 29/10/26
-    "wafaa6tj830" -- gabb1s_gb 26/10/26 29/10/26
+    "wafaa6tj830", -- gabb1s_gb 26/10/26 29/10/26
+    "fora_shark" -- lwkikom 26/10/26 29/10/26
 }
