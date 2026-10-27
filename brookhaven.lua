@@ -175,5 +175,6 @@ return {
     "ww2Daniels1", -- celestial_flamingo_86080 27/10/26 30/10/26
     "g00byd0lan_isback0", -- tiktoknotificacoesdelive 27/10/26 30/10/26
     "fabinhogatinho1", -- soueufabio_04140 27/10/26 30/10/26
-    "TOTOZIN1K" -- mateus_px_ 27/10/26 30/10/26
+    "TOTOZIN1K", -- mateus_px_ 27/10/26 30/10/26
+    "kiddbe5" -- Eb do gab 2.0 27/10/26 14/03/54 influenciador
 }
