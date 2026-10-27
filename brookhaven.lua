@@ -168,5 +168,6 @@ return {
     "jrj4520", -- yanis12364 27/10/26 30/10/26
     "AuraBoy1717", -- novi026172 27/10/26 30/10/26
     "DRAK9014", -- moreno_delay_07930 27/10/26 30/10/26
-    "cantanguandi2" -- enjoavas 27/10/26 30/10/26
+    "cantanguandi2", -- enjoavas 27/10/26 30/10/26
+    "mano_maxse" -- ney05829 27/10/26 30/10/26
 }
