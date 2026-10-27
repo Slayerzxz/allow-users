@@ -162,5 +162,6 @@ return {
     "odkimatil0", -- frost077983 26/10/26 29/10/26
     "wafaa6tj830", -- gabb1s_gb 26/10/26 29/10/26
     "fora_shark", -- lwkikom 26/10/26 29/10/26
-    "SJoerting10J3" -- peixe1239 27/10/26 30/10/26
+    "SJoerting10J3", -- peixe1239 27/10/26 30/10/26
+    "r0k1kid" -- jubilant_peacock_08110 27/10/26 30/10/26
 }
