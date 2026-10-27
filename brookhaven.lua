@@ -166,5 +166,6 @@ return {
     "r0k1kid", -- jubilant_peacock_08110 27/10/26 30/10/26
     "danielzin1235462", -- Danielzinho 27/10/26 05/11/26
     "jrj4520", -- yanis12364 27/10/26 30/10/26
-    "AuraBoy1717" -- novi026172 27/10/26 30/10/26
+    "AuraBoy1717", -- novi026172 27/10/26 30/10/26
+    "DRAK9014" -- moreno_delay_07930 27/10/26 30/10/26
 }
