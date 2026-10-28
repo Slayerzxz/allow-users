@@ -181,5 +181,6 @@ return {
     "theohosseny12412", -- theo12412 28/10/26 31/10/26
     "Linskooooo", -- linskooo_ 28/10/26 31/10/26
     "roubeiumapipa2", -- gustavo9282883 28/10/26 31/10/26
-    "heitorss405" -- heeur 28/10/26 31/10/26
+    "heitorss405", -- heeur 28/10/26 31/10/26
+    "serjaopedreiro4" -- 666тнєυχ 28/10/26 15/03/54 snys
 }
