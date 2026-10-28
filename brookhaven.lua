@@ -174,5 +174,6 @@ return {
     "TrueblueSeth5", -- thebestimpactace_40654 27/10/26 30/10/26
     "Gabriells796", -- mrscript0940 27/10/26 30/10/26
     "Markusraylan15", -- ray16games 28/10/26 31/10/26
-    "NinjaSnip0" -- wrexxl0.__95568 28/10/26 31/10/26
+    "NinjaSnip0", -- wrexxl0.__95568 28/10/26 31/10/26
+    "twinecanlarfeda" -- renaback1 28/10/26 31/10/26
 }
