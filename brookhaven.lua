@@ -176,5 +176,6 @@ return {
     "Markusraylan15", -- ray16games 28/10/26 31/10/26
     "NinjaSnip0", -- wrexxl0.__95568 28/10/26 31/10/26
     "twinecanlarfeda", -- renaback1 28/10/26 31/10/26
-    "cardio460" -- playful_seahorse_84974 28/10/26 31/10/26
+    "cardio460", -- playful_seahorse_84974 28/10/26 31/10/26
+    "duskyframes9" -- mariyamizany 28/10/26 31/10/26
 }
