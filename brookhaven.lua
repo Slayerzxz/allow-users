@@ -179,5 +179,6 @@ return {
     "cardio460", -- playful_seahorse_84974 28/10/26 31/10/26
     "duskyframes9", -- mariyamizany 28/10/26 31/10/26
     "theohosseny12412", -- theo12412 28/10/26 31/10/26
-    "Linskooooo" -- linskooo_ 28/10/26 31/10/26
+    "Linskooooo", -- linskooo_ 28/10/26 31/10/26
+    "roubeiumapipa2" -- gustavo9282883 28/10/26 31/10/26
 }
