@@ -177,5 +177,6 @@ return {
     "fabinhogatinho1", -- soueufabio_04140 27/10/26 30/10/26
     "TOTOZIN1K", -- mateus_px_ 27/10/26 30/10/26
     "kiddbe5", -- Eb do gab 2.0 27/10/26 14/03/54 influenciador
-    "TrueblueSeth5" -- thebestimpactace_40654 27/10/26 30/10/26
+    "TrueblueSeth5", -- thebestimpactace_40654 27/10/26 30/10/26
+    "Gabriells796" -- mrscript0940 27/10/26 30/10/26
 }
