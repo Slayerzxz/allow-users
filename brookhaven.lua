@@ -187,5 +187,6 @@ return {
     "vip215866", -- todzinhoww 28/10/26 31/10/26
     "ikfsjjssjjs", -- iamnb77 28/10/26 31/10/26
     "DaHeAi16", -- @Bryzz 28/10/26 30/12/99 Staff
-    "Ak_74OutraConta" -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
+    "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
+    "tooreber" -- hkoyt._86486 28/10/26 31/10/26
 }
