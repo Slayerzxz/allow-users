@@ -126,5 +126,6 @@ return {
     "ikfsjjssjjs", -- iamnb77 28/10/26 31/10/26
     "DaHeAi16", -- @Bryzz 28/10/26 30/12/99 Staff
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
-    "tooreber" -- hkoyt._86486 28/10/26 31/10/26
+    "tooreber", -- hkoyt._86486 28/10/26 31/10/26
+    "iagotutsminecraft" -- iago004386 29/10/26 01/11/26
 }
