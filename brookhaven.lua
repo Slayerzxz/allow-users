@@ -124,7 +124,7 @@ return {
     "coali781", -- erick_baterista 28/10/26 31/10/26
     "vip215866", -- todzinhoww 28/10/26 31/10/26
     "ikfsjjssjjs", -- iamnb77 28/10/26 31/10/26
-    "DaHeAi16", -- @Bryzz 28/10/26 30/12/99 Staff
+    "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
     "tooreber", -- hkoyt._86486 28/10/26 31/10/26
     "iagotutsminecraft", -- iago004386 29/10/26 01/11/26
