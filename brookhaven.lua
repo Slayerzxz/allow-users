@@ -136,5 +136,6 @@ return {
     "cleito129674", -- ryan_fox_fnaf 29/10/26 01/11/26
     "TfzLWyzOHxV", -- reom1kag3 29/10/26 01/11/26
     "RMA15680", -- 3watito 29/10/26 01/11/26
-    "Ashforeveruh" -- xyunb 29/10/26 01/11/26
+    "Ashforeveruh", -- xyunb 29/10/26 01/11/26
+    "mateus19959" -- mateus.guz_27396 29/10/26 01/11/26
 }
