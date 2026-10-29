@@ -131,5 +131,6 @@ return {
     "Pedrux_mmv", -- pedro009514 29/10/26 01/11/26
     "slk_Antonny", -- dvziinn.sx00 29/10/26 01/11/26
     "dacuebaokk1", -- miguel9087768 29/10/26 01/11/26
-    "weirdwdo" -- rexk0665_18813 29/10/26 01/11/26
+    "weirdwdo", -- rexk0665_18813 29/10/26 01/11/26
+    "Kaidor2OO8" -- kutaydox 29/10/26 01/11/26
 }
