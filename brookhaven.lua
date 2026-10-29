@@ -184,5 +184,6 @@ return {
     "heitorss405", -- heeur 28/10/26 31/10/26
     "serjaopedreiro4", -- 666тнєυχ 28/10/26 15/03/54 snys
     "coali781", -- erick_baterista 28/10/26 31/10/26
-    "vip215866" -- todzinhoww 28/10/26 31/10/26
+    "vip215866", -- todzinhoww 28/10/26 31/10/26
+    "ikfsjjssjjs" -- iamnb77 28/10/26 31/10/26
 }
