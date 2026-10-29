@@ -135,5 +135,6 @@ return {
     "Kaidor2OO8", -- kutaydox 29/10/26 01/11/26
     "cleito129674", -- ryan_fox_fnaf 29/10/26 01/11/26
     "TfzLWyzOHxV", -- reom1kag3 29/10/26 01/11/26
-    "RMA15680" -- 3watito 29/10/26 01/11/26
+    "RMA15680", -- 3watito 29/10/26 01/11/26
+    "Ashforeveruh" -- xyunb 29/10/26 01/11/26
 }
