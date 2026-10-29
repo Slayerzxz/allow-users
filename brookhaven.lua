@@ -128,5 +128,6 @@ return {
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
     "tooreber", -- hkoyt._86486 28/10/26 31/10/26
     "iagotutsminecraft", -- iago004386 29/10/26 01/11/26
-    "Pedrux_mmv" -- pedro009514 29/10/26 01/11/26
+    "Pedrux_mmv", -- pedro009514 29/10/26 01/11/26
+    "slk_Antonny" -- dvziinn.sx00 29/10/26 01/11/26
 }
