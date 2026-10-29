@@ -32,7 +32,6 @@ return {
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
     "matheus_itz00", -- 𝟐 18/10/26 05/03/54 Mod
-    "therealneverfall", -- dk7 04/10/26 29/10/26
     "mig108020", -- 72 22/09/26 01/11/26
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
@@ -95,67 +94,6 @@ return {
     "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
     "can129229", -- テリオン 26/10/26 13/03/54 influenciador
-    "eilishpmx1", -- lwxithymya1 26/10/26 29/10/26
-    "FARMO_AURA67070", -- dh_0z0 26/10/26 29/10/26
-    "Itz_Gabizinhaw360", -- ea_roberta 26/10/26 29/10/26
-    "hzrocinha_78", -- yuribragadasilva. 26/10/26 29/10/26
-    "capudo242424", -- slvvzkrai 26/10/26 29/10/26
-    "Cheirode_pandemia", -- bugadin_doidokkkkk 26/10/26 29/10/26
-    "yonike23", -- yonaiker7899 26/10/26 29/10/26
-    "0vamp_zx0", -- sadxff0632_93515 26/10/26 29/10/26
-    "uvamanga05", -- daviomelhor1 26/10/26 29/10/26
-    "Gabrielzini49", -- gabriel.64868 26/10/26 29/10/26
-    "coco234melon8", -- alexis080407 26/10/26 29/10/26
-    "speedfly444", -- nl444 26/10/26 29/10/26
-    "zeus_65159", -- zeus990294 26/10/26 29/10/26
-    "TOMGXKLG", -- ay_anami.rei 26/10/26 29/10/26
-    "BRUXOZIN36", -- matheus_ff 26/10/26 29/10/26
-    "ZEZAO280", -- mlz_venceu_77986 26/10/26 29/10/26
-    "susana289q92", -- pipikiwi0855 26/10/26 29/10/26
-    "Nathan_22498", -- nathan_22498 26/10/26 29/10/26
-    "N0T_Z0RO100", -- lol.nashedi 26/10/26 29/10/26
-    "batatacmpepsie", -- calvinhadorobroxx 26/10/26 29/10/26
-    "ghvijjjjjjjj", -- dahizin._16896 26/10/26 29/10/26
-    "Itz_drraggon", -- felpssdg 26/10/26 29/10/26
-    "yoyo_50455", -- ta058234 26/10/26 29/10/26
-    "0_Zy8", -- bot020476 26/10/26 29/10/26
-    "alnmk_7", -- samuelvip999_02575 26/10/26 29/10/26
-    "Tuemeufilho", -- rinitoshi0210_37365 26/10/26 29/10/26
-    "proui54e", -- tu_poeta 26/10/26 29/10/26
-    "Baconall91", -- fachryayi_96149 26/10/26 29/10/26
-    "Lucas1234567898452", -- lucasaventuragame 26/10/26 29/10/26
-    "Miguelito208h", -- miguel77w7._45324 26/10/26 29/10/26
-    "REIDAVIGAMERLIN", -- davigamerlin3.9 26/10/26 29/10/26
-    "miauzinhooooooo6", -- user4059._30235 26/10/26 29/10/26
-    "Pabloxz1533", -- encontreiapaz. 26/10/26 29/10/26
-    "pedrinz_PH1", -- davi001371 26/10/26 29/10/26
-    "MigaGamer1000", -- miguelgamer1000 26/10/26 29/10/26
-    "desativado_153", -- desativado_444466 26/10/26 29/10/26
-    "K666pkildd", -- mysterioso._71615 26/10/26 29/10/26
-    "3nzogabs", -- usuario_desconhecido157. 26/10/26 29/10/26
-    "kelven_036", -- tarstherium 26/10/26 29/10/26
-    "andriel100000", -- cloudicons 26/10/26 29/10/26
-    "rakib0595", -- abed_miyazi 26/10/26 29/10/26
-    "paxmkr", -- rafzinho001_95308 26/10/26 29/10/26
-    "vitor_064829", -- vxz.243 26/10/26 29/10/26
-    "flameng8655", -- wesley020203 26/10/26 29/10/26
-    "hdjdhdhurhrjtl", -- mmbielzinn_57275 26/10/26 29/10/26
-    "random6678907", -- joaco677 26/10/26 29/10/26
-    "felicidade955", -- carlos67noob_81784 26/10/26 29/10/26
-    "emand368sa", -- ussruniaosovieticaball 26/10/26 29/10/26
-    "Mikael08022", -- mikael086744 26/10/26 29/10/26
-    "xandozim", -- filhotededeus 26/10/26 29/10/26
-    "MateusMiniWolrd", -- ak74cafeino 26/10/26 29/10/26
-    "7812_z", -- 7812_z 26/10/26 29/10/26
-    "kauaenay", -- kaue082039 26/10/26 29/10/26
-    "rn_rlk0071", -- rnzinrlq.7_43479 26/10/26 29/10/26
-    "12345678910", -- ian._ui6797_83209 26/10/26 29/10/26
-    "nzinb1", -- jn02173 26/10/26 29/10/26
-    "talysonsil", -- thomas_sbelby 26/10/26 29/10/26
-    "grennred9", -- _onixvt 26/10/26 29/10/26
-    "odkimatil0", -- frost077983 26/10/26 29/10/26
-    "wafaa6tj830", -- gabb1s_gb 26/10/26 29/10/26
-    "fora_shark", -- lwkikom 26/10/26 29/10/26
     "SJoerting10J3", -- peixe1239 27/10/26 30/10/26
     "r0k1kid", -- jubilant_peacock_08110 27/10/26 30/10/26
     "danielzin1235462", -- Danielzinho 27/10/26 05/11/26
