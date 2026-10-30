@@ -140,5 +140,6 @@ return {
     "mateus19959", -- mateus.guz_27396 29/10/26 01/11/26
     "yanvictor5540", -- pelezin.ppk 29/10/26 01/11/26
     "Robloben17", -- malacubacos_74645 29/10/26 01/11/26
-    "brack_1777" -- dark091258 29/10/26 01/11/26
+    "brack_1777", -- dark091258 29/10/26 01/11/26
+    "Jjjjrnfdddjj" -- tomarnorabodc 29/10/26 01/11/26
 }
