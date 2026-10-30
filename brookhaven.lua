@@ -130,5 +130,6 @@ return {
     "Haekal_kacung", -- uehe0695 30/10/26 02/11/26
     "Itz_Gabizinhaw360", -- ea_roberta 30/10/26 02/11/26
     "nzinb1", -- jn02173 30/10/26 02/11/26
-    "miauzinhooooooo6" -- Teste adm 30/10/26 13/11/26
+    "miauzinhooooooo6", -- Teste adm 30/10/26 13/11/26
+    "raposozin3" -- raposo_adm_11572 30/10/26 02/11/26
 }
