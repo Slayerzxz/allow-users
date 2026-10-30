@@ -135,5 +135,6 @@ return {
     "Gabrielzini49", -- gabriel.64868 30/10/26 02/11/26
     "samueje382", -- HaShira_Caos 30/10/26 29/11/26
     "N1COLAS_OFC01", -- minuzin_163 30/10/26 02/11/26
-    "joaco_michi" -- joaco677 30/10/26 02/11/26
+    "joaco_michi", -- joaco677 30/10/26 02/11/26
+    "ADMBROOKHAVEN6762" -- renegado07380 30/10/26 02/11/26
 }
