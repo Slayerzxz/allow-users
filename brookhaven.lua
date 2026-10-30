@@ -128,5 +128,6 @@ return {
     "Jjjjrnfdddjj", -- tomarnorabodc 29/10/26 01/11/26
     "wosjiw97", -- phl_x 29/10/26 01/11/26
     "Haekal_kacung", -- uehe0695 30/10/26 02/11/26
-    "Itz_Gabizinhaw360" -- ea_roberta 30/10/26 02/11/26
+    "Itz_Gabizinhaw360", -- ea_roberta 30/10/26 02/11/26
+    "nzinb1" -- jn02173 30/10/26 02/11/26
 }
