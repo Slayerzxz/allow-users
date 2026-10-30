@@ -137,5 +137,6 @@ return {
     "N1COLAS_OFC01", -- minuzin_163 30/10/26 02/11/26
     "joaco_michi", -- joaco677 30/10/26 02/11/26
     "ADMBROOKHAVEN6762", -- renegado07380 30/10/26 02/11/26
-    "kurbagasinsen" -- beratcapone 30/10/26 02/11/26
+    "kurbagasinsen", -- beratcapone 30/10/26 02/11/26
+    "alnmk_7" -- samuelvip999_02575 30/10/26 02/11/26
 }
