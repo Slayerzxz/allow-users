@@ -87,30 +87,14 @@ return {
     "uCzVpUkMsFF", -- 736830 21/10/26 18/02/27
     "AMINNA343", -- Inapropriad2 23/10/26 10/03/54 o impróprio
     "Auraz_182", -- DANONE💤 23/10/26 10/03/54 Mod Danone
-    "hiago62675", -- Sheik 24/10/26 30/10/26
     "kauanfernadesbrow", -- Frost 24/10/26 11/03/54
     "reulparerylemr9", -- Fz 25/10/26 12/03/54
     "vJPPbJDzqvK", -- 愛⳻ ︩⳺ 25/10/26 24/11/26
     "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
     "can129229", -- テリオン 26/10/26 13/03/54 influenciador
-    "SJoerting10J3", -- peixe1239 27/10/26 30/10/26
-    "r0k1kid", -- jubilant_peacock_08110 27/10/26 30/10/26
     "danielzin1235462", -- Danielzinho 27/10/26 05/11/26
-    "jrj4520", -- yanis12364 27/10/26 30/10/26
-    "AuraBoy1717", -- novi026172 27/10/26 30/10/26
-    "DRAK9014", -- moreno_delay_07930 27/10/26 30/10/26
-    "cantanguandi2", -- enjoavas 27/10/26 30/10/26
-    "mano_maxse", -- ney05829 27/10/26 30/10/26
-    "Ryanfjxhcgy", -- amola_jecare 27/10/26 30/10/26
-    "girldayana000", -- richrd0241_70577 27/10/26 30/10/26
-    "ww2Daniels1", -- celestial_flamingo_86080 27/10/26 30/10/26
-    "g00byd0lan_isback0", -- tiktoknotificacoesdelive 27/10/26 30/10/26
-    "fabinhogatinho1", -- soueufabio_04140 27/10/26 30/10/26
-    "TOTOZIN1K", -- mateus_px_ 27/10/26 30/10/26
     "kiddbe5", -- Eb do gab 2.0 27/10/26 14/03/54 influenciador
-    "TrueblueSeth5", -- thebestimpactace_40654 27/10/26 30/10/26
-    "Gabriells796", -- mrscript0940 27/10/26 30/10/26
     "Markusraylan15", -- ray16games 28/10/26 31/10/26
     "NinjaSnip0", -- wrexxl0.__95568 28/10/26 31/10/26
     "twinecanlarfeda", -- renaback1 28/10/26 31/10/26
