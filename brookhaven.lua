@@ -133,5 +133,6 @@ return {
     "japaslkmn", -- afogamentos 31/10/26 03/11/26
     "koinswg", -- vamipihm17o 31/10/26 03/11/26
     "Hoje", -- tarstherium 31/10/26 03/11/26
-    "urea_seca9999" -- warllxz 31/10/26 03/11/26
+    "urea_seca9999", -- warllxz 31/10/26 03/11/26
+    "coco234melon8" -- alexis080407 31/10/26 03/11/26
 }
