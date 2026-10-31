@@ -132,5 +132,6 @@ return {
     "mmimi89m", -- emoboy0849 31/10/26 03/11/26
     "japaslkmn", -- afogamentos 31/10/26 03/11/26
     "koinswg", -- vamipihm17o 31/10/26 03/11/26
-    "Hoje" -- tarstherium 31/10/26 03/11/26
+    "Hoje", -- tarstherium 31/10/26 03/11/26
+    "urea_seca9999" -- warllxz 31/10/26 03/11/26
 }
