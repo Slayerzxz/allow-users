@@ -127,5 +127,6 @@ return {
     "kurbagasinsen", -- beratcapone 30/10/26 02/11/26
     "oepi205", -- kenneth_63 30/10/26 02/11/26
     "bielfaixa01", -- lucas12836 30/10/26 02/11/26
-    "rip_alan1574" -- Samuelmorie 31/10/26 03/11/26
+    "rip_alan1574", -- Samuelmorie 31/10/26 03/11/26
+    "bebap0225" -- mltmoshka 31/10/26 03/11/26
 }
