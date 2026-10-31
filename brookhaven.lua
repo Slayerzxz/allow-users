@@ -95,22 +95,9 @@ return {
     "can129229", -- テリオン 26/10/26 13/03/54 influenciador
     "danielzin1235462", -- Danielzinho 27/10/26 05/11/26
     "kiddbe5", -- Eb do gab 2.0 27/10/26 14/03/54 influenciador
-    "Markusraylan15", -- ray16games 28/10/26 31/10/26
-    "NinjaSnip0", -- wrexxl0.__95568 28/10/26 31/10/26
-    "twinecanlarfeda", -- renaback1 28/10/26 31/10/26
-    "cardio460", -- playful_seahorse_84974 28/10/26 31/10/26
-    "duskyframes9", -- mariyamizany 28/10/26 31/10/26
-    "theohosseny12412", -- theo12412 28/10/26 31/10/26
-    "Linskooooo", -- linskooo_ 28/10/26 31/10/26
-    "roubeiumapipa2", -- gustavo9282883 28/10/26 31/10/26
-    "heitorss405", -- heeur 28/10/26 31/10/26
     "serjaopedreiro4", -- 666тнєυχ 28/10/26 15/03/54 snys
-    "coali781", -- erick_baterista 28/10/26 31/10/26
-    "vip215866", -- todzinhoww 28/10/26 31/10/26
-    "ikfsjjssjjs", -- iamnb77 28/10/26 31/10/26
     "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
-    "tooreber", -- hkoyt._86486 28/10/26 31/10/26
     "iagotutsminecraft", -- iago004386 29/10/26 01/11/26
     "Pedrux_mmv", -- pedro009514 29/10/26 01/11/26
     "slk_Antonny", -- dvziinn.sx00 29/10/26 01/11/26
