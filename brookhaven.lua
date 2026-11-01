@@ -139,5 +139,6 @@ return {
     "capudo242424", -- Silvazk 01/11/26 08/11/26
     "odkimatil0", -- frost077983 01/11/26 04/11/26
     "malcriado_2220", -- rnzinrlq.7_43479 01/11/26 04/11/26
-    "jkiiiiiijjjhebw" -- draay_09 01/11/26 04/11/26
+    "jkiiiiiijjjhebw", -- draay_09 01/11/26 04/11/26
+    "hzrocinha_78" -- yuribragadasilva. 01/11/26 04/11/26
 }
