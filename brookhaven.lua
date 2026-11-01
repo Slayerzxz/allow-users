@@ -32,7 +32,6 @@ return {
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
     "matheus_itz00", -- 𝑻𝒔𝒖𝒌𝒊¹⁷ 30/10/26 17/03/54 Mod
-    "mig108020", -- 72 22/09/26 01/11/26
     "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
     "xamueumc", -- -2,50 26/09/26 11/02/54
@@ -98,22 +97,6 @@ return {
     "serjaopedreiro4", -- 666тнєυχ 28/10/26 15/03/54 snys
     "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
-    "iagotutsminecraft", -- iago004386 29/10/26 01/11/26
-    "Pedrux_mmv", -- pedro009514 29/10/26 01/11/26
-    "slk_Antonny", -- dvziinn.sx00 29/10/26 01/11/26
-    "dacuebaokk1", -- miguel9087768 29/10/26 01/11/26
-    "weirdwdo", -- rexk0665_18813 29/10/26 01/11/26
-    "Kaidor2OO8", -- kutaydox 29/10/26 01/11/26
-    "cleito129674", -- ryan_fox_fnaf 29/10/26 01/11/26
-    "TfzLWyzOHxV", -- reom1kag3 29/10/26 01/11/26
-    "RMA15680", -- 3watito 29/10/26 01/11/26
-    "Ashforeveruh", -- xyunb 29/10/26 01/11/26
-    "mateus19959", -- mateus.guz_27396 29/10/26 01/11/26
-    "yanvictor5540", -- pelezin.ppk 29/10/26 01/11/26
-    "Robloben17", -- malacubacos_74645 29/10/26 01/11/26
-    "brack_1777", -- dark091258 29/10/26 01/11/26
-    "Jjjjrnfdddjj", -- tomarnorabodc 29/10/26 01/11/26
-    "wosjiw97", -- phl_x 29/10/26 01/11/26
     "Haekal_kacung", -- uehe0695 30/10/26 02/11/26
     "Itz_Gabizinhaw360", -- ea_roberta 30/10/26 02/11/26
     "nzinb1", -- jn02173 30/10/26 02/11/26
