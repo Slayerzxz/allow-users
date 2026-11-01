@@ -134,5 +134,6 @@ return {
     "canarioadrian15", -- canario0122 01/11/26 04/11/26
     "oiku882", -- joaquim06580 01/11/26 04/11/26
     "alexsanndro123", -- Guxtavin$ 01/11/26 01/12/26
-    "Mikael08022" -- ༺꧁¿✞𝑴𝑰𝑲𝑨𝑬𝑳✞?꧂༻ 01/11/26 01/12/26
+    "Mikael08022", -- ༺꧁¿✞𝑴𝑰𝑲𝑨𝑬𝑳✞?꧂༻ 01/11/26 01/12/26
+    "bielwqc" -- bieldamidiakkj 01/11/26 04/11/26
 }
