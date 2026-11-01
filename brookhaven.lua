@@ -129,5 +129,6 @@ return {
     "Thednkk", -- enzo024263 01/11/26 04/11/26
     "NikolasDaniell50", -- nicolas05694 01/11/26 04/11/26
     "Eliaszoppas", -- el_zoppas 01/11/26 04/11/26
-    "Grazielyoiii" -- brmenorboss. 01/11/26 04/11/26
+    "Grazielyoiii", -- brmenorboss. 01/11/26 04/11/26
+    "REIDAVIGAMERLIN" -- davigamerlin3.9 01/11/26 04/11/26
 }
