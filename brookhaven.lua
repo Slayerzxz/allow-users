@@ -137,5 +137,6 @@ return {
     "Mikael08022", -- ༺꧁¿✞𝑴𝑰𝑲𝑨𝑬𝑳✞?꧂༻ 01/11/26 01/12/26
     "bielwqc", -- bieldamidiakkj 01/11/26 04/11/26
     "capudo242424", -- Silvazk 01/11/26 08/11/26
-    "odkimatil0" -- frost077983 01/11/26 04/11/26
+    "odkimatil0", -- frost077983 01/11/26 04/11/26
+    "malcriado_2220" -- rnzinrlq.7_43479 01/11/26 04/11/26
 }
