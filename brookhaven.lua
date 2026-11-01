@@ -122,5 +122,6 @@ return {
     "Jorginho_701", -- jorgeemo. 31/10/26 03/11/26
     "gb_gbio1011", -- gaelking0614_89186 01/11/26 04/11/26
     "VITORLUC27737", -- dan066445 01/11/26 04/11/26
-    "ZORO_HND1" -- alexamiri444 01/11/26 04/11/26
+    "ZORO_HND1", -- alexamiri444 01/11/26 04/11/26
+    "blackholerwarr" -- yuda_yapping_55894 01/11/26 04/11/26
 }
