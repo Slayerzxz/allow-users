@@ -88,7 +88,7 @@ return {
     "Auraz_182", -- DANONE💤 23/10/26 10/03/54 Mod Danone
     "kauanfernadesbrow", -- Frost 24/10/26 11/03/54
     "reulparerylemr9", -- Fz 25/10/26 12/03/54
-    "vJPPbJDzqvK", -- 愛⳻ ︩⳺ 01/11/26 01/12/26
+    "vJPPbJDzqvK", -- 愛⳻ ︩⳺ 01/11/26 02/12/26
     "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
     "can129229", -- テリオン 26/10/26 13/03/54 influenciador
