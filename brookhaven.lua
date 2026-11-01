@@ -136,5 +136,6 @@ return {
     "urea_seca9999", -- warllxz 31/10/26 03/11/26
     "coco234melon8", -- alexis080407 31/10/26 03/11/26
     "sorvetinhoh1235", -- claudio030669 31/10/26 03/11/26
-    "Jorginho_701" -- jorgeemo. 31/10/26 03/11/26
+    "Jorginho_701", -- jorgeemo. 31/10/26 03/11/26
+    "gb_gbio1011" -- gaelking0614_89186 01/11/26 04/11/26
 }
