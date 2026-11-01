@@ -125,5 +125,6 @@ return {
     "ZORO_HND1", -- alexamiri444 01/11/26 04/11/26
     "blackholerwarr", -- yuda_yapping_55894 01/11/26 04/11/26
     "fabinhogatinho1", -- soueufabio_04140 01/11/26 04/11/26
-    "ufolopo_6" -- felipe0070384 01/11/26 04/11/26
+    "ufolopo_6", -- felipe0070384 01/11/26 04/11/26
+    "Thednkk" -- enzo024263 01/11/26 04/11/26
 }
