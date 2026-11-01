@@ -130,7 +130,7 @@ return {
     "NikolasDaniell50", -- nicolas05694 01/11/26 04/11/26
     "Eliaszoppas", -- el_zoppas 01/11/26 04/11/26
     "Grazielyoiii", -- brmenorboss. 01/11/26 04/11/26
-    "REIDAVIGAMERLIN", -- davigamerlin3.9 01/11/26 04/11/26
+    "REIDAVIGAMERLIN", -- ꧁꧅𝐃𝐱2๖ۣۜ𝓟𝓡𝜣 01/11/26 01/12/26
     "canarioadrian15", -- canario0122 01/11/26 04/11/26
     "oiku882" -- joaquim06580 01/11/26 04/11/26
 }
