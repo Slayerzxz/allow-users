@@ -128,5 +128,6 @@ return {
     "ufolopo_6", -- felipe0070384 01/11/26 04/11/26
     "Thednkk", -- enzo024263 01/11/26 04/11/26
     "NikolasDaniell50", -- nicolas05694 01/11/26 04/11/26
-    "Eliaszoppas" -- el_zoppas 01/11/26 04/11/26
+    "Eliaszoppas", -- el_zoppas 01/11/26 04/11/26
+    "Grazielyoiii" -- brmenorboss. 01/11/26 04/11/26
 }
