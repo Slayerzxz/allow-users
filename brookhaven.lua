@@ -140,5 +140,6 @@ return {
     "aAntonio098777", -- antonio098777 02/11/26 05/11/26
     "mudermysteryyy0078", -- edvan07650 02/11/26 05/11/26
     "slk_Antonny", -- dvziinn.sx00 02/11/26 05/11/26
-    "Wilton083" -- 161choco 02/11/26 05/11/26
+    "Wilton083", -- 161choco 02/11/26 05/11/26
+    "Felipe121301" -- noble_star_41921 02/11/26 05/11/26
 }
