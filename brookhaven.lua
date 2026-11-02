@@ -97,19 +97,8 @@ return {
     "serjaopedreiro4", -- 666тнєυχ 28/10/26 15/03/54 snys
     "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
-    "Haekal_kacung", -- uehe0695 30/10/26 02/11/26
-    "Itz_Gabizinhaw360", -- ea_roberta 30/10/26 02/11/26
-    "nzinb1", -- jn02173 30/10/26 02/11/26
     "miauzinhooooooo6", -- Teste adm 30/10/26 13/11/26
-    "raposozin3", -- raposo_adm_11572 30/10/26 02/11/26
-    "Gabrielzini49", -- gabriel.64868 30/10/26 02/11/26
     "samueje382", -- HaShira_Caos 30/10/26 29/11/26
-    "N1COLAS_OFC01", -- minuzin_163 30/10/26 02/11/26
-    "joaco_michi", -- joaco677 30/10/26 02/11/26
-    "ADMBROOKHAVEN6762", -- renegado07380 30/10/26 02/11/26
-    "kurbagasinsen", -- beratcapone 30/10/26 02/11/26
-    "oepi205", -- kenneth_63 30/10/26 02/11/26
-    "bielfaixa01", -- lucas12836 30/10/26 02/11/26
     "rip_alan1574", -- Samuelmorie 31/10/26 03/11/26
     "bebap0225", -- mltmoshka 31/10/26 03/11/26
     "mmimi89m", -- emoboy0849 31/10/26 03/11/26
