@@ -151,5 +151,6 @@ return {
     "emand368sa", -- ussruniaosovieticaball 02/11/26 09/11/26
     "grennred9", -- _onixvt 02/11/26 09/11/26
     "caio61962", -- zealous_kitten_60549 02/11/26 09/11/26
-    "white_21450" -- zynox_12 02/11/26 09/11/26
+    "white_21450", -- zynox_12 02/11/26 09/11/26
+    "six_seven" -- banana032102 02/11/26 09/11/26
 }
