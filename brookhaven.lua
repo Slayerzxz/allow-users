@@ -154,5 +154,6 @@ return {
     "white_21450", -- zynox_12 02/11/26 09/11/26
     "six_seven", -- banana032102 02/11/26 09/11/26
     "bueno09819", -- mateus.guz_27396 02/11/26 09/11/26
-    "Kellymm95" -- dvziinn.sx00 02/11/26 09/11/26
+    "Kellymm95", -- dvziinn.sx00 02/11/26 09/11/26
+    "HOLYMOLY123062" -- bryan_2727. 02/11/26 09/11/26
 }
