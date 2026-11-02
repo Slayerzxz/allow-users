@@ -1,6 +1,6 @@
 return {
     "StaffordMakayla783", -- bazuka
-    "TrollLinux", -- ҉T҉h҉e҉u҉s҉7҉7҉7҉ 14/10/26 30/12/99 Dono Slayer
+    "Breno010L", -- iloveyasminaa 14/10/26 30/12/99 Dono Slayer
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
     "Apenas_eu362", -- 666тнєυχ 28/10/26 15/03/54 snzys
