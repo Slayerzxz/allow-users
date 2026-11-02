@@ -143,5 +143,6 @@ return {
     "Wilton083", -- 161choco 02/11/26 05/11/26
     "Felipe121301", -- noble_star_41921 02/11/26 05/11/26
     "hdjdhdhurhrjtl", -- mmbielzinn_57275 02/11/26 09/11/26
-    "cocacola_gabriel" -- nobru8072 02/11/26 09/11/26
+    "cocacola_gabriel", -- nobru8072 02/11/26 09/11/26
+    "desativado_153" -- desativado_444466 02/11/26 09/11/26
 }
