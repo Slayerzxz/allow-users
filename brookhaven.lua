@@ -135,5 +135,6 @@ return {
     "whatt_4447", -- julia021978 02/11/26 05/11/26
     "alisson02125", -- WIN BESTA FERA 💅 02/11/26 28/09/64 2t
     "jkiiiiiijjjhebw", -- Slvx 02/11/26 05/11/26
-    "selim_2929229" -- selim00216 02/11/26 05/11/26
+    "selim_2929229", -- selim00216 02/11/26 05/11/26
+    "ZORIN_CRIA23" -- twhilightofconds 02/11/26 05/11/26
 }
