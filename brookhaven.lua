@@ -150,5 +150,6 @@ return {
     "Miguelito208h", -- miguel77w7._45324 02/11/26 09/11/26
     "emand368sa", -- ussruniaosovieticaball 02/11/26 09/11/26
     "grennred9", -- _onixvt 02/11/26 09/11/26
-    "caio61962" -- zealous_kitten_60549 02/11/26 09/11/26
+    "caio61962", -- zealous_kitten_60549 02/11/26 09/11/26
+    "white_21450" -- zynox_12 02/11/26 09/11/26
 }
