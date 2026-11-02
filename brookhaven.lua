@@ -147,5 +147,6 @@ return {
     "desativado_153", -- desativado_444466 02/11/26 09/11/26
     "luigutavo56", -- yuyuyuyu0617 02/11/26 09/11/26
     "gamiog32143214", -- dbz7l 02/11/26 09/11/26
-    "Miguelito208h" -- miguel77w7._45324 02/11/26 09/11/26
+    "Miguelito208h", -- miguel77w7._45324 02/11/26 09/11/26
+    "emand368sa" -- ussruniaosovieticaball 02/11/26 09/11/26
 }
