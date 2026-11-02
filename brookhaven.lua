@@ -132,5 +132,6 @@ return {
     "hzrocinha_78", -- yuribragadasilva. 01/11/26 04/11/26
     "mano_maxse", -- ney05829 01/11/26 04/11/26
     "Ilovv4mp8", -- joaowinshaversion_96293 02/11/26 05/11/26
-    "whatt_4447" -- julia021978 02/11/26 05/11/26
+    "whatt_4447", -- julia021978 02/11/26 05/11/26
+    "alisson02125" -- WIN BESTA FERA 💅 02/11/26 17/08/00
 }
