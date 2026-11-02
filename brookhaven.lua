@@ -129,5 +129,6 @@ return {
     "odkimatil0", -- frost077983 01/11/26 04/11/26
     "malcriado_2220", -- rnzinrlq.7_43479 01/11/26 04/11/26
     "hzrocinha_78", -- yuribragadasilva. 01/11/26 04/11/26
-    "mano_maxse" -- ney05829 01/11/26 04/11/26
+    "mano_maxse", -- ney05829 01/11/26 04/11/26
+    "Ilovv4mp8" -- joaowinshaversion_96293 02/11/26 05/11/26
 }
