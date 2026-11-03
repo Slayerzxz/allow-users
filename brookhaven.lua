@@ -48,7 +48,6 @@ return {
     "sou_ruime", -- Shotzyy'fps 03/10/26 18/02/54
     "alexrprps2026", -- アレックス 04/10/26 04/11/26
     "spillaiok6", -- 3100669 04/10/26 04/12/26
-    "luquitas92381", -- Marcos 04/10/26 03/11/26
     "THXXGABRIELFF7", -- 777 16/10/26 03/03/54 Dono Do Slayer
     "Meliodas35ty8", -- Marcos 05/10/26 02/02/27
     "eojackrp", -- William 05/10/26 20/02/54
@@ -100,16 +99,6 @@ return {
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
     "miauzinhooooooo6", -- Teste adm 30/10/26 13/11/26
     "samueje382", -- HaShira_Caos 30/10/26 29/11/26
-    "rip_alan1574", -- Samuelmorie 31/10/26 03/11/26
-    "bebap0225", -- mltmoshka 31/10/26 03/11/26
-    "mmimi89m", -- emoboy0849 31/10/26 03/11/26
-    "japaslkmn", -- afogamentos 31/10/26 03/11/26
-    "koinswg", -- vamipihm17o 31/10/26 03/11/26
-    "Hoje", -- tarstherium 31/10/26 03/11/26
-    "urea_seca9999", -- warllxz 31/10/26 03/11/26
-    "coco234melon8", -- alexis080407 31/10/26 03/11/26
-    "sorvetinhoh1235", -- claudio030669 31/10/26 03/11/26
-    "Jorginho_701", -- jorgeemo. 31/10/26 03/11/26
     "gb_gbio1011", -- gaelking0614_89186 01/11/26 04/11/26
     "VITORLUC27737", -- dan066445 01/11/26 04/11/26
     "ZORO_HND1", -- alexamiri444 01/11/26 04/11/26
