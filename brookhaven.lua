@@ -170,5 +170,6 @@ return {
     "willian49131", -- menoodio 03/11/26 10/11/26
     "Meliodas", -- amola_jecare 03/11/26 10/11/26
     "Blaz37IPix3lS151267", -- itachi030276 03/11/26 10/11/26
-    "eteled5060" -- gabriele037471 03/11/26 10/11/26
+    "eteled5060", -- gabriele037471 03/11/26 10/11/26
+    "hectormariachi" -- Sebastián Zeta 03/11/26 01/02/27
 }
