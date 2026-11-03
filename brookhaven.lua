@@ -159,5 +159,6 @@ return {
     "Avynerjuan2012", -- Maria 02/11/26 20/03/54
     "ZEZAO280", -- mlz_venceu_77986 02/11/26 09/11/26
     "Lucas1234567898452", -- lucasaventuragame 02/11/26 09/11/26
-    "tioke1752" -- nicolas05694 02/11/26 09/11/26
+    "tioke1752", -- nicolas05694 02/11/26 09/11/26
+    "wafaa6tj830" -- Gabb1d_gb💮 02/11/26 01/01/27 Dkzin7
 }
