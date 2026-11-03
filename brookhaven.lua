@@ -163,5 +163,6 @@ return {
     "wafaa6tj830", -- Gabb1d_gb💮 02/11/26 01/01/27 Dkzin7
     "ManuelaRS82", -- lorde0195 02/11/26 09/11/26
     "Hocammm0292", -- selim00216 02/11/26 09/11/26
-    "RICOzica244P" -- whzx777 02/11/26 09/11/26
+    "RICOzica244P", -- whzx777 02/11/26 09/11/26
+    "yonike23" -- yonaiker7899 02/11/26 09/11/26
 }
