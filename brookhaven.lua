@@ -165,5 +165,6 @@ return {
     "bielfaixa01", -- lucas12836 03/11/26 10/11/26
     "sorvetinhoh1235", -- Njr_claudinhxz 03/11/26 06/11/26
     "Sigmaooooo82", -- sigma006832 03/11/26 10/11/26
-    "FAZERFTW2" -- valiant_tiger_03894 03/11/26 10/11/26
+    "FAZERFTW2", -- valiant_tiger_03894 03/11/26 10/11/26
+    "TralaleroRouba910" -- aiminhax_10971 03/11/26 10/11/26
 }
