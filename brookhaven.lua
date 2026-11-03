@@ -162,5 +162,6 @@ return {
     "0skz_AceHeroCore2881", -- user4059._30235 03/11/26 10/11/26
     "samuel037vip", -- xitvip5oma 03/11/26 10/11/26
     "Pedrux_mmv", -- Zyrok🥀 03/11/26 21/03/54 influenciador
-    "bielfaixa01" -- lucas12836 03/11/26 10/11/26
+    "bielfaixa01", -- lucas12836 03/11/26 10/11/26
+    "sorvetinhoh1235" -- Njr_claudinhxz 03/11/26 06/11/26
 }
