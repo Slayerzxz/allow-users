@@ -165,5 +165,6 @@ return {
     "Hocammm0292", -- selim00216 02/11/26 09/11/26
     "RICOzica244P", -- whzx777 02/11/26 09/11/26
     "yonike23", -- yonaiker7899 02/11/26 09/11/26
-    "samuelmorie01" -- samuelvip999_02575 03/11/26 10/11/26
+    "samuelmorie01", -- samuelvip999_02575 03/11/26 10/11/26
+    "Gabriells796" -- mrscript0940 03/11/26 10/11/26
 }
