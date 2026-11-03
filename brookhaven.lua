@@ -156,5 +156,6 @@ return {
     "yonike23", -- yonaiker7899 02/11/26 09/11/26
     "samuelmorie01", -- samuelvip999_02575 03/11/26 10/11/26
     "Gabriells796", -- mrscript0940 03/11/26 10/11/26
-    "Morgan_V200" -- paolo069467 03/11/26 10/11/26
+    "Morgan_V200", -- paolo069467 03/11/26 10/11/26
+    "Adder974" -- rafasyah_nurman 03/11/26 10/11/26
 }
