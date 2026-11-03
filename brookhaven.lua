@@ -158,5 +158,6 @@ return {
     "Gabriells796", -- mrscript0940 03/11/26 10/11/26
     "Morgan_V200", -- paolo069467 03/11/26 10/11/26
     "Adder974", -- rafasyah_nurman 03/11/26 10/11/26
-    "maksim034034" -- maksim034037 03/11/26 10/11/26
+    "maksim034034", -- maksim034037 03/11/26 10/11/26
+    "0skz_AceHeroCore2881" -- user4059._30235 03/11/26 10/11/26
 }
