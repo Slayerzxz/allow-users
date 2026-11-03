@@ -168,5 +168,6 @@ return {
     "FAZERFTW2", -- valiant_tiger_03894 03/11/26 10/11/26
     "TralaleroRouba910", -- aiminhax_10971 03/11/26 10/11/26
     "willian49131", -- menoodio 03/11/26 10/11/26
-    "Meliodas" -- amola_jecare 03/11/26 10/11/26
+    "Meliodas", -- amola_jecare 03/11/26 10/11/26
+    "Blaz37IPix3lS151267" -- itachi030276 03/11/26 10/11/26
 }
