@@ -155,5 +155,6 @@ return {
     "eteled5060", -- gabriele037471 03/11/26 10/11/26
     "hectormariachi", -- Sebastián Zeta 03/11/26 01/02/27
     "xer1794", -- dark052988 03/11/26 10/11/26
-    "therealneverfall" -- therealneverliess 04/11/26 11/11/26
+    "therealneverfall", -- therealneverliess 04/11/26 11/11/26
+    "r0k1kid" -- jubilant_peacock_08110 04/11/26 11/11/26
 }
