@@ -46,7 +46,6 @@ return {
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 03/10/26 18/02/54
     "Sammyleveibanimento", -- Sammy 03/10/26 18/02/54
     "sou_ruime", -- Shotzyy'fps 03/10/26 18/02/54
-    "alexrprps2026", -- アレックス 04/10/26 04/11/26
     "spillaiok6", -- 3100669 04/10/26 04/12/26
     "THXXGABRIELFF7", -- 777 16/10/26 03/03/54 Dono Do Slayer
     "Meliodas35ty8", -- Marcos 05/10/26 02/02/27
@@ -99,27 +98,10 @@ return {
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
     "miauzinhooooooo6", -- Teste adm 30/10/26 13/11/26
     "samueje382", -- HaShira_Caos 30/10/26 29/11/26
-    "gb_gbio1011", -- gaelking0614_89186 01/11/26 04/11/26
-    "VITORLUC27737", -- dan066445 01/11/26 04/11/26
-    "ZORO_HND1", -- alexamiri444 01/11/26 04/11/26
-    "blackholerwarr", -- yuda_yapping_55894 01/11/26 04/11/26
-    "fabinhogatinho1", -- soueufabio_04140 01/11/26 04/11/26
-    "ufolopo_6", -- felipe0070384 01/11/26 04/11/26
-    "Thednkk", -- enzo024263 01/11/26 04/11/26
-    "NikolasDaniell50", -- nicolas05694 01/11/26 04/11/26
-    "Eliaszoppas", -- el_zoppas 01/11/26 04/11/26
-    "Grazielyoiii", -- brmenorboss. 01/11/26 04/11/26
     "REIDAVIGAMERLIN", -- ꧁꧅𝐃𝐱2๖ۣۜ𝓟𝓡𝜣 01/11/26 01/12/26
-    "canarioadrian15", -- canario0122 01/11/26 04/11/26
-    "oiku882", -- joaquim06580 01/11/26 04/11/26
     "alexsanndro123", -- Guxtavin$ 01/11/26 01/12/26
     "Mikael08022", -- ༺꧁¿✞𝑴𝑰𝑲𝑨𝑬𝑳✞?꧂༻ 01/11/26 01/12/26
-    "bielwqc", -- bieldamidiakkj 01/11/26 04/11/26
     "capudo242424", -- Silvazk 01/11/26 08/11/26
-    "odkimatil0", -- frost077983 01/11/26 04/11/26
-    "malcriado_2220", -- rnzinrlq.7_43479 01/11/26 04/11/26
-    "hzrocinha_78", -- yuribragadasilva. 01/11/26 04/11/26
-    "mano_maxse", -- ney05829 01/11/26 04/11/26
     "Ilovv4mp8", -- joaowinshaversion_96293 02/11/26 05/11/26
     "whatt_4447", -- julia021978 02/11/26 05/11/26
     "alisson02125", -- WIN BESTA FERA 💅 03/11/26 21/03/54 Admin
