@@ -91,7 +91,6 @@ return {
     "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
     "can129229", -- テリオン 26/10/26 13/03/54 influenciador
-    "danielzin1235462", -- Danielzinho 27/10/26 05/11/26
     "kiddbe5", -- Eb do gab 2.0 27/10/26 14/03/54 influenciador
     "serjaopedreiro4", -- 666тнєυχ 28/10/26 15/03/54 snys
     "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
@@ -102,16 +101,7 @@ return {
     "alexsanndro123", -- Guxtavin$ 01/11/26 01/12/26
     "Mikael08022", -- ༺꧁¿✞𝑴𝑰𝑲𝑨𝑬𝑳✞?꧂༻ 01/11/26 01/12/26
     "capudo242424", -- Silvazk 01/11/26 08/11/26
-    "Ilovv4mp8", -- joaowinshaversion_96293 02/11/26 05/11/26
-    "whatt_4447", -- julia021978 02/11/26 05/11/26
     "alisson02125", -- WIN BESTA FERA 💅 03/11/26 21/03/54 Admin
-    "selim_2929229", -- selim00216 02/11/26 05/11/26
-    "ZORIN_CRIA23", -- twhilightofconds 02/11/26 05/11/26
-    "aAntonio098777", -- antonio098777 02/11/26 05/11/26
-    "mudermysteryyy0078", -- edvan07650 02/11/26 05/11/26
-    "slk_Antonny", -- dvziinn.sx00 02/11/26 05/11/26
-    "Wilton083", -- 161choco 02/11/26 05/11/26
-    "Felipe121301", -- noble_star_41921 02/11/26 05/11/26
     "hdjdhdhurhrjtl", -- mmbielzinn_57275 02/11/26 09/11/26
     "cocacola_gabriel", -- nobru8072 02/11/26 09/11/26
     "desativado_153", -- desativado_444466 02/11/26 09/11/26
