@@ -147,5 +147,6 @@ return {
     "therealneverfall", -- therealneverliess 04/11/26 11/11/26
     "r0k1kid", -- jubilant_peacock_08110 04/11/26 11/11/26
     "fabinhogatinho1", -- soueufabio_04140 05/11/26 12/11/26
-    "dudalindaxr12" -- ♤Pzin♧ 06/11/26 09/11/26
+    "dudalindaxr12", -- ♤Pzin♧ 06/11/26 09/11/26
+    "jvzintemporario" -- Jvzin 06/11/26 23/03/54 frente da moderação
 }
