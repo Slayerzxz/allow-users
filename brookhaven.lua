@@ -147,5 +147,6 @@ return {
     "xer1794", -- dark052988 03/11/26 10/11/26
     "therealneverfall", -- therealneverliess 04/11/26 11/11/26
     "r0k1kid", -- jubilant_peacock_08110 04/11/26 11/11/26
-    "fabinhogatinho1" -- soueufabio_04140 05/11/26 12/11/26
+    "fabinhogatinho1", -- soueufabio_04140 05/11/26 12/11/26
+    "auau" -- iloveyasmina 05/11/26 12/11/26
 }
