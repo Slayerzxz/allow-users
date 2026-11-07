@@ -71,7 +71,6 @@ return {
     "Depression_00000", -- GTR R35 16/10/26 03/03/54
     "art124195", -- Arthur 17/10/26 03/03/54
     "ster234567freefire", -- Slayer Hub | Admin 17/10/26 13/07/29 love of 666Theux
-    "AmberCalderon8870", -- Minato 18/10/26 05/03/54 influencer
     "SHARP_BOO", -- Ultimatex 18/10/26 05/03/54
     "gatinhasapec1", -- Lanny_spk 18/10/26 05/03/54 Moderator
     "kawazaki2812", -- KAIOR MENINO DE PROGRAMA 19/10/26 06/03/54
