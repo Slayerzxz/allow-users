@@ -65,5 +65,6 @@ return {
     "wafaa6tj830", -- Gabb1d_gb💮 02/11/26 01/01/27 Dkzin7
     "dudalindaxr12", -- ♤Pzin♧ 06/11/26 09/11/26
     "jvzintemporario", -- Jvzin 06/11/26 23/03/54 frente da moderação
-    "matheus_itz00" -- 𝑻𝒔𝒖𝒌𝒊¹⁷ 07/11/26 03/08/29 Mod Tsuki¹⁷
+    "matheus_itz00", -- 𝑻𝒔𝒖𝒌𝒊¹⁷ 07/11/26 03/08/29 Mod Tsuki¹⁷
+    "kawazaki2812" -- KAIOR MENINO DE PROGRAMA 07/11/26 24/03/54 Kaio Moderator
 }
