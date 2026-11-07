@@ -3,89 +3,57 @@ return {
     "Breno010L", -- iloveyasminaa 14/10/26 30/12/99 Dono Slayer
     "LunaRougee", -- Beca
     "azakel_ofc", -- Ruan 26/08/26 22/05/29
-    "Apenas_eu362", -- 666тнєυχ 28/10/26 15/03/54 snzys
-    "vitinhofofinho54", -- Tugsahuuauau 27/08/26 27/12/26
     "itz_blackzinh01", -- Max 11/09/26 06/10/67
-    "Matheus7374568", -- Filha da puta gamers 01/09/26 05/09/27
-    "dan_luiz666", -- Dennys 05/09/26 03/01/27
-    "dudusourei8", -- Lúcifer 06/09/26 22/01/54
-    "CHORAPROPAIKKJ1", -- R1ckz' 09/09/26 05/06/29
     "Ramon_6390", -- SOARES_G 11/09/26 27/01/54
     "Ne0nFr0stbite7320", -- 𝓝𝓮𝔁𝔁𝓾𝓼 🩸 11/09/26 27/01/54
     "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
     "BlackN444hey", -- Coringa 12/09/26 11/11/26
-    "enzo_7m890", -- Gulosão_kkkk 12/09/26 10/01/65
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
     "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
     "R7_dnxz", -- R7 14/09/26 10/08/64
     "jvzin9729", -- Jvzin 14/09/26 29/01/54
-    "Chiquerrimo22", -- ManoDarkz 15/09/26 11/06/29 Moderador
     "Joan45858", -- Liviablox 16/09/26 31/01/54
     "lorenzomo199", -- Lorenzo 16/09/26 01/02/54
-    "vhmdjgb_j", -- 𝖆𝖑𝖊𝖒ã𝖔🇩🇪 16/09/26 12/06/29
-    "h1ck93", -- политика 18/09/26 14/06/29
     "joaoking667", -- joaoexe66 29/09/26 25/06/29
-    "silv4zinx4", -- Davi 19/09/26 04/02/54
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
-    "matheus_itz00", -- 𝑻𝒔𝒖𝒌𝒊¹⁷ 02/11/26 20/03/54 Mod Tsuki¹⁷
-    "mercuriobrx67", -- Santozz 25/09/26 21/06/29
     "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
-    "xamueumc", -- -2,50 26/09/26 11/02/54
-    "CarlGill737", -- Leonardo 27/09/26 23/06/29
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
     "XxCircuitCha0sxX96", -- Allan6767 29/09/26 14/02/54
     "desconhecido01834", -- Jp 02/10/26 20/03/29
     "Rafinha4bloco", -- Rafael😁 02/10/26 17/02/54
     "bleck_0218", -- omk ANÔNIMO 02/10/26 16/11/26
-    "soy_Brayan120", -- SURFISTA ✌🏻 02/10/26 17/02/54
     "Mafioso_GP4", -- Souzaxx 02/10/26 17/02/54
     "fernandomt5", -- ꧁༒☬𝙂𝙊𝘿_𝙇𝙐𝙁𝙁𝙔☬༒꧂ 03/10/26 18/02/54
     "Sammyleveibanimento", -- Sammy 03/10/26 18/02/54
-    "sou_ruime", -- Shotzyy'fps 03/10/26 18/02/54
-    "spillaiok6", -- 3100669 04/10/26 04/12/26
     "THXXGABRIELFF7", -- 777 16/10/26 03/03/54 Dono Do Slayer
     "Meliodas35ty8", -- Marcos 05/10/26 02/02/27
     "eojackrp", -- William 05/10/26 20/02/54
-    "MasonCode6400", -- D4RK 05/10/26 20/02/54
     "phlone4", -- Ph_di 05/10/26 20/02/54
     "morangoaoleitejr", -- Jvzin 06/10/26 20/02/54
-    "DOMINGOS4440", -- Njr_claudinhxz 16/10/26 03/03/54 claudinhxz clt
     "kaikeZIM71", -- Kaike333 06/10/26 21/02/54
     "Arthurenz5", -- sunriseray 06/10/26 06/12/26
-    "m4_pedrin", -- Pdhxn 15/10/26 01/03/54 Farmador de aura pro max
     "IsukuMidor1ya", -- ⭒𝐍𝐄𝐗𝐔𝐒 08/10/26 04/07/29
     "sixsevenr6767", -- Kawê 09/10/26 24/02/54 Moderador
-    "ReiLeaoGato", -- prime_swan_64085 09/10/26 24/02/54
     "sehae2073567", -- Vxry 09/10/26 05/07/29
-    "sofia13nicolle", -- ♛ִֶ🇧🇷་༘JAPONExx 09/10/26 24/02/54 frieren
     "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
     "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
-    "guilhermepavosky", -- GUI STFF MAN ✞ 11/10/26 26/02/54 Exclusivo
-    "seieie9w", -- luh luh 14/10/26 01/03/54 moderador
     "luiskkj999", -- Notrival 14/10/26 13/11/26 ADM
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
-    "Nao_souNICK", -- Nickdev 15/10/26 02/03/54
     "Depression_00000", -- GTR R35 16/10/26 03/03/54
     "art124195", -- Arthur 17/10/26 03/03/54
     "ster234567freefire", -- Slayer Hub | Admin 17/10/26 13/07/29 love of 666Theux
-    "SHARP_BOO", -- Ultimatex 18/10/26 05/03/54
     "gatinhasapec1", -- Lanny_spk 18/10/26 05/03/54 Moderator
     "kawazaki2812", -- KAIOR MENINO DE PROGRAMA 19/10/26 06/03/54
-    "Ax7_phdesp", -- 부에노폭스 19/10/26 18/11/26
     "lululul_807", -- Daviihh 20/10/26 19/11/26
     "uCzVpUkMsFF", -- 736830 21/10/26 18/02/27
-    "Meaddnovo009", -- HoardFrost 21/10/26 18/02/27 JP'21
     "AMINNA343", -- Inapropriad2 23/10/26 10/03/54 o impróprio
     "Auraz_182", -- DANONE💤 23/10/26 10/03/54 Mod Danone
-    "kauanfernadesbrow", -- Frost 24/10/26 11/03/54
     "reulparerylemr9", -- Fz 25/10/26 12/03/54
     "vJPPbJDzqvK", -- 愛⳻ ︩⳺ 02/11/26 01/12/26 Dono do xvideos
-    "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
-    "serjaopedreiro4", -- 666тнєυχ 28/10/26 15/03/54 snys
     "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
     "miauzinhooooooo6", -- Teste adm 30/10/26 13/11/26
@@ -95,51 +63,7 @@ return {
     "Mikael08022", -- ༺꧁¿✞𝑴𝑰𝑲𝑨𝑬𝑳✞?꧂༻ 01/11/26 01/12/26
     "capudo242424", -- Silvazk 01/11/26 08/11/26
     "alisson02125", -- WIN BESTA FERA 💅 03/11/26 21/03/54 Admin
-    "hdjdhdhurhrjtl", -- mmbielzinn_57275 02/11/26 09/11/26
-    "cocacola_gabriel", -- nobru8072 02/11/26 09/11/26
-    "desativado_153", -- desativado_444466 02/11/26 09/11/26
-    "luigutavo56", -- yuyuyuyu0617 02/11/26 09/11/26
-    "gamiog32143214", -- dbz7l 02/11/26 09/11/26
-    "Miguelito208h", -- miguel77w7._45324 02/11/26 09/11/26
-    "emand368sa", -- ussruniaosovieticaball 02/11/26 09/11/26
-    "grennred9", -- _onixvt 02/11/26 09/11/26
-    "caio61962", -- zealous_kitten_60549 02/11/26 09/11/26
-    "white_21450", -- zynox_12 02/11/26 09/11/26
-    "six_seven", -- banana032102 02/11/26 09/11/26
-    "bueno09819", -- mateus.guz_27396 02/11/26 09/11/26
-    "Kellymm95", -- dvziinn.sx00 02/11/26 09/11/26
-    "HOLYMOLY123062", -- bryan_2727. 02/11/26 09/11/26
-    "jkiiiiiijjjhebw", -- Zk 02/11/26 14/11/26
-    "Avynerjuan2012", -- Maria 02/11/26 20/03/54
-    "ZEZAO280", -- mlz_venceu_77986 02/11/26 09/11/26
-    "Lucas1234567898452", -- lucasaventuragame 02/11/26 09/11/26
-    "tioke1752", -- nicolas05694 02/11/26 09/11/26
     "wafaa6tj830", -- Gabb1d_gb💮 02/11/26 01/01/27 Dkzin7
-    "ManuelaRS82", -- lorde0195 02/11/26 09/11/26
-    "Hocammm0292", -- selim00216 02/11/26 09/11/26
-    "RICOzica244P", -- whzx777 02/11/26 09/11/26
-    "yonike23", -- yonaiker7899 02/11/26 09/11/26
-    "samuelmorie01", -- samuelvip999_02575 03/11/26 10/11/26
-    "Gabriells796", -- mrscript0940 03/11/26 10/11/26
-    "Morgan_V200", -- paolo069467 03/11/26 10/11/26
-    "Adder974", -- rafasyah_nurman 03/11/26 10/11/26
-    "maksim034034", -- maksim034037 03/11/26 10/11/26
-    "0skz_AceHeroCore2881", -- user4059._30235 03/11/26 10/11/26
-    "samuel037vip", -- xitvip5oma 03/11/26 10/11/26
-    "bielfaixa01", -- lucas12836 03/11/26 10/11/26
-    "Sigmaooooo82", -- sigma006832 03/11/26 10/11/26
-    "FAZERFTW2", -- valiant_tiger_03894 03/11/26 10/11/26
-    "TralaleroRouba910", -- aiminhax_10971 03/11/26 10/11/26
-    "willian49131", -- menoodio 03/11/26 10/11/26
-    "Meliodas", -- amola_jecare 03/11/26 10/11/26
-    "Blaz37IPix3lS151267", -- itachi030276 03/11/26 10/11/26
-    "eteled5060", -- gabriele037471 03/11/26 10/11/26
-    "hectormariachi", -- Sebastián Zeta 03/11/26 01/02/27
-    "xer1794", -- dark052988 03/11/26 10/11/26
-    "therealneverfall", -- therealneverliess 04/11/26 11/11/26
-    "r0k1kid", -- jubilant_peacock_08110 04/11/26 11/11/26
-    "fabinhogatinho1", -- soueufabio_04140 05/11/26 12/11/26
     "dudalindaxr12", -- ♤Pzin♧ 06/11/26 09/11/26
-    "jvzintemporario", -- Jvzin 06/11/26 23/03/54 frente da moderação
-    "talysonsil" -- baiano32836 06/11/26 13/11/26
+    "jvzintemporario" -- Jvzin 06/11/26 23/03/54 frente da moderação
 }
