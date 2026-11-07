@@ -85,7 +85,6 @@ return {
     "vJPPbJDzqvK", -- 愛⳻ ︩⳺ 02/11/26 01/12/26 Dono do xvideos
     "Emillysa_2", -- 🏴Kennedy_RLK🍁 25/10/26 12/03/54 Goiabinha rei do x
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
-    "kiddbe5", -- Eb do gab 2.0 27/10/26 14/03/54 influenciador
     "serjaopedreiro4", -- 666тнєυχ 28/10/26 15/03/54 snys
     "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
