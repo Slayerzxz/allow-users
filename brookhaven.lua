@@ -60,7 +60,6 @@ return {
     "REIDAVIGAMERLIN", -- ꧁꧅𝐃𝐱2๖ۣۜ𝓟𝓡𝜣 01/11/26 01/12/26
     "alexsanndro123", -- Guxtavin$ 01/11/26 01/12/26
     "Mikael08022", -- ༺꧁¿✞𝑴𝑰𝑲𝑨𝑬𝑳✞?꧂༻ 01/11/26 01/12/26
-    "capudo242424", -- Silvazk 01/11/26 08/11/26
     "alisson02125", -- WIN BESTA FERA 💅 03/11/26 21/03/54 Admin
     "wafaa6tj830", -- Gabb1d_gb💮 02/11/26 01/01/27 Dkzin7
     "dudalindaxr12", -- ♤Pzin♧ 06/11/26 09/11/26
