@@ -66,5 +66,6 @@ return {
     "jvzintemporario", -- Jvzin 06/11/26 23/03/54 frente da moderação
     "matheus_itz00", -- 𝑻𝒔𝒖𝒌𝒊¹⁷ 07/11/26 03/08/29 Mod Tsuki¹⁷
     "kawazaki2812", -- KAIOR MENINO DE PROGRAMA 07/11/26 24/03/54 Kaio Moderator
-    "kayrus999LyraHb" -- kayrus999x 07/11/26 14/11/26
+    "kayrus999LyraHb", -- kayrus999x 07/11/26 14/11/26
+    "hdjdhdhurhrjtl" -- ༒꧁😎🤫𝑆𝐴𝑀🤫😎꧂༒ 08/11/26 11/11/26
 }
