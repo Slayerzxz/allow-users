@@ -1,4 +1,5 @@
 return {
+    "ByteCodeDev777", -- TheLenda 30/12/2050 Dona Slayer
     "StaffordMakayla783", -- bazuka
     "Breno010L", -- iloveyasminaa 14/10/26 30/12/99 Dono Slayer
     "LunaRougee", -- Beca
