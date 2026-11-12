@@ -10,7 +10,6 @@ return {
     "D4rkzin_312", -- XxXxXxX 11/09/26 27/01/54
     "Sadboy_LIEB", -- GTR R35 11/09/26 03/05/51
     "ByteBandit_ofici", -- ByteBandit 12/09/26 10/01/65
-    "itz_chefinsx", -- 『ᴮᴿᴾ⁵』Arthur_Mongoloide 13/09/26 12/11/26
     "Flenzynx3_humbled", -- Kingzx 13/09/26 09/06/29
     "R7_dnxz", -- R7 14/09/26 10/08/64
     "jvzin9729", -- Jvzin 14/09/26 29/01/54
