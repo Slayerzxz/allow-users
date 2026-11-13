@@ -66,4 +66,5 @@ return {
 }
 "OSMAN928714", -- osman1917._82655 13/11/26 16/11/26
 "shsh2u28uej2i2idj", -- wdward0963 13/11/26 16/11/26
-"nexus_sk" -- toturguita2.0_17016 13/11/26 16/11/26
+"nexus_sk", -- toturguita2.0_17016 13/11/26 16/11/26
+"Clark224122" -- carlospacoca 13/11/26 16/11/26
