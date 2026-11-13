@@ -39,7 +39,6 @@ return {
     "sehae2073567", -- Vxry 09/10/26 05/07/29
     "sou_ruimdetiro", -- matobitch 10/10/26 25/02/54
     "bbzin7765", -- q01o3u 10/10/26 08/02/27 Farmador de aura master
-    "luiskkj999", -- Notrival 14/10/26 13/11/26 ADM
     "aqeoguest777", -- 𝔎𝔞𝔨𝔞 𝔡𝔦𝔳𝔲𝔩𝔤𝔞𝔡𝔬𝔯 14/10/26 01/03/54 influenciador
     "Depression_00000", -- GTR R35 16/10/26 03/03/54
     "art124195", -- Arthur 17/10/26 03/03/54
@@ -54,7 +53,6 @@ return {
     "Misa_fane7", -- Dante_khaos 25/10/26 12/03/54 SHINIGAMI ☠️
     "DaHeAi16", -- @Bryzz 29/10/26 16/03/54 DONO DO ROBLOX
     "Ak_74OutraConta", -- ~{🫪[🫸★Ak-74 ★🫷]🫪}~ 28/10/26 14/03/54
-    "miauzinhooooooo6", -- Teste adm 30/10/26 13/11/26
     "samueje382", -- HaShira_Caos 30/10/26 29/11/26
     "REIDAVIGAMERLIN", -- ꧁꧅𝐃𝐱2๖ۣۜ𝓟𝓡𝜣 01/11/26 01/12/26
     "alexsanndro123", -- Guxtavin$ 01/11/26 01/12/26
