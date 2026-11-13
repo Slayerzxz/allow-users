@@ -75,5 +75,6 @@ return {
     "VinDrayy", -- vinndrayy 13/11/26 20/11/26
     "Gabrielzini49", -- gabriel.64868 13/11/26 20/11/26
     "Atoms1kenadam31", -- yuzarsif0380_61635 13/11/26 20/11/26
-    "eron_bey" -- rickprimec131_ 13/11/26 20/11/26
+    "eron_bey", -- rickprimec131_ 13/11/26 20/11/26
+    "Avynerjuan2012" -- avyner0881_13128 13/11/26 20/11/26
 }
