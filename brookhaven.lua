@@ -72,5 +72,6 @@ return {
     "secretinho53", -- lk_sombrax777 13/11/26 16/11/26
     "tps_orgulhosogk", -- gd_brrmz 13/11/26 16/11/26
     "Akemi_158m", -- ninguem037074 13/11/26 20/11/26
-    "VinDrayy" -- vinndrayy 13/11/26 20/11/26
+    "VinDrayy", -- vinndrayy 13/11/26 20/11/26
+    "Gabrielzini49" -- gabriel.64868 13/11/26 20/11/26
 }
