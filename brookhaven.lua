@@ -65,4 +65,5 @@ return {
     "kayrus999LyraHb", -- kayrus999x 07/11/26 14/11/26
 }
 "OSMAN928714", -- osman1917._82655 13/11/26 16/11/26
-"shsh2u28uej2i2idj" -- wdward0963 13/11/26 16/11/26
+"shsh2u28uej2i2idj", -- wdward0963 13/11/26 16/11/26
+"nexus_sk" -- toturguita2.0_17016 13/11/26 16/11/26
