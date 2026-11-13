@@ -70,5 +70,6 @@ return {
     "Clark224122", -- carlospacoca 13/11/26 16/11/26
     "rvvrevevvehevj", -- mariah30463 13/11/26 16/11/26
     "secretinho53", -- lk_sombrax777 13/11/26 16/11/26
-    "tps_orgulhosogk" -- gd_brrmz 13/11/26 16/11/26
+    "tps_orgulhosogk", -- gd_brrmz 13/11/26 16/11/26
+    "Akemi_158m" -- ninguem037074 13/11/26 20/11/26
 }
