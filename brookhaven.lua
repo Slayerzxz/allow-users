@@ -64,4 +64,5 @@ return {
     "kawazaki2812", -- KAIOR MENINO DE PROGRAMA 07/11/26 24/03/54 Kaio Moderator
     "kayrus999LyraHb", -- kayrus999x 07/11/26 14/11/26
 }
-"OSMAN928714" -- osman1917._82655 13/11/26 16/11/26
+"OSMAN928714", -- osman1917._82655 13/11/26 16/11/26
+"shsh2u28uej2i2idj" -- wdward0963 13/11/26 16/11/26
