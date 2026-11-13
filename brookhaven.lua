@@ -64,12 +64,12 @@ return {
     "kawazaki2812", -- KAIOR MENINO DE PROGRAMA 07/11/26 24/03/54 Kaio Moderator
     "kayrus999LyraHb", -- kayrus999x 07/11/26 14/11/26
     "DOMINGOS4440", -- 𝙳𝙾𝙽𝙾 𝙳𝙰 𝙵𝙻𝙰𝚂𝙷𝙾 13/11/26 31/03/54 CLAUDINHXZ ADM
+    "OSMAN928714", -- osman1917._82655 13/11/26 16/11/26
+    "shsh2u28uej2i2idj", -- wdward0963 13/11/26 16/11/26
+    "nexus_sk", -- toturguita2.0_17016 13/11/26 16/11/26
+    "Clark224122", -- carlospacoca 13/11/26 16/11/26
+    "rvvrevevvehevj", -- mariah30463 13/11/26 16/11/26
+    "secretinho53", -- lk_sombrax777 13/11/26 16/11/26
+    "TST", -- iloveyasmina 13/11/26 16/11/26
+    "tps_orgulhosogk" -- gd_brrmz 13/11/26 16/11/26
 }
-"OSMAN928714", -- osman1917._82655 13/11/26 16/11/26
-"shsh2u28uej2i2idj", -- wdward0963 13/11/26 16/11/26
-"nexus_sk", -- toturguita2.0_17016 13/11/26 16/11/26
-"Clark224122", -- carlospacoca 13/11/26 16/11/26
-"rvvrevevvehevj", -- mariah30463 13/11/26 16/11/26
-"secretinho53", -- lk_sombrax777 13/11/26 16/11/26
-"TST", -- iloveyasmina 13/11/26 16/11/26
-"tps_orgulhosogk" -- gd_brrmz 13/11/26 16/11/26
