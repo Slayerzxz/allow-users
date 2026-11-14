@@ -85,5 +85,6 @@ return {
     "helolarius", -- heloisaamamichael 14/11/26 21/11/26
     "iovjniciusooo", -- vinii15_19906 14/11/26 21/11/26
     "huzako7", -- rlksousax7_ 14/11/26 21/11/26
-    "jubileubarraCROMATIC" -- bete777 14/11/26 21/11/26
+    "jubileubarraCROMATIC", -- bete777 14/11/26 21/11/26
+    "PVZGOOD5" -- elnegroblox_45150 14/11/26 21/11/26
 }
