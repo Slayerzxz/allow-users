@@ -76,5 +76,6 @@ return {
     "Atoms1kenadam31", -- yuzarsif0380_61635 13/11/26 20/11/26
     "eron_bey", -- rickprimec131_ 13/11/26 20/11/26
     "Avynerjuan2012", -- Avyner 13/11/26 31/03/54
-    "hdjdhdhurhrjtl" -- mmbielzinn_57275 14/11/26 21/11/26
+    "hdjdhdhurhrjtl", -- mmbielzinn_57275 14/11/26 21/11/26
+    "aAntonio098777" -- antonio098777 14/11/26 21/11/26
 }
