@@ -78,5 +78,6 @@ return {
     "Avynerjuan2012", -- Avyner 13/11/26 31/03/54
     "hdjdhdhurhrjtl", -- mmbielzinn_57275 14/11/26 21/11/26
     "aAntonio098777", -- antonio098777 14/11/26 21/11/26
-    "Miqueiaspp12" -- miqueiaslkk_88287 14/11/26 21/11/26
+    "Miqueiaspp12", -- miqueiaslkk_88287 14/11/26 21/11/26
+    "pietrothalyson80" -- pietrox0124 14/11/26 21/11/26
 }
