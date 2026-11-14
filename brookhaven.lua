@@ -80,5 +80,6 @@ return {
     "aAntonio098777", -- antonio098777 14/11/26 21/11/26
     "Miqueiaspp12", -- miqueiaslkk_88287 14/11/26 21/11/26
     "pietrothalyson80", -- pietrox0124 14/11/26 21/11/26
-    "Eo_Sid6" -- rtzin_edits.xxx 14/11/26 21/11/26
+    "Eo_Sid6", -- rtzin_edits.xxx 14/11/26 21/11/26
+    "realmente_468" -- engel980 14/11/26 21/11/26
 }
