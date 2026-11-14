@@ -83,5 +83,6 @@ return {
     "Eo_Sid6", -- rtzin_edits.xxx 14/11/26 21/11/26
     "realmente_468", -- engel980 14/11/26 21/11/26
     "helolarius", -- heloisaamamichael 14/11/26 21/11/26
-    "iovjniciusooo" -- vinii15_19906 14/11/26 21/11/26
+    "iovjniciusooo", -- vinii15_19906 14/11/26 21/11/26
+    "huzako7" -- rlksousax7_ 14/11/26 21/11/26
 }
