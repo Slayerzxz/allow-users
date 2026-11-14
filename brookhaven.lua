@@ -84,5 +84,6 @@ return {
     "realmente_468", -- engel980 14/11/26 21/11/26
     "helolarius", -- heloisaamamichael 14/11/26 21/11/26
     "iovjniciusooo", -- vinii15_19906 14/11/26 21/11/26
-    "huzako7" -- rlksousax7_ 14/11/26 21/11/26
+    "huzako7", -- rlksousax7_ 14/11/26 21/11/26
+    "jubileubarraCROMATIC" -- bete777 14/11/26 21/11/26
 }
