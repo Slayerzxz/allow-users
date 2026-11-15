@@ -113,5 +113,6 @@ return {
     "Google_davi", -- kaio025933 15/11/26 22/11/26
     "DEUSHAKER235", -- cofeeestudiom3 15/11/26 22/11/26
     "Gabriells796", -- mrscript0940 15/11/26 22/11/26
-    "RICOzica244P" -- whzx777 15/11/26 22/11/26
+    "RICOzica244P", -- whzx777 15/11/26 22/11/26
+    "fabinhogatinho1" -- soueufabio_04140 15/11/26 22/11/26
 }
