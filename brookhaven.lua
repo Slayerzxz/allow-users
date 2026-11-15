@@ -91,5 +91,6 @@ return {
     "ufolopo_6", -- felipe0070384 14/11/26 21/11/26
     "DaiqueRecoP", -- arthur222k._79535 14/11/26 21/11/26
     "nicolas_124741", -- n1colasmc_07909 14/11/26 21/11/26
-    "arthurnascimento841" -- arthurm841_12299 14/11/26 21/11/26
+    "arthurnascimento841", -- arthurm841_12299 14/11/26 21/11/26
+    "KrisgreenONE" -- breusgood 14/11/26 21/11/26
 }
