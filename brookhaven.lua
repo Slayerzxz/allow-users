@@ -100,5 +100,6 @@ return {
     "selim_2929229", -- selim00216 15/11/26 22/11/26
     "ardamuhammed446", -- eryaq_88783 15/11/26 22/11/26
     "hanbao666nb", -- aether.0626 15/11/26 22/11/26
-    "wasimarcus" -- buzhidao_43896 15/11/26 22/11/26
+    "wasimarcus", -- buzhidao_43896 15/11/26 22/11/26
+    "duskyframes9" -- mariyamizany 15/11/26 22/11/26
 }
