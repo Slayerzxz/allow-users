@@ -93,5 +93,6 @@ return {
     "nicolas_124741", -- n1colasmc_07909 14/11/26 21/11/26
     "arthurnascimento841", -- arthurm841_12299 14/11/26 21/11/26
     "KrisgreenONE", -- breusgood 14/11/26 21/11/26
-    "Invincible_q" -- lazaro13qe.g 15/11/26 22/11/26
+    "Invincible_q", -- lazaro13qe.g 15/11/26 22/11/26
+    "archivehesgoal" -- mbb12588 15/11/26 22/11/26
 }
