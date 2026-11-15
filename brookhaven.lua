@@ -97,5 +97,6 @@ return {
     "archivehesgoal", -- mbb12588 15/11/26 22/11/26
     "invincible_qv", -- lazat0375_99646 15/11/26 22/11/26
     "iwodlawp", -- yuka91787891 15/11/26 22/11/26
-    "selim_2929229" -- selim00216 15/11/26 22/11/26
+    "selim_2929229", -- selim00216 15/11/26 22/11/26
+    "ardamuhammed446" -- eryaq_88783 15/11/26 22/11/26
 }
