@@ -104,5 +104,6 @@ return {
     "duskyframes9", -- mariyamizany 15/11/26 22/11/26
     "garama_1023", -- noxy_1122_00735 15/11/26 22/11/26
     "KINGZIN100209", -- fh244ln 15/11/26 22/11/26
-    "davi_trescapadeitei" -- zen_dragon0711 15/11/26 22/11/26
+    "davi_trescapadeitei", -- zen_dragon0711 15/11/26 22/11/26
+    "heitorss405" -- heeur 15/11/26 22/11/26
 }
