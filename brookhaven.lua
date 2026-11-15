@@ -110,5 +110,6 @@ return {
     "dark_111897", -- wellixgt_zx. 15/11/26 22/11/26
     "Pico3006", -- Aranha 15/11/26 02/04/54
     "Pedro_1Blox1", -- isagyoshi 15/11/26 22/11/26
-    "Google_davi" -- kaio025933 15/11/26 22/11/26
+    "Google_davi", -- kaio025933 15/11/26 22/11/26
+    "DEUSHAKER235" -- cofeeestudiom3 15/11/26 22/11/26
 }
