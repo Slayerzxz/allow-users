@@ -88,5 +88,6 @@ return {
     "jubileubarraCROMATIC", -- bete777 14/11/26 21/11/26
     "PVZGOOD5", -- elnegroblox_45150 14/11/26 21/11/26
     "big_soriso", -- miguel77w7._45324 14/11/26 21/11/26
-    "ufolopo_6" -- felipe0070384 14/11/26 21/11/26
+    "ufolopo_6", -- felipe0070384 14/11/26 21/11/26
+    "DaiqueRecoP" -- arthur222k._79535 14/11/26 21/11/26
 }
