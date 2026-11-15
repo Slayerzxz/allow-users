@@ -108,5 +108,6 @@ return {
     "heitorss405", -- heeur 15/11/26 22/11/26
     "EliteFroster", -- 0ds.br 15/11/26 22/11/26
     "dark_111897", -- wellixgt_zx. 15/11/26 22/11/26
-    "Pico3006" -- Aranha 15/11/26 02/04/54
+    "Pico3006", -- Aranha 15/11/26 02/04/54
+    "Pedro_1Blox1" -- isagyoshi 15/11/26 22/11/26
 }
