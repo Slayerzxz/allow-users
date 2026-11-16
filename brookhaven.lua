@@ -108,5 +108,6 @@ return {
     "RICOzica244P", -- whzx777 15/11/26 22/11/26
     "fabinhogatinho1", -- soueufabio_04140 15/11/26 22/11/26
     "vitinhoxsd", -- choralixo71 15/11/26 22/11/26
-    "1MATHEUS1t" -- gusta017660 16/11/26 23/11/26
+    "1MATHEUS1t", -- gusta017660 16/11/26 23/11/26
+    "Rickprotaku" -- akdjiwk_35274 16/11/26 23/11/26
 }
