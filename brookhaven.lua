@@ -111,5 +111,6 @@ return {
     "1MATHEUS1t", -- gusta017660 16/11/26 23/11/26
     "Rickprotaku", -- akdjiwk_35274 16/11/26 23/11/26
     "quero", -- neymar000342 16/11/26 23/11/26
-    "Teni_rb9" -- stenio4321_65898 16/11/26 23/11/26
+    "Teni_rb9", -- stenio4321_65898 16/11/26 23/11/26
+    "miguuellkk99" -- joaomiguel8894436 16/11/26 23/11/26
 }
