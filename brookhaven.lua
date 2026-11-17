@@ -114,5 +114,6 @@ return {
     "Teni_rb9", -- stenio4321_65898 16/11/26 23/11/26
     "miguuellkk99", -- joaomiguel8894436 16/11/26 23/11/26
     "Bota", -- milo074040 16/11/26 23/11/26
-    "AmberCalderon8870" -- minato123kk 16/11/26 23/11/26
+    "AmberCalderon8870", -- minato123kk 16/11/26 23/11/26
+    "BielSombrio64" -- zrael._ 16/11/26 23/11/26
 }
