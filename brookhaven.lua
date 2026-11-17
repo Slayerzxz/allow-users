@@ -117,5 +117,6 @@ return {
     "AmberCalderon8870", -- minato123kk 16/11/26 23/11/26
     "BielSombrio64", -- zrael._ 16/11/26 23/11/26
     "jn_souzax", -- jn.souz 16/11/26 23/11/26
-    "pedrinho260henrique" -- pedrollkz 16/11/26 23/11/26
+    "pedrinho260henrique", -- pedrollkz 16/11/26 23/11/26
+    "amigo_qteama" -- coquettehub. 16/11/26 23/11/26
 }
