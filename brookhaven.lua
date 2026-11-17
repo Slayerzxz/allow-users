@@ -123,5 +123,6 @@ return {
     "NoobDeElite04", -- brayanbn0658 17/11/26 24/11/26
     "kmkki", -- ddmakakwjrj 17/11/26 24/11/26
     "Miguel_17603", -- ggtty0911 17/11/26 24/11/26
-    "Eo_OfoX" -- maria_criarj 17/11/26 24/11/26
+    "Eo_OfoX", -- maria_criarj 17/11/26 24/11/26
+    "YolandaAlvarado9441" -- sadxff0632_93515 17/11/26 24/11/26
 }
