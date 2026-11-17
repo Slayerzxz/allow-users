@@ -120,5 +120,6 @@ return {
     "pedrinho260henrique", -- pedrollkz 16/11/26 23/11/26
     "amigo_qteama", -- Japonesa? 16/11/26 23/11/26
     "webdieguinho2", -- santzx08_ 17/11/26 24/11/26
-    "NoobDeElite04" -- brayanbn0658 17/11/26 24/11/26
+    "NoobDeElite04", -- brayanbn0658 17/11/26 24/11/26
+    "kmkki" -- ddmakakwjrj 17/11/26 24/11/26
 }
