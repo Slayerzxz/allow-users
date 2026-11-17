@@ -118,5 +118,6 @@ return {
     "BielSombrio64", -- zrael._ 16/11/26 23/11/26
     "jn_souzax", -- jn.souz 16/11/26 23/11/26
     "pedrinho260henrique", -- pedrollkz 16/11/26 23/11/26
-    "amigo_qteama" -- Japonesa? 16/11/26 23/11/26
+    "amigo_qteama", -- Japonesa? 16/11/26 23/11/26
+    "webdieguinho2" -- santzx08_ 17/11/26 24/11/26
 }
