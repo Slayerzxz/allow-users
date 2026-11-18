@@ -125,5 +125,6 @@ return {
     "Miguel_17603", -- ggtty0911 17/11/26 24/11/26
     "Eo_OfoX", -- maria_criarj 17/11/26 24/11/26
     "YolandaAlvarado9441", -- sadxff0632_93515 17/11/26 24/11/26
-    "Aleenzo1009" -- enzo330870 17/11/26 24/11/26
+    "Aleenzo1009", -- enzo330870 17/11/26 24/11/26
+    "samuel028845" -- xitvip5oma 17/11/26 24/11/26
 }
