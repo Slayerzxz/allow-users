@@ -134,5 +134,6 @@ return {
     "CEIFADOR_680", -- 04alex_ 18/11/26 25/11/26
     "V7mp_Aykiu", -- zdarkzinxy 18/11/26 25/11/26
     "bobaxkah", -- alifffzzzz. 18/11/26 25/11/26
-    "MarceloM883" -- 999miguel_41467 18/11/26 25/11/26
+    "MarceloM883", -- 999miguel_41467 18/11/26 25/11/26
+    "leonildolk55" -- leonildogomes_ 18/11/26 25/11/26
 }
