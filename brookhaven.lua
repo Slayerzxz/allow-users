@@ -128,5 +128,6 @@ return {
     "Aleenzo1009", -- enzo330870 17/11/26 24/11/26
     "samuel028845", -- xitvip5oma 17/11/26 24/11/26
     "luizggdinojk", -- luizggnjr 17/11/26 24/11/26
-    "DerbyCoach5874" -- samue00839b 17/11/26 24/11/26
+    "DerbyCoach5874", -- samue00839b 17/11/26 24/11/26
+    "samuel8w88ej" -- samuel047136 17/11/26 24/11/26
 }
