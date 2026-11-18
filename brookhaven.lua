@@ -132,5 +132,6 @@ return {
     "samuel8w88ej", -- samuel047136 17/11/26 24/11/26
     "Wb_Vampknit", -- nyx_z2 17/11/26 24/11/26
     "CEIFADOR_680", -- 04alex_ 18/11/26 25/11/26
-    "V7mp_Aykiu" -- zdarkzinxy 18/11/26 25/11/26
+    "V7mp_Aykiu", -- zdarkzinxy 18/11/26 25/11/26
+    "bobaxkah" -- alifffzzzz. 18/11/26 25/11/26
 }
