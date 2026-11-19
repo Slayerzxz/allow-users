@@ -137,5 +137,6 @@ return {
     "MarceloM883", -- 999miguel_41467 18/11/26 25/11/26
     "leonildolk55", -- leonildogomes_ 18/11/26 25/11/26
     "mari_mariamaa", -- joaoexe77 18/11/26 05/04/54
-    "orpaaaannn" -- yuda_yapping_55894 18/11/26 25/11/26
+    "orpaaaannn", -- yuda_yapping_55894 18/11/26 25/11/26
+    "YellowBloxOfc1" -- velky_testes 18/11/26 25/11/26
 }
