@@ -139,5 +139,6 @@ return {
     "orpaaaannn", -- yuda_yapping_55894 18/11/26 25/11/26
     "YellowBloxOfc1", -- velky_testes 18/11/26 25/11/26
     "XxKing_NerusxX", -- sla05839 18/11/26 25/11/26
-    "Heitor_rtx173" -- makamur_a 18/11/26 25/11/26
+    "Heitor_rtx173", -- makamur_a 18/11/26 25/11/26
+    "juniofabio06" -- joaomiguel066231 19/11/26 26/11/26
 }
