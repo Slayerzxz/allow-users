@@ -18,7 +18,6 @@ return {
     "joaoking667", -- joaoexe66 29/09/26 25/06/29
     "Keel_m5", -- ? 20/09/26 16/06/29
     "lylsgky", -- Cabelo 20/09/26 05/02/54
-    "Evanex94", -- Ｗｋｉｌｌｅｒ 25/09/26 24/11/26
     "Agatha052002", -- Cabelu 28/09/26 19/03/32
     "XxCircuitCha0sxX96", -- Allan6767 29/09/26 14/02/54
     "desconhecido01834", -- Jp 02/10/26 20/03/29
@@ -61,85 +60,9 @@ return {
     "matheus_itz00", -- 𝑻𝒔𝒖𝒌𝒊¹⁷ 07/11/26 03/08/29 Mod Tsuki¹⁷
     "kawazaki2812", -- KAIOR MENINO DE PROGRAMA 07/11/26 24/03/54 Kaio Moderator
     "DOMINGOS4440", -- 𝙳𝙾𝙽𝙾 𝙳𝙰 𝙵𝙻𝙰𝚂𝙷𝙾 13/11/26 31/03/54 CLAUDINHXZ ADM
-    "Akemi_158m", -- ninguem037074 13/11/26 20/11/26
-    "VinDrayy", -- vinndrayy 13/11/26 20/11/26
-    "Gabrielzini49", -- gabriel.64868 13/11/26 20/11/26
-    "Atoms1kenadam31", -- yuzarsif0380_61635 13/11/26 20/11/26
-    "eron_bey", -- rickprimec131_ 13/11/26 20/11/26
     "Avynerjuan2012", -- Avyner 13/11/26 31/03/54
-    "hdjdhdhurhrjtl", -- mmbielzinn_57275 14/11/26 21/11/26
-    "aAntonio098777", -- antonio098777 14/11/26 21/11/26
-    "Miqueiaspp12", -- miqueiaslkk_88287 14/11/26 21/11/26
-    "pietrothalyson80", -- pietrox0124 14/11/26 21/11/26
-    "Eo_Sid6", -- rtzin_edits.xxx 14/11/26 21/11/26
-    "realmente_468", -- engel980 14/11/26 21/11/26
-    "helolarius", -- heloisaamamichael 14/11/26 21/11/26
-    "iovjniciusooo", -- vinii15_19906 14/11/26 21/11/26
-    "huzako7", -- rlksousax7_ 14/11/26 21/11/26
-    "jubileubarraCROMATIC", -- bete777 14/11/26 21/11/26
-    "PVZGOOD5", -- elnegroblox_45150 14/11/26 21/11/26
-    "big_soriso", -- miguel77w7._45324 14/11/26 21/11/26
-    "ufolopo_6", -- felipe0070384 14/11/26 21/11/26
-    "DaiqueRecoP", -- arthur222k._79535 14/11/26 21/11/26
-    "nicolas_124741", -- n1colasmc_07909 14/11/26 21/11/26
-    "arthurnascimento841", -- arthurm841_12299 14/11/26 21/11/26
-    "KrisgreenONE", -- breusgood 14/11/26 21/11/26
-    "Invincible_q", -- lazaro13qe.g 15/11/26 22/11/26
-    "archivehesgoal", -- mbb12588 15/11/26 22/11/26
-    "invincible_qv", -- lazat0375_99646 15/11/26 22/11/26
-    "iwodlawp", -- yuka91787891 15/11/26 22/11/26
-    "selim_2929229", -- selim00216 15/11/26 22/11/26
-    "ardamuhammed446", -- eryaq_88783 15/11/26 22/11/26
-    "hanbao666nb", -- aether.0626 15/11/26 22/11/26
-    "wasimarcus", -- buzhidao_43896 15/11/26 22/11/26
-    "duskyframes9", -- mariyamizany 15/11/26 22/11/26
-    "garama_1023", -- noxy_1122_00735 15/11/26 22/11/26
-    "KINGZIN100209", -- fh244ln 15/11/26 22/11/26
-    "davi_trescapadeitei", -- zen_dragon0711 15/11/26 22/11/26
-    "heitorss405", -- heeur 15/11/26 22/11/26
-    "EliteFroster", -- 0ds.br 15/11/26 22/11/26
-    "dark_111897", -- wellixgt_zx. 15/11/26 22/11/26
     "Pico3006", -- Aranha 15/11/26 02/04/54
-    "Pedro_1Blox1", -- isagyoshi 15/11/26 22/11/26
-    "Google_davi", -- kaio025933 15/11/26 22/11/26
-    "DEUSHAKER235", -- cofeeestudiom3 15/11/26 22/11/26
-    "Gabriells796", -- mrscript0940 15/11/26 22/11/26
-    "RICOzica244P", -- whzx777 15/11/26 22/11/26
-    "fabinhogatinho1", -- soueufabio_04140 15/11/26 22/11/26
-    "vitinhoxsd", -- choralixo71 15/11/26 22/11/26
-    "1MATHEUS1t", -- gusta017660 16/11/26 23/11/26
-    "Rickprotaku", -- akdjiwk_35274 16/11/26 23/11/26
-    "quero", -- neymar000342 16/11/26 23/11/26
-    "Teni_rb9", -- stenio4321_65898 16/11/26 23/11/26
-    "miguuellkk99", -- joaomiguel8894436 16/11/26 23/11/26
-    "Bota", -- milo074040 16/11/26 23/11/26
-    "AmberCalderon8870", -- minato123kk 16/11/26 23/11/26
-    "BielSombrio64", -- zrael._ 16/11/26 23/11/26
-    "jn_souzax", -- jn.souz 16/11/26 23/11/26
-    "pedrinho260henrique", -- pedrollkz 16/11/26 23/11/26
-    "amigo_qteama", -- Japonesa? 16/11/26 23/11/26
-    "webdieguinho2", -- santzx08_ 17/11/26 24/11/26
-    "NoobDeElite04", -- brayanbn0658 17/11/26 24/11/26
-    "kmkki", -- ddmakakwjrj 17/11/26 24/11/26
-    "Miguel_17603", -- ggtty0911 17/11/26 24/11/26
-    "Eo_OfoX", -- maria_criarj 17/11/26 24/11/26
-    "YolandaAlvarado9441", -- sadxff0632_93515 17/11/26 24/11/26
-    "Aleenzo1009", -- enzo330870 17/11/26 24/11/26
-    "samuel028845", -- xitvip5oma 17/11/26 24/11/26
-    "luizggdinojk", -- luizggnjr 17/11/26 24/11/26
-    "DerbyCoach5874", -- samue00839b 17/11/26 24/11/26
-    "samuel8w88ej", -- samuel047136 17/11/26 24/11/26
-    "Wb_Vampknit", -- nyx_z2 17/11/26 24/11/26
-    "CEIFADOR_680", -- 04alex_ 18/11/26 25/11/26
-    "V7mp_Aykiu", -- zdarkzinxy 18/11/26 25/11/26
-    "bobaxkah", -- alifffzzzz. 18/11/26 25/11/26
-    "MarceloM883", -- 999miguel_41467 18/11/26 25/11/26
-    "leonildolk55", -- leonildogomes_ 18/11/26 25/11/26
     "mari_mariamaa", -- joaoexe77 18/11/26 05/04/54
-    "orpaaaannn", -- yuda_yapping_55894 18/11/26 25/11/26
-    "YellowBloxOfc1", -- velky_testes 18/11/26 25/11/26
-    "XxKing_NerusxX", -- sla05839 18/11/26 25/11/26
-    "Heitor_rtx173", -- makamur_a 18/11/26 25/11/26
     "Nik4_iy", -- energetic_flamingo_32124 24/11/26 24/12/26
     "juniofabio06" -- joaomiguel066231 19/11/26 26/11/26
 }
