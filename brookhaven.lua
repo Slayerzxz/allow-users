@@ -64,7 +64,6 @@ return {
     "Pico3006", -- Aranha 15/11/26 02/04/54
     "mari_mariamaa", -- joaoexe77 18/11/26 05/04/54
     "Nik4_iy", -- energetic_flamingo_32124 24/11/26 24/12/26
-    "juniofabio06", -- joaomiguel066231 19/11/26 26/11/26
     "111", -- localhost4 25/11/26 02/12/26
     "kauaenay", -- kaue082039 25/11/26 02/12/26
     "Joaoking887" -- joaoexe66 26/11/26 13/04/54
