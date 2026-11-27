@@ -67,5 +67,6 @@ return {
     "111", -- localhost4 25/11/26 02/12/26
     "kauaenay", -- kaue082039 25/11/26 02/12/26
     "Joaoking887", -- joaoexe66 26/11/26 13/04/54
-    "Apenas_eu362" -- Ticket King 27/11/26 23/08/29 farma aura
+    "Apenas_eu362", -- Ticket King 27/11/26 23/08/29 farma aura
+    "Manu451854" -- Mayara01 27/11/26 14/04/54
 }
