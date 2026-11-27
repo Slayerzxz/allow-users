@@ -66,5 +66,6 @@ return {
     "Nik4_iy", -- energetic_flamingo_32124 24/11/26 24/12/26
     "111", -- localhost4 25/11/26 02/12/26
     "kauaenay", -- kaue082039 25/11/26 02/12/26
-    "Joaoking887" -- joaoexe66 26/11/26 13/04/54
+    "Joaoking887", -- joaoexe66 26/11/26 13/04/54
+    "Apenas_eu362" -- Ticket King 27/11/26 23/08/29 farma aura
 }
