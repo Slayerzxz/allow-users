@@ -68,5 +68,6 @@ return {
     "kauaenay", -- kaue082039 25/11/26 02/12/26
     "Joaoking887", -- joaoexe66 26/11/26 13/04/54
     "Apenas_eu362", -- Ticket King 27/11/26 23/08/29 farma aura
-    "Manu451854" -- Mayara01 27/11/26 14/04/54
+    "Manu451854", -- Mayara01 27/11/26 14/04/54
+    "MONOBOL_PRIME" -- magrinkk_12 27/11/26 04/12/26
 }
